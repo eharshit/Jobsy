@@ -6,10 +6,6 @@ This job repository is your go-to resource for discovering and sharing the lates
 
 ---
 
-## 🎯 Land your dream job with Opdrop — your personal AI career co-pilot 🎯
-
----
-
 ## Daily Job List 🌐 📊 🏆
 
 | Company | Job Title | Location | Work Model | Date Posted |
@@ -63,17 +59,17 @@ This job repository is your go-to resource for discovering and sharing the lates
 ## 📈 Job Market Insights
 
 - **Total Positions Scraped**: 42
-- **Last Updated**: June 20, 2025 at 10:15 PM
-- **Next Update**: June 21, 2025 at 10:15 PM
+- **Last Updated**: June 20, 2025 at 10:18 PM
+- **Next Update**: June 21, 2025 at 10:18 PM
 
 ---
 
 ## 🚀 About Opdrop
 
 Opdrop is an automated internship discovery and publishing platform that:
-- 🔍 Scrapes fresh internship listings daily
+- 🔍 Scrapes fresh internship listings daily  
 - 📝 Formats them into professional, readable tables  
-- 🔄 Auto-updates via GitHub Actions
+- 🔄 Auto-updates via GitHub Actions  
 - 📱 Sends notifications via Telegram (optional)
 
 **Built with 💻 by eharshit** — powered by Python, GitHub API, and automation magic ✨
