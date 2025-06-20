@@ -2,7 +2,7 @@
 
 This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: Data Analysis.
 
-✅ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+This repository is powered by **Opdrop** — your automated source for the latest and most relevant internship listings in Data Analysis and related fields. We continuously scrape and update listings to help you land great opportunities without the hassle.
 
 ---
 
@@ -65,8 +65,8 @@ This job repository is your go-to resource for discovering and sharing the lates
 ## 📈 Job Market Insights
 
 - **Total Positions Scraped**: 42
-- **Last Updated**: June 20, 2025 at 09:45 PM
-- **Next Update**: June 21, 2025 at 09:45 PM
+- **Last Updated**: June 20, 2025 at 09:49 PM
+- **Next Update**: June 21, 2025 at 09:49 PM
 
 ---
 
