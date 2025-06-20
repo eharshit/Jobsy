@@ -1,8 +1,14 @@
-# 🧠 Daily Intern Jobs in Data Analysis by **Opdrop.ai**
+# Daily Intern Jobs in Data Analysis by Opdrop.ai
 
-This job repository is your go-to resource for discovering and sharing the latest internship opportunities in **Data Analysis** and related fields.
+This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: Data Analysis.
 
-🚀 **Powered by Opdrop** — your automated AI-driven platform that scrapes, formats, and publishes the most relevant internship listings daily. Whether you're looking for data analysis, business analytics, or Python-based roles, we’ve got you covered with curated, real-time listings.
+This repository is powered by **Opdrop** — your automated source for the latest and most relevant internship listings in Data Analysis and related fields. We continuously scrape and update listings to help you land great opportunities without the hassle.
+
+---
+
+## 🎯 Land your dream jobs with a seasoned AI career co-pilot 🎯
+
+![Jobright Logo](https://raw.githubusercontent.com/eharshit/opdrop/main/static/jobright-logo.png)
 
 ---
 
@@ -60,17 +66,17 @@ This job repository is your go-to resource for discovering and sharing the lates
 ## 📈 Job Market Insights
 
 - **Total Positions Scraped**: 43
-- **Last Updated**: June 21, 2025 at 01:32 AM
-- **Next Update**: June 22, 2025 at 01:32 AM
+- **Last Updated**: June 21, 2025 at 01:41 AM
+- **Next Update**: June 22, 2025 at 01:41 AM
 
 ---
 
 ## 🚀 About Opdrop
 
 Opdrop is an automated internship discovery and publishing platform that:
-- 🔍 Scrapes fresh internship listings daily  
+- 🔍 Scrapes fresh internship listings daily
 - 📝 Formats them into professional, readable tables  
-- 🔄 Auto-updates via GitHub Actions  
+- 🔄 Auto-updates via GitHub Actions
 - 📱 Sends notifications via Telegram (optional)
 
 **Built with 💻 by eharshit** — powered by Python, GitHub API, and automation magic ✨
