@@ -1,14 +1,12 @@
-# Daily Intern Jobs in Data Analysis by Opdrop.ai
+# 🧠 Daily Intern Jobs in Data Analysis by **Opdrop.ai**
 
-This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: Data Analysis.
+This job repository is your go-to resource for discovering and sharing the latest internship opportunities in **Data Analysis** and related fields.
 
-This repository is powered by **Opdrop** — your automated source for the latest and most relevant internship listings in Data Analysis and related fields. We continuously scrape and update listings to help you land great opportunities without the hassle.
+🚀 **Powered by Opdrop** — your automated AI-driven platform that scrapes, formats, and publishes the most relevant internship listings daily. Whether you're looking for data analysis, business analytics, or Python-based roles, we’ve got you covered with curated, real-time listings.
 
 ---
 
-## 🎯 Land your dream jobs with a seasoned AI career co-pilot 🎯
-
-![Jobright Logo](https://raw.githubusercontent.com/eharshit/opdrop/main/static/jobright-logo.png)
+## 🎯 Land your dream job with Opdrop — your personal AI career co-pilot 🎯
 
 ---
 
@@ -65,8 +63,8 @@ This repository is powered by **Opdrop** — your automated source for the lates
 ## 📈 Job Market Insights
 
 - **Total Positions Scraped**: 42
-- **Last Updated**: June 20, 2025 at 10:09 PM
-- **Next Update**: June 21, 2025 at 10:09 PM
+- **Last Updated**: June 20, 2025 at 10:13 PM
+- **Next Update**: June 21, 2025 at 10:13 PM
 
 ---
 
