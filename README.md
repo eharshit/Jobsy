@@ -55,3 +55,7 @@ Jobs listed here were posted within the last 3 days.
 | 🏢 Advanon | [SOFTWARE ENGINEERING INTERNSHIP](https://remoteok.com/remote-jobs/7763-remote-software-engineering-internship-advanon) | 📍 Remote | 🏠 Remote | 📅 Jun 21 |
 | 🏢 Phidato | [Software Developer Internship](https://remoteok.com/remote-jobs/6881-remote-software-developer-internship-phidato) | 📍 Remote | 🏠 Remote | 📅 Jun 21 |
 | 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Jun 21 |
+| 🏢 Graps Marketing Pvt Ltd | [Data Analytics](https://internshala.com/internship/detail/data-analytics-internship-in-bhopal-at-graps-marketing-pvt-ltd1750491197) | 📍 Bhopal | On Site | 📅 Jun 21 |
+| 🏢 DevTown | [Data Science Mentor](https://internshala.com/internship/detail/work-from-home-part-time-data-science-mentor-internship-at-devtown1750493846) | 📍 Work from home | On Site | 📅 Jun 21 |
+| 🏢 DeepNexus.in | [AI/Prompt Engineer](https://internshala.com/internship/detail/work-from-home-ai-prompt-engineer-internship-at-deepnexusin1750488429) | 📍 Work from home | On Site | 📅 Jun 21 |
+| 🏢 Emoolar Technology Private Limited | [Data Science](https://internshala.com/internship/detail/work-from-home-part-time-data-science-internship-at-emoolar-technology-private-limited1750479140) | 📍 Work from home | On Site | 📅 Jun 21 |
