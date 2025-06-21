@@ -44,3 +44,6 @@
 | Social Learning | [React Native Developer](https://remoteok.com/remote-jobs/15467-remote-react-native-developer-social-learning) | Remote | Remote | Jun 21 |
 | SMTP | [Back End Developer](https://remoteok.com/remote-jobs/12866-remote-back-end-developer-smtp) | Remote | Remote | Jun 21 |
 | Creatella | [JQM PhoneGap Mobile app developer](https://remoteok.com/remote-jobs/10539-remote-jqm-phonegap-mobile-app-developer-creatella) | Remote | Remote | Jun 21 |
+| Advanon | [SOFTWARE ENGINEERING INTERNSHIP](https://remoteok.com/remote-jobs/7763-remote-software-engineering-internship-advanon) | Remote | Remote | Jun 21 |
+| Phidato | [Software Developer Internship](https://remoteok.com/remote-jobs/6881-remote-software-developer-internship-phidato) | Remote | Remote | Jun 21 |
+| The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | Remote | Remote | Jun 21 |
