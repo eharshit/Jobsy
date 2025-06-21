@@ -1,8 +1,8 @@
 # 🧑‍💻 Tech Internships (Last 3 Days)
 
-Curated daily by [Opdrop](https://github.com/harshhpareek/opdrop) 🚀 — your open-source internship finder.
+Curated daily by [Opdrop](https://github.com/eharshit/opdrop) 🚀 — your open-source internship finder.
 
-Created with ❤️ by [@harshhpareek](https://github.com/harshhpareek)
+Created with ❤️ by [@eharshit](https://github.com/eharshit)
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |---------|-----------|----------|------------|-------------|
