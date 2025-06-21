@@ -1,8 +1,22 @@
-# 🧑‍💻 Tech Internships (Last 3 Days)
+# 🧠 Daily Intern Jobs in Data Analysis by **Opdrop.ai**
 
-Curated daily by [Opdrop](https://github.com/eharshit/opdrop) 🚀 — your open-source internship finder.
+This job repository is your go-to resource for discovering and sharing the latest internships opportunities in: Data Analysis.
 
-Created with ❤️ by [@eharshit](https://github.com/eharshit)
+✔️ While this repository includes a fraction of available intern positions, for a comprehensive list of intern jobs across various roles and more regions, we invite you to explore [opdrop.ai](https://github.com/eharshit/opdrop). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
+
+👇 Land your dream jobs with a seasoned AI career co-pilot 👇
+
+https://opdrop.ai
+
+Opdrop is your personal AI career assistant — transforming your job search from solo, time-consuming efforts to a co-piloted journey with a seasoned AI assistant at the helm.
+
+Feedback? Questions? Reach out at [support@opdrop.ai](mailto:support@opdrop.ai) to help us enhance this list. ❤️
+
+Only jobs posted in the last 7 days are listed due to capacity constraints.
+
+---
+
+## 🌐 Daily Job List 🧭 🏆
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |---------|-----------|----------|------------|-------------|
