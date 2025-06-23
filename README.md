@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** June 23, 2025
-**Total Listings:** 108
+**Total Listings:** 110
 
 ## 📊 Quick Stats
 
-- **108** total opportunities
-- **93** unique companies
+- **110** total opportunities
+- **95** unique companies
 - **33** different locations
 
 ---
@@ -94,6 +94,8 @@
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jun 23 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jun 23 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jun 23 |
+| 🏢 Ishita Vasa | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-anchor-ishita-vasa1749473350) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jun 23 |
+| 🏢 Ergosphere Solution Pvt Ltd. | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-ergosphere-solution-pvt-ltd1750653871) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 Ethical Den | [Artificial Intelligence (AI)](https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-ethical-den1750417335) | 📍 Kolkata | 💼 On Site | 📅 Jun 22 |
 | 🏢 Orufy Technologies Private Limited | [Graphic Designer Intern](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-orufy-technologies-private-limited1749037663) | 📍 Jaipur | 💼 On Site | 📅 Jun 22 |
 | 🏢 Orufy Technologies Private Limited | [WordPress Development](https://internshala.com/internship/detail/wordpress-development-internship-in-multiple-locations-at-orufy-technologies-private-limited1749626907) | 📍 Jaipur, Rajasthan | 💼 On Site | 📅 Jun 22 |
@@ -132,4 +134,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-23 02:03 UTC*
+*Powered by Opdrop | Last update: 2025-06-23 06:36 UTC*
