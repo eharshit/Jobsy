@@ -1,4 +1,6 @@
-# 🧑‍💻 Daily Tech Internships by Opdrop
+# Header and introduction
+    readme_content = """# 🚀 Opdrop: AI-Powered Internship Aggregator
+# 🧑‍💻 Daily Tech Internships
 
 > Your daily source for the latest internship opportunities in tech.
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
