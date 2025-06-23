@@ -41,6 +41,7 @@
 | 🏢 Graps Marketing Pvt Ltd | [Data Analytics](https://internshala.com/internship/detail/data-analytics-internship-in-bhopal-at-graps-marketing-pvt-ltd1750491197) | 📍 Bhopal | 💼 On Site | 📅 Jun 23 |
 | 🏢 DevTown | [Data Science Mentor](https://internshala.com/internship/detail/work-from-home-part-time-data-science-mentor-internship-at-devtown1750493846) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 Optimspace | [Machine Learning](https://internshala.com/internship/detail/work-from-home-part-time-machine-learning-internship-at-optimspace1750564546) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
+| 🏢 Naiplus Solution Private Limited | [Video Content Creator](https://internshala.com/internship/detail/part-time-video-content-creator-internship-in-ahmedabad-at-naiplus-solution-private-limited1749629181) | 📍 Ahmedabad                                                                (Hybrid) | 💼 On Site | 📅 Jun 23 |
 | 🏢 Across The Globe (ATG) | [Artificial Intelligence (AI)](https://internshala.com/internship/detail/work-from-home-artificial-intelligence-ai-internship-at-across-the-globe-atg1750503551) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 Hamari Pahchan NGO | [Swaraj Fellowship & Social Entrepreneurship](https://internshala.com/internship/detail/work-from-home-part-time-swaraj-fellowship-social-entrepreneurship-internship-at-hamari-pahchan-ngo1750154956) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 Trivy Technologies Private Limited | [AI/ML](https://internshala.com/internship/detail/work-from-home-ai-ml-internship-at-trivy-technologies-private-limited1749445925) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
@@ -95,7 +96,7 @@
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jun 23 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jun 23 |
 | 🏢 Ishita Vasa | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-anchor-ishita-vasa1749473350) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jun 23 |
-| 🏢 Ergosphere Solution Pvt Ltd. | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-ergosphere-solution-pvt-ltd1750653871) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
+| 🏢 Rajdhani Media And Entertainment LLP | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-gurgaon-at-rajdhani-media-and-entertainment-llp1750249174) | 📍 Gurgaon | 💼 On Site | 📅 Jun 23 |
 | 🏢 Ethical Den | [Artificial Intelligence (AI)](https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-ethical-den1750417335) | 📍 Kolkata | 💼 On Site | 📅 Jun 22 |
 | 🏢 Orufy Technologies Private Limited | [Graphic Designer Intern](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-orufy-technologies-private-limited1749037663) | 📍 Jaipur | 💼 On Site | 📅 Jun 22 |
 | 🏢 Orufy Technologies Private Limited | [WordPress Development](https://internshala.com/internship/detail/wordpress-development-internship-in-multiple-locations-at-orufy-technologies-private-limited1749626907) | 📍 Jaipur, Rajasthan | 💼 On Site | 📅 Jun 22 |
@@ -104,7 +105,6 @@
 | 🏢 DeepNexus.in | [Full Stack Development](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-deepnexusin1750489674) | 📍 Work from home | 💼 On Site | 📅 Jun 22 |
 | 🏢 DeepNexus.in | [AI/Prompt Engineer](https://internshala.com/internship/detail/work-from-home-ai-prompt-engineer-internship-at-deepnexusin1750488429) | 📍 Work from home | 💼 On Site | 📅 Jun 22 |
 | 🏢 Emoolar Technology Private Limited | [Data Science](https://internshala.com/internship/detail/work-from-home-part-time-data-science-internship-at-emoolar-technology-private-limited1750479140) | 📍 Work from home | 💼 On Site | 📅 Jun 22 |
-| 🏢 Naiplus Solution Private Limited | [Video Content Creator](https://internshala.com/internship/detail/part-time-video-content-creator-internship-in-ahmedabad-at-naiplus-solution-private-limited1749629181) | 📍 Ahmedabad                                                                (Hybrid) | 💼 On Site | 📅 Jun 22 |
 | 🏢 YES Germany | [Academic Counselor](https://internshala.com/internship/detail/academic-counselor-internship-in-multiple-locations-at-yes-germany1749633613) | 📍 Coimbatore, Kerala Estate, Kochi                                                                (Hybrid) | 💼 On Site | 📅 Jun 22 |
 | 🏢 Primetrade.ai | [Data Science](https://internshala.com/internship/detail/work-from-home-data-science-internship-at-primetradeai1750411499) | 📍 Work from home | 💼 On Site | 📅 Jun 21 |
 | 🏢 Addcomposites Oy | [Web Development](https://internshala.com/internship/detail/work-from-home-web-development-internship-at-addcomposites-oy1750406342) | 📍 Work from home | 💼 On Site | 📅 Jun 21 |
@@ -134,4 +134,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-23 06:36 UTC*
+*Powered by Opdrop | Last update: 2025-06-23 12:51 UTC*
