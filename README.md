@@ -1,5 +1,4 @@
-
-# 🧑‍💻 Daily Tech Internships by opdrop
+# 🧑‍💻 Daily Tech Internships by Opdrop
 
 > Your daily source for the latest internship opportunities in tech.
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
@@ -133,4 +132,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-23 00:35 UTC*
+*Powered by Opdrop | Last update: 2025-06-23 00:52 UTC*
