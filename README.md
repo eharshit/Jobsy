@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** June 24, 2025
-**Total Listings:** 90
+**Total Listings:** 89
 
 ## 📊 Quick Stats
 
-- **90** total opportunities
-- **78** unique companies
-- **27** different locations
+- **89** total opportunities
+- **76** unique companies
+- **26** different locations
 
 ---
 
@@ -65,10 +65,9 @@
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 Ritesh Shah | [Interior Design](https://internshala.com/internship/detail/interior-design-internship-in-mumbai-at-ritesh-shah1750679332) | 📍 Mumbai | 💼 On Site | 📅 Jun 24 |
-| 🏢 Ishita Vasa | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-anchor-ishita-vasa1749473350) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jun 24 |
-| 🏢 Rajdhani Media And Entertainment LLP | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-gurgaon-at-rajdhani-media-and-entertainment-llp1750249174) | 📍 Gurgaon | 💼 On Site | 📅 Jun 24 |
-| 🏢 Sugary | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-sugary1750739921) | 📍 Mumbai | 💼 On Site | 📅 Jun 24 |
+| 🏢 Bright Future Institute Private Limited | [UI/UX Designer](https://internshala.com/internship/detail/work-from-home-ui-ux-designer-internship-at-bright-future-institute-private-limited1750741649) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
+| 🏢 Plugseal Innovation Services Private Limited | [UI/UX Design](https://internshala.com/internship/detail/part-time-ui-ux-design-internship-in-bangalore-at-plugseal-innovation-services-private-limited1750747959) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jun 24 |
+| 🏢 IMS Learning Resources Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-bangalore-at-ims-learning-resources-private-limited1750742945) | 📍 Bangalore | 💼 On Site | 📅 Jun 24 |
 | 🏢 Maxgen Technologies Private Limited | [Data Analyst](https://internshala.com/internship/detail/data-analyst-internship-in-pune-at-maxgen-technologies-private-limited1749142785) | 📍 Pune | 💼 On Site | 📅 Jun 23 |
 | 🏢 Astrotalk | [Data Analyst (Marketing)](https://internshala.com/internship/detail/data-analyst-marketing-internship-in-noida-at-astrotalk1748923511) | 📍 Noida | 💼 On Site | 📅 Jun 23 |
 | 🏢 Indika AI Private Limited | [Financial Data Analyst](https://internshala.com/internship/detail/work-from-home-financial-data-analyst-internship-at-indika-ai-private-limited1748592697) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
@@ -114,4 +113,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-24 06:36 UTC*
+*Powered by Opdrop | Last update: 2025-06-24 12:51 UTC*
