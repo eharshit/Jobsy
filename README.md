@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** June 24, 2025
-**Total Listings:** 88
+**Total Listings:** 90
 
 ## 📊 Quick Stats
 
-- **88** total opportunities
-- **76** unique companies
+- **90** total opportunities
+- **78** unique companies
 - **27** different locations
 
 ---
@@ -19,7 +19,6 @@
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
 | 🏢 Talent Corner HR Services | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-talent-corner-hr-services1750405474) | 📍 Mumbai | 💼 On Site | 📅 Jun 24 |
-| 🏢 Beeyond Tech | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-beeyond-tech1749806739) | 📍 Mumbai | 💼 On Site | 📅 Jun 24 |
 | 🏢 HENNGE K.K | [Software Engineer Internship](https://remoteok.com/remote-jobs/102971-remote-software-engineer-internship-hennge-k-k) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
 | 🏢 Sports AI Startup | [IOS Developer Intern Sparrow](https://remoteok.com/remote-jobs/100690-remote-ios-developer-intern-sparrow-sports-ai-startup) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
 | 🏢 Snowplow Analytics | [Summer Software Engineering Internship](https://remoteok.com/remote-jobs/66244-remote-summer-software-engineering-internship-snowplow-analytics) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
@@ -50,7 +49,6 @@
 | 🏢 Maxgen Technologies Private Limited | [React JS Developer](https://internshala.com/internship/detail/react-js-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1748918907) | 📍 Ahmedabad | 💼 On Site | 📅 Jun 24 |
 | 🏢 Dwebbox | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-mumbai-at-dwebbox1747637816) | 📍 Mumbai | 💼 On Site | 📅 Jun 24 |
 | 🏢 Indika AI Private Limited | [Angular Developer](https://internshala.com/internship/detail/angular-developer-internship-in-delhi-at-indika-ai-private-limited1748156705) | 📍 Delhi | 💼 On Site | 📅 Jun 24 |
-| 🏢 Graps Marketing Pvt Ltd | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-bhopal-at-graps-marketing-pvt-ltd1750488264) | 📍 Bhopal | 💼 On Site | 📅 Jun 24 |
 | 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1748315481) | 📍 Ahmedabad | 💼 On Site | 📅 Jun 24 |
 | 🏢 Physioplus Healthcare | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-physioplus-healthcare1750143985) | 📍 Jaipur | 💼 On Site | 📅 Jun 24 |
 | 🏢 Mr n Mrs Pet | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-mr-n-mrs-pet1750506702) | 📍 Jaipur | 💼 On Site | 📅 Jun 24 |
@@ -67,8 +65,10 @@
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
+| 🏢 Ritesh Shah | [Interior Design](https://internshala.com/internship/detail/interior-design-internship-in-mumbai-at-ritesh-shah1750679332) | 📍 Mumbai | 💼 On Site | 📅 Jun 24 |
 | 🏢 Ishita Vasa | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-anchor-ishita-vasa1749473350) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jun 24 |
 | 🏢 Rajdhani Media And Entertainment LLP | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-gurgaon-at-rajdhani-media-and-entertainment-llp1750249174) | 📍 Gurgaon | 💼 On Site | 📅 Jun 24 |
+| 🏢 Sugary | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-sugary1750739921) | 📍 Mumbai | 💼 On Site | 📅 Jun 24 |
 | 🏢 Maxgen Technologies Private Limited | [Data Analyst](https://internshala.com/internship/detail/data-analyst-internship-in-pune-at-maxgen-technologies-private-limited1749142785) | 📍 Pune | 💼 On Site | 📅 Jun 23 |
 | 🏢 Astrotalk | [Data Analyst (Marketing)](https://internshala.com/internship/detail/data-analyst-marketing-internship-in-noida-at-astrotalk1748923511) | 📍 Noida | 💼 On Site | 📅 Jun 23 |
 | 🏢 Indika AI Private Limited | [Financial Data Analyst](https://internshala.com/internship/detail/work-from-home-financial-data-analyst-internship-at-indika-ai-private-limited1748592697) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
@@ -76,6 +76,7 @@
 | 🏢 Skillboat Technologies Private Limited | [Data Analysis](https://internshala.com/internship/detail/data-analytics-internship-in-ghaziabad-at-skillboat-technologies-private-limited1749460799) | 📍 Ghaziabad | 💼 On Site | 📅 Jun 23 |
 | 🏢 Pianalytix Edutech Private Limted | [Power Bi Data Analyst](https://internshala.com/internship/detail/work-from-home-power-bi-data-analyst-internship-at-pianalytix-edutech-private-limted1750079007) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 Astha Sharma | [Video Editor & Photographer (Female)](https://internshala.com/internship/detail/part-time-video-editor-photographer-female-internship-in-multiple-locations-at-astha-sharma1748331987) | 📍 Delhi, Gurgaon                                                                (Hybrid) | 💼 On Site | 📅 Jun 23 |
+| 🏢 Beeyond Tech | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-beeyond-tech1749806739) | 📍 Mumbai | 💼 On Site | 📅 Jun 23 |
 | 🏢 Basiya Group | [Telecalling](https://internshala.com/internship/detail/telecalling-internship-in-rajkot-at-basiya-group1749126996) | 📍 Rajkot | 💼 On Site | 📅 Jun 23 |
 | 🏢 SkyGrow Ecom Business Management Services | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-mumbai-at-skygrow-ecom-business-management-services1749124790) | 📍 Mumbai, Goregaon Kh | 💼 On Site | 📅 Jun 23 |
 | 🏢 199 Developments Private Limited | [iOS App Development](https://internshala.com/internship/detail/ios-app-development-internship-in-ahmedabad-at-199-developments-private-limited1748423384) | 📍 Ahmedabad | 💼 On Site | 📅 Jun 23 |
@@ -94,6 +95,7 @@
 | 🏢 Tellis Technologies Private Limited | [AI/ML Project Coordination](https://internshala.com/internship/detail/work-from-home-ai-ml-project-coordination-internship-at-tellis-technologies-private-limited1748954536) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 Boss Naari | [Digital Marketing](https://internshala.com/internship/detail/digital-marketing-internship-in-pune-at-boss-naari1749719898) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Jun 23 |
 | 🏢 Go Stops | [Illustration/Graphic Design](https://internshala.com/internship/detail/illustration-graphic-design-internship-in-delhi-at-go-stops1749558112) | 📍 Delhi | 💼 On Site | 📅 Jun 23 |
+| 🏢 Graps Marketing Pvt Ltd | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-bhopal-at-graps-marketing-pvt-ltd1750488264) | 📍 Bhopal | 💼 On Site | 📅 Jun 23 |
 | 🏢 First Contact | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-first-contact1750532506) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 DeepNexus.in | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-deepnexusin1750489768) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 Brihat Infotech Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-brihat-infotech-private-limited1750481617) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
@@ -112,4 +114,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-24 01:57 UTC*
+*Powered by Opdrop | Last update: 2025-06-24 06:36 UTC*
