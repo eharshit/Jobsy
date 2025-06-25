@@ -58,14 +58,13 @@
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Jun 25 |
 | 🏢 Cloud Express Solutions Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-cloud-express-solutions-private-limited1746594912) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
 | 🏢 Thomas Cook | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-thomas-cook1750406572) | 📍 Mumbai, E | 💼 On Site | 📅 Jun 25 |
-| 🏢 Times Internet | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-gurgaon-at-times-internet1748430944) | 📍 Gurgaon                                                                (Hybrid) | 💼 On Site | 📅 Jun 25 |
 | 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
 | 🏢 DigiPlus IT | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-digiplus-it1750829747) | 📍 Mumbai | 💼 On Site | 📅 Jun 25 |
 | 🏢 Ishita Vasa | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-anchor-ishita-vasa1749473350) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jun 25 |
-| 🏢 NummStudio | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-nummstudio1750826835) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 Hublle.io | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-hublleio1750829826) | 📍 Jaipur | 💼 On Site | 📅 Jun 25 |
 | 🏢 Maxgen Technologies Private Limited | [Data Analyst](https://internshala.com/internship/detail/data-analyst-internship-in-pune-at-maxgen-technologies-private-limited1749142785) | 📍 Pune | 💼 On Site | 📅 Jun 23 |
 | 🏢 Astrotalk | [Data Analyst (Marketing)](https://internshala.com/internship/detail/data-analyst-marketing-internship-in-noida-at-astrotalk1748923511) | 📍 Noida | 💼 On Site | 📅 Jun 23 |
 | 🏢 Indika AI Private Limited | [Financial Data Analyst](https://internshala.com/internship/detail/work-from-home-financial-data-analyst-internship-at-indika-ai-private-limited1748592697) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
@@ -95,6 +94,7 @@
 | 🏢 Indika AI Private Limited | [Angular Developer](https://internshala.com/internship/detail/angular-developer-internship-in-delhi-at-indika-ai-private-limited1748156705) | 📍 Delhi | 💼 On Site | 📅 Jun 23 |
 | 🏢 Graps Marketing Pvt Ltd | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-bhopal-at-graps-marketing-pvt-ltd1750488264) | 📍 Bhopal | 💼 On Site | 📅 Jun 23 |
 | 🏢 Imarticus Learning Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-delhi-at-imarticus-learning-private-limited1747296043) | 📍 Delhi | 💼 On Site | 📅 Jun 23 |
+| 🏢 Times Internet | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-gurgaon-at-times-internet1748430944) | 📍 Gurgaon                                                                (Hybrid) | 💼 On Site | 📅 Jun 23 |
 | 🏢 First Contact | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-first-contact1750532506) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 DeepNexus.in | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-deepnexusin1750489768) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 Brihat Infotech Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-brihat-infotech-private-limited1750481617) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
@@ -104,4 +104,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-25 06:35 UTC*
+*Powered by Opdrop | Last update: 2025-06-25 12:51 UTC*
