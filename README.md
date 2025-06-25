@@ -3,14 +3,14 @@
 > Your daily source for the latest internship opportunities in tech.
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
-**Last Updated:** June 24, 2025
-**Total Listings:** 90
+**Last Updated:** June 25, 2025
+**Total Listings:** 81
 
 ## 📊 Quick Stats
 
-- **90** total opportunities
-- **77** unique companies
-- **26** different locations
+- **81** total opportunities
+- **71** unique companies
+- **22** different locations
 
 ---
 
@@ -18,56 +18,56 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
-| 🏢 Talent Corner HR Services | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-talent-corner-hr-services1750405474) | 📍 Mumbai | 💼 On Site | 📅 Jun 24 |
-| 🏢 HENNGE K.K | [Software Engineer Internship](https://remoteok.com/remote-jobs/102971-remote-software-engineer-internship-hennge-k-k) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 Sports AI Startup | [IOS Developer Intern Sparrow](https://remoteok.com/remote-jobs/100690-remote-ios-developer-intern-sparrow-sports-ai-startup) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 Snowplow Analytics | [Summer Software Engineering Internship](https://remoteok.com/remote-jobs/66244-remote-summer-software-engineering-internship-snowplow-analytics) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 DreamLap | [Junior Meteor Developer Intern](https://remoteok.com/remote-jobs/16863-remote-junior-meteor-developer-intern-dreamlap) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 BIWA | [PHP Developer Intern](https://remoteok.com/remote-jobs/15480-remote-php-developer-intern-biwa) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 Advanon | [SOFTWARE ENGINEERING INTERNSHIP](https://remoteok.com/remote-jobs/7763-remote-software-engineering-internship-advanon) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 Phidato | [Software Developer Internship](https://remoteok.com/remote-jobs/6881-remote-software-developer-internship-phidato) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 Naiplus Solution Private Limited | [Video Content Creator](https://internshala.com/internship/detail/part-time-video-content-creator-internship-in-ahmedabad-at-naiplus-solution-private-limited1749629181) | 📍 Ahmedabad                                                                (Hybrid) | 💼 On Site | 📅 Jun 24 |
-| 🏢 Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-pune-at-maxgen-technologies-private-limited1748626002) | 📍 Pune | 💼 On Site | 📅 Jun 24 |
-| 🏢 IDZ Digital Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-mumbai-at-idz-digital-private-limited1749452328) | 📍 Mumbai | 💼 On Site | 📅 Jun 24 |
-| 🏢 Interpret Media | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-interpret-media1747289194) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 CometChat | [Web Developer (React)](https://internshala.com/internship/detail/work-from-home-web-developer-react-internship-at-cometchat1750332340) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 Rayeva World Pvt Ltd | [Full-Stack Web Development (Frontend + Backend) - Tech Intern/ Application Developer](https://internshala.com/internship/detail/work-from-home-part-time-full-stack-web-development-frontend-backend-tech-intern-application-developer-internship-at-sucheta-anchaliya1749127563) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 Newjaisa Technology Private Limited | [Information Technology](https://internshala.com/internship/detail/information-technology-internship-in-bangalore-at-newjaisa-technology-private-limited1748940241) | 📍 Bangalore | 💼 On Site | 📅 Jun 24 |
-| 🏢 Basti Ki Pathshala Foundation | [Mobile App Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-frontend-developer-internship-at-basti-ki-pathshala-foundation1750424164) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 Bezt Labs | [Backend Developer](https://internshala.com/internship/detail/backend-developer-internship-in-bangalore-at-bezt-labs1748321031) | 📍 Bangalore | 💼 On Site | 📅 Jun 24 |
-| 🏢 Singularium Technologies Private Limited | [Backend Developer](https://internshala.com/internship/detail/backend-developer-internship-in-bangalore-at-singularium-technologies-private-limited1748239848) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jun 24 |
-| 🏢 Paisso Technology Private Limited | [Node.js Backend Developer](https://internshala.com/internship/detail/nodejs-backend-developer-internship-in-multiple-locations-at-paisso-technology-private-limited1749640655) | 📍 Chandigarh, Mohali, Sahibzada Ajit Singh Nagar, Punjab, Himachal Pradesh | 💼 On Site | 📅 Jun 24 |
-| 🏢 AIqwip | [Python Backend Developer](https://internshala.com/internship/detail/work-from-home-python-backend-developer-internship-at-aiqwip1748419739) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 Basti Ki Pathshala Foundation | [Mobile App Backend Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-backend-developer-internship-at-basti-ki-pathshala-foundation1750424138) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 TurboSteed | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-turbosteed1748603514) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jun 24 |
-| 🏢 Bditto | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-bditto1748434063) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 AffinityAnswers | [Full Stack AI Engineer - Intern](https://internshala.com/internship/detail/work-from-home-full-stack-ai-engineer-intern-internship-at-affinityanswers1746598990) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 Bright Future Institute Private Limited | [Full Stack Developer (use LLM AI Tools)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-use-llm-ai-tools-internship-at-bright-future-institute-private-limited1750148526) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 Unity Internet Private Limited | [Full Stack Development](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-unity-internet-private-limited1750162015) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 International Institute Of SDGs & Public Policy Research | [React Developer](https://internshala.com/internship/detail/work-from-home-part-time-react-developer-internship-at-international-institute-of-sdgs-public-policy-research1749639191) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 Maxgen Technologies Private Limited | [React JS Developer](https://internshala.com/internship/detail/react-js-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1748918907) | 📍 Ahmedabad | 💼 On Site | 📅 Jun 24 |
-| 🏢 Dwebbox | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-mumbai-at-dwebbox1747637816) | 📍 Mumbai | 💼 On Site | 📅 Jun 24 |
-| 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1748315481) | 📍 Ahmedabad | 💼 On Site | 📅 Jun 24 |
-| 🏢 Physioplus Healthcare | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-physioplus-healthcare1750143985) | 📍 Jaipur | 💼 On Site | 📅 Jun 24 |
-| 🏢 Mr n Mrs Pet | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-mr-n-mrs-pet1750506702) | 📍 Jaipur | 💼 On Site | 📅 Jun 24 |
-| 🏢 Creatiwise | [UI Designer](https://internshala.com/internship/detail/ui-designer-internship-in-multiple-locations-at-creatiwise1748577906) | 📍 Pune, Thane, Mumbai, Maharashtra | 💼 On Site | 📅 Jun 24 |
-| 🏢 Imarticus Learning Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-delhi-at-imarticus-learning-private-limited1747296043) | 📍 Delhi | 💼 On Site | 📅 Jun 24 |
-| 🏢 Eventful India Marketing Services | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-eventful-india-marketing-services1750594548) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 TheBlackJabGroup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-theblackjabgroup1749791249) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 Quantum IT Innovation | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-quantum-it-innovation1748491231) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Jun 24 |
-| 🏢 Cloud Express Solutions Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-cloud-express-solutions-private-limited1746594912) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
-| 🏢 Thomas Cook | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-thomas-cook1750406572) | 📍 Mumbai, E | 💼 On Site | 📅 Jun 24 |
-| 🏢 Times Internet | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-gurgaon-at-times-internet1748430944) | 📍 Gurgaon                                                                (Hybrid) | 💼 On Site | 📅 Jun 24 |
-| 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jun 24 |
-| 🏢 Ishita Vasa | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-anchor-ishita-vasa1749473350) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jun 24 |
-| 🏢 Plugseal Innovation Services Private Limited | [UI/UX Design](https://internshala.com/internship/detail/part-time-ui-ux-design-internship-in-bangalore-at-plugseal-innovation-services-private-limited1750747959) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jun 24 |
-| 🏢 IMS Learning Resources Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-bangalore-at-ims-learning-resources-private-limited1750742945) | 📍 Bangalore | 💼 On Site | 📅 Jun 24 |
-| 🏢 Bright Future Institute Private Limited | [UI/UX Designer](https://internshala.com/internship/detail/work-from-home-ui-ux-designer-internship-at-bright-future-institute-private-limited1750741649) | 📍 Work from home | 💼 On Site | 📅 Jun 24 |
+| 🏢 Talent Corner HR Services | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-talent-corner-hr-services1750405474) | 📍 Mumbai | 💼 On Site | 📅 Jun 25 |
+| 🏢 HENNGE K.K | [Software Engineer Internship](https://remoteok.com/remote-jobs/102971-remote-software-engineer-internship-hennge-k-k) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 Sports AI Startup | [IOS Developer Intern Sparrow](https://remoteok.com/remote-jobs/100690-remote-ios-developer-intern-sparrow-sports-ai-startup) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 Snowplow Analytics | [Summer Software Engineering Internship](https://remoteok.com/remote-jobs/66244-remote-summer-software-engineering-internship-snowplow-analytics) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 DreamLap | [Junior Meteor Developer Intern](https://remoteok.com/remote-jobs/16863-remote-junior-meteor-developer-intern-dreamlap) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 BIWA | [PHP Developer Intern](https://remoteok.com/remote-jobs/15480-remote-php-developer-intern-biwa) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 Advanon | [SOFTWARE ENGINEERING INTERNSHIP](https://remoteok.com/remote-jobs/7763-remote-software-engineering-internship-advanon) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 Phidato | [Software Developer Internship](https://remoteok.com/remote-jobs/6881-remote-software-developer-internship-phidato) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 Naiplus Solution Private Limited | [Video Content Creator](https://internshala.com/internship/detail/part-time-video-content-creator-internship-in-ahmedabad-at-naiplus-solution-private-limited1749629181) | 📍 Ahmedabad                                                                (Hybrid) | 💼 On Site | 📅 Jun 25 |
+| 🏢 Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-pune-at-maxgen-technologies-private-limited1748626002) | 📍 Pune | 💼 On Site | 📅 Jun 25 |
+| 🏢 IDZ Digital Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-mumbai-at-idz-digital-private-limited1749452328) | 📍 Mumbai | 💼 On Site | 📅 Jun 25 |
+| 🏢 Interpret Media | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-interpret-media1747289194) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 CometChat | [Web Developer (React)](https://internshala.com/internship/detail/work-from-home-web-developer-react-internship-at-cometchat1750332340) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 Rayeva World Pvt Ltd | [Full-Stack Web Development (Frontend + Backend) - Tech Intern/ Application Developer](https://internshala.com/internship/detail/work-from-home-part-time-full-stack-web-development-frontend-backend-tech-intern-application-developer-internship-at-sucheta-anchaliya1749127563) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 Newjaisa Technology Private Limited | [Information Technology](https://internshala.com/internship/detail/information-technology-internship-in-bangalore-at-newjaisa-technology-private-limited1748940241) | 📍 Bangalore | 💼 On Site | 📅 Jun 25 |
+| 🏢 Basti Ki Pathshala Foundation | [Mobile App Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-frontend-developer-internship-at-basti-ki-pathshala-foundation1750424164) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 Bezt Labs | [Backend Developer](https://internshala.com/internship/detail/backend-developer-internship-in-bangalore-at-bezt-labs1748321031) | 📍 Bangalore | 💼 On Site | 📅 Jun 25 |
+| 🏢 Singularium Technologies Private Limited | [Backend Developer](https://internshala.com/internship/detail/backend-developer-internship-in-bangalore-at-singularium-technologies-private-limited1748239848) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jun 25 |
+| 🏢 Paisso Technology Private Limited | [Node.js Backend Developer](https://internshala.com/internship/detail/nodejs-backend-developer-internship-in-multiple-locations-at-paisso-technology-private-limited1749640655) | 📍 Chandigarh, Mohali, Sahibzada Ajit Singh Nagar, Punjab, Himachal Pradesh | 💼 On Site | 📅 Jun 25 |
+| 🏢 AIqwip | [Python Backend Developer](https://internshala.com/internship/detail/work-from-home-python-backend-developer-internship-at-aiqwip1748419739) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 Basti Ki Pathshala Foundation | [Mobile App Backend Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-backend-developer-internship-at-basti-ki-pathshala-foundation1750424138) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 TurboSteed | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-turbosteed1748603514) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jun 25 |
+| 🏢 Bditto | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-bditto1748434063) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 AffinityAnswers | [Full Stack AI Engineer - Intern](https://internshala.com/internship/detail/work-from-home-full-stack-ai-engineer-intern-internship-at-affinityanswers1746598990) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 Bright Future Institute Private Limited | [Full Stack Developer (use LLM AI Tools)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-use-llm-ai-tools-internship-at-bright-future-institute-private-limited1750148526) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 Unity Internet Private Limited | [Full Stack Development](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-unity-internet-private-limited1750162015) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 International Institute Of SDGs & Public Policy Research | [React Developer](https://internshala.com/internship/detail/work-from-home-part-time-react-developer-internship-at-international-institute-of-sdgs-public-policy-research1749639191) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 Maxgen Technologies Private Limited | [React JS Developer](https://internshala.com/internship/detail/react-js-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1748918907) | 📍 Ahmedabad | 💼 On Site | 📅 Jun 25 |
+| 🏢 Dwebbox | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-mumbai-at-dwebbox1747637816) | 📍 Mumbai | 💼 On Site | 📅 Jun 25 |
+| 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1748315481) | 📍 Ahmedabad | 💼 On Site | 📅 Jun 25 |
+| 🏢 Physioplus Healthcare | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-physioplus-healthcare1750143985) | 📍 Jaipur | 💼 On Site | 📅 Jun 25 |
+| 🏢 Mr n Mrs Pet | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-mr-n-mrs-pet1750506702) | 📍 Jaipur | 💼 On Site | 📅 Jun 25 |
+| 🏢 Creatiwise | [UI Designer](https://internshala.com/internship/detail/ui-designer-internship-in-multiple-locations-at-creatiwise1748577906) | 📍 Pune, Thane, Mumbai, Maharashtra | 💼 On Site | 📅 Jun 25 |
+| 🏢 Imarticus Learning Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-delhi-at-imarticus-learning-private-limited1747296043) | 📍 Delhi | 💼 On Site | 📅 Jun 25 |
+| 🏢 Eventful India Marketing Services | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-eventful-india-marketing-services1750594548) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 TheBlackJabGroup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-theblackjabgroup1749791249) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 Quantum IT Innovation | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-quantum-it-innovation1748491231) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Jun 25 |
+| 🏢 Cloud Express Solutions Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-cloud-express-solutions-private-limited1746594912) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 Thomas Cook | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-thomas-cook1750406572) | 📍 Mumbai, E | 💼 On Site | 📅 Jun 25 |
+| 🏢 Times Internet | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-gurgaon-at-times-internet1748430944) | 📍 Gurgaon                                                                (Hybrid) | 💼 On Site | 📅 Jun 25 |
+| 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jun 25 |
+| 🏢 Ishita Vasa | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-anchor-ishita-vasa1749473350) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jun 25 |
+| 🏢 Plugseal Innovation Services Private Limited | [UI/UX Design](https://internshala.com/internship/detail/part-time-ui-ux-design-internship-in-bangalore-at-plugseal-innovation-services-private-limited1750747959) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jun 25 |
+| 🏢 Bright Future Institute Private Limited | [UI/UX Designer](https://internshala.com/internship/detail/work-from-home-ui-ux-designer-internship-at-bright-future-institute-private-limited1750741649) | 📍 Work from home | 💼 On Site | 📅 Jun 25 |
+| 🏢 Sugary | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-sugary1750739921) | 📍 Mumbai | 💼 On Site | 📅 Jun 25 |
 | 🏢 Maxgen Technologies Private Limited | [Data Analyst](https://internshala.com/internship/detail/data-analyst-internship-in-pune-at-maxgen-technologies-private-limited1749142785) | 📍 Pune | 💼 On Site | 📅 Jun 23 |
 | 🏢 Astrotalk | [Data Analyst (Marketing)](https://internshala.com/internship/detail/data-analyst-marketing-internship-in-noida-at-astrotalk1748923511) | 📍 Noida | 💼 On Site | 📅 Jun 23 |
 | 🏢 Indika AI Private Limited | [Financial Data Analyst](https://internshala.com/internship/detail/work-from-home-financial-data-analyst-internship-at-indika-ai-private-limited1748592697) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
@@ -99,19 +99,10 @@
 | 🏢 First Contact | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-first-contact1750532506) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 DeepNexus.in | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-deepnexusin1750489768) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
 | 🏢 Brihat Infotech Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-brihat-infotech-private-limited1750481617) | 📍 Work from home | 💼 On Site | 📅 Jun 23 |
-| 🏢 Ethical Den | [Artificial Intelligence (AI)](https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kolkata-at-ethical-den1750417335) | 📍 Kolkata | 💼 On Site | 📅 Jun 22 |
-| 🏢 Orufy Technologies Private Limited | [Graphic Designer Intern](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-orufy-technologies-private-limited1749037663) | 📍 Jaipur | 💼 On Site | 📅 Jun 22 |
-| 🏢 Orufy Technologies Private Limited | [WordPress Development](https://internshala.com/internship/detail/wordpress-development-internship-in-multiple-locations-at-orufy-technologies-private-limited1749626907) | 📍 Jaipur, Rajasthan | 💼 On Site | 📅 Jun 22 |
-| 🏢 UTM DELIGHT | [Sales](https://internshala.com/internship/detail/sales-internship-in-bhopal-at-utm-delight1749037411) | 📍 Bhopal | 💼 On Site | 📅 Jun 22 |
-| 🏢 Parabola Architects | [Architecture](https://internshala.com/internship/detail/architecture-internship-in-multiple-locations-at-parabola-architects1750328728) | 📍 Pune, Mumbai, Maharashtra, Punjab                                                                (Hybrid) | 💼 On Site | 📅 Jun 22 |
-| 🏢 DeepNexus.in | [Full Stack Development](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-deepnexusin1750489674) | 📍 Work from home | 💼 On Site | 📅 Jun 22 |
-| 🏢 DeepNexus.in | [AI/Prompt Engineer](https://internshala.com/internship/detail/work-from-home-ai-prompt-engineer-internship-at-deepnexusin1750488429) | 📍 Work from home | 💼 On Site | 📅 Jun 22 |
-| 🏢 Emoolar Technology Private Limited | [Data Science](https://internshala.com/internship/detail/work-from-home-part-time-data-science-internship-at-emoolar-technology-private-limited1750479140) | 📍 Work from home | 💼 On Site | 📅 Jun 22 |
-| 🏢 YES Germany | [Academic Counselor](https://internshala.com/internship/detail/academic-counselor-internship-in-multiple-locations-at-yes-germany1749633613) | 📍 Coimbatore, Kerala Estate, Kochi                                                                (Hybrid) | 💼 On Site | 📅 Jun 22 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-24 18:34 UTC*
+*Powered by Opdrop | Last update: 2025-06-25 01:57 UTC*
