@@ -10,7 +10,7 @@
 
 - **48** total opportunities
 - **46** unique companies
-- **14** different locations
+- **15** different locations
 
 ---
 
@@ -60,16 +60,16 @@
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jun 26 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jun 26 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jun 26 |
+| 🏢 Unbundl | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-multiple-locations-at-unbundl1750916847) | 📍 Faridabad, Delhi, Gurgaon, Greater Noida, Noida | 💼 On Site | 📅 Jun 26 |
 | 🏢 DigiPlus IT | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-digiplus-it1750829747) | 📍 Mumbai | 💼 On Site | 📅 Jun 26 |
 | 🏢 Ishita Vasa | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-anchor-ishita-vasa1749473350) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jun 26 |
 | 🏢 Hublle.io | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-hublleio1750829826) | 📍 Jaipur | 💼 On Site | 📅 Jun 26 |
+| 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jun 26 |
 | 🏢 IDEA Foundation Panchkula | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-panchkula-at-idea-foundation-panchkula1750868500) | 📍 Panchkula | 💼 On Site | 📅 Jun 26 |
-| 🏢 Rustic Charm | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-rustic-charm1750869119) | 📍 Work from home | 💼 On Site | 📅 Jun 26 |
-| 🏢 Eduminatti | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-eduminatti1750861211) | 📍 Work from home | 💼 On Site | 📅 Jun 26 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-26 01:57 UTC*
+*Powered by Opdrop | Last update: 2025-06-26 06:35 UTC*
