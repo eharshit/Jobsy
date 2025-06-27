@@ -19,6 +19,7 @@
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
 | 🏢 Talent Corner HR Services | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-talent-corner-hr-services1750405474) | 📍 Mumbai | 💼 On Site | 📅 Jun 27 |
+| 🏢 Beeyond Tech | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-beeyond-tech1749806739) | 📍 Mumbai | 💼 On Site | 📅 Jun 27 |
 | 🏢 HENNGE K.K | [Software Engineer Internship](https://remoteok.com/remote-jobs/102971-remote-software-engineer-internship-hennge-k-k) | 📍 Remote | 🏠 Remote | 📅 Jun 27 |
 | 🏢 Sports AI Startup | [IOS Developer Intern Sparrow](https://remoteok.com/remote-jobs/100690-remote-ios-developer-intern-sparrow-sports-ai-startup) | 📍 Remote | 🏠 Remote | 📅 Jun 27 |
 | 🏢 Snowplow Analytics | [Summer Software Engineering Internship](https://remoteok.com/remote-jobs/66244-remote-summer-software-engineering-internship-snowplow-analytics) | 📍 Remote | 🏠 Remote | 📅 Jun 27 |
@@ -66,11 +67,10 @@
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jun 27 |
 | 🏢 IDEA Foundation Panchkula | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-panchkula-at-idea-foundation-panchkula1750868500) | 📍 Panchkula | 💼 On Site | 📅 Jun 27 |
 | 🏢 Ketto Online Ventures Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-ketto-online-ventures-private-limited1750940259) | 📍 Mumbai | 💼 On Site | 📅 Jun 27 |
-| 🏢 Sugary | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-sugary1750933878) | 📍 Mumbai | 💼 On Site | 📅 Jun 27 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-27 01:57 UTC*
+*Powered by Opdrop | Last update: 2025-06-27 06:36 UTC*
