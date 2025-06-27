@@ -40,7 +40,6 @@
 | 🏢 Basti Ki Pathshala Foundation | [Mobile App Backend Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-backend-developer-internship-at-basti-ki-pathshala-foundation1750424138) | 📍 Work from home | 💼 On Site | 📅 Jun 27 |
 | 🏢 TurboSteed | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-turbosteed1748603514) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jun 27 |
 | 🏢 Bditto | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-bditto1748434063) | 📍 Work from home | 💼 On Site | 📅 Jun 27 |
-| 🏢 AffinityAnswers | [Full Stack AI Engineer - Intern](https://internshala.com/internship/detail/work-from-home-full-stack-ai-engineer-intern-internship-at-affinityanswers1746598990) | 📍 Work from home | 💼 On Site | 📅 Jun 27 |
 | 🏢 Bright Future Institute Private Limited | [Full Stack Developer (use LLM AI Tools)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-use-llm-ai-tools-internship-at-bright-future-institute-private-limited1750148526) | 📍 Work from home | 💼 On Site | 📅 Jun 27 |
 | 🏢 Unity Internet Private Limited | [Full Stack Development](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-unity-internet-private-limited1750162015) | 📍 Work from home | 💼 On Site | 📅 Jun 27 |
 | 🏢 International Institute Of SDGs & Public Policy Research | [React Developer](https://internshala.com/internship/detail/work-from-home-part-time-react-developer-internship-at-international-institute-of-sdgs-public-policy-research1749639191) | 📍 Work from home | 💼 On Site | 📅 Jun 27 |
@@ -61,16 +60,17 @@
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jun 27 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jun 27 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jun 27 |
+| 🏢 GSharp Media Pvt Ltd | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-mumbai-at-gsharp-media-pvt-ltd1751019567) | 📍 Mumbai | 💼 On Site | 📅 Jun 27 |
 | 🏢 Leistung Technologies | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-bangalore-at-leistung-technologies1750920559) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jun 27 |
 | 🏢 Web Dakaar Digital Consultancy LLP | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-multiple-locations-at-web-dakaar-digital-consultancy-llp1749105251) | 📍 Thane, Navi Mumbai, Mumbai | 💼 On Site | 📅 Jun 27 |
 | 🏢 Hublle.io | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-hublleio1750829826) | 📍 Jaipur | 💼 On Site | 📅 Jun 27 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jun 27 |
 | 🏢 IDEA Foundation Panchkula | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-panchkula-at-idea-foundation-panchkula1750868500) | 📍 Panchkula | 💼 On Site | 📅 Jun 27 |
-| 🏢 Ketto Online Ventures Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-ketto-online-ventures-private-limited1750940259) | 📍 Mumbai | 💼 On Site | 📅 Jun 27 |
+| 🏢 Inorbvict Healthcare India Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-pune-at-inorbvict-healthcare-india-private-limited1751010224) | 📍 Pune | 💼 On Site | 📅 Jun 27 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-27 06:36 UTC*
+*Powered by Opdrop | Last update: 2025-06-27 12:49 UTC*
