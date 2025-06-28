@@ -49,7 +49,6 @@
 | 🏢 Creatiwise | [UI Designer](https://internshala.com/internship/detail/ui-designer-internship-in-multiple-locations-at-creatiwise1750855007) | 📍 Pune, Thane, Mumbai, Maharashtra | 💼 On Site | 📅 Jun 28 |
 | 🏢 Eventful India Marketing Services | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-eventful-india-marketing-services1750594548) | 📍 Work from home | 💼 On Site | 📅 Jun 28 |
 | 🏢 TheBlackJabGroup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-theblackjabgroup1749791249) | 📍 Work from home | 💼 On Site | 📅 Jun 28 |
-| 🏢 Quantum IT Innovation | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-quantum-it-innovation1748491231) | 📍 Work from home | 💼 On Site | 📅 Jun 28 |
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Jun 28 |
 | 🏢 Thomas Cook | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-thomas-cook1750406572) | 📍 Mumbai, E | 💼 On Site | 📅 Jun 28 |
 | 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Jun 28 |
@@ -66,10 +65,11 @@
 | 🏢 IDEA Foundation Panchkula | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-panchkula-at-idea-foundation-panchkula1750868500) | 📍 Panchkula | 💼 On Site | 📅 Jun 28 |
 | 🏢 Ketto Online Ventures Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-ketto-online-ventures-private-limited1750940259) | 📍 Mumbai | 💼 On Site | 📅 Jun 28 |
 | 🏢 Inorbvict Healthcare India Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-pune-at-inorbvict-healthcare-india-private-limited1751010224) | 📍 Pune | 💼 On Site | 📅 Jun 28 |
+| 🏢 AI Certs | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-ai-certs1751120035) | 📍 Work from home | 💼 On Site | 📅 Jun 28 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-28 12:44 UTC*
+*Powered by Opdrop | Last update: 2025-06-28 18:30 UTC*
