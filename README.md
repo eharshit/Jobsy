@@ -64,12 +64,12 @@
 | 🏢 Hublle.io | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-hublleio1750829826) | 📍 Jaipur | 💼 On Site | 📅 Jun 28 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jun 28 |
 | 🏢 IDEA Foundation Panchkula | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-panchkula-at-idea-foundation-panchkula1750868500) | 📍 Panchkula | 💼 On Site | 📅 Jun 28 |
-| 🏢 Inorbvict Healthcare India Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-pune-at-inorbvict-healthcare-india-private-limited1751010224) | 📍 Pune | 💼 On Site | 📅 Jun 28 |
 | 🏢 Ketto Online Ventures Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-ketto-online-ventures-private-limited1750940259) | 📍 Mumbai | 💼 On Site | 📅 Jun 28 |
+| 🏢 Inorbvict Healthcare India Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-pune-at-inorbvict-healthcare-india-private-limited1751010224) | 📍 Pune | 💼 On Site | 📅 Jun 28 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-28 06:32 UTC*
+*Powered by Opdrop | Last update: 2025-06-28 12:44 UTC*
