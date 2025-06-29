@@ -63,13 +63,13 @@
 | 🏢 Hublle.io | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-hublleio1750829826) | 📍 Jaipur | 💼 On Site | 📅 Jun 29 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jun 29 |
 | 🏢 IDEA Foundation Panchkula | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-panchkula-at-idea-foundation-panchkula1750868500) | 📍 Panchkula | 💼 On Site | 📅 Jun 29 |
-| 🏢 Ketto Online Ventures Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-ketto-online-ventures-private-limited1750940259) | 📍 Mumbai | 💼 On Site | 📅 Jun 29 |
 | 🏢 Inorbvict Healthcare India Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-pune-at-inorbvict-healthcare-india-private-limited1751010224) | 📍 Pune | 💼 On Site | 📅 Jun 29 |
 | 🏢 Finnovate Technology Solutions Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-finnovate-technology-solutions-private-limited1751137665) | 📍 Work from home | 💼 On Site | 📅 Jun 29 |
+| 🏢 AI Certs | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-ai-certs1751120035) | 📍 Work from home | 💼 On Site | 📅 Jun 29 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-29 02:08 UTC*
+*Powered by Opdrop | Last update: 2025-06-29 06:34 UTC*
