@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** June 29, 2025
-**Total Listings:** 48
+**Total Listings:** 49
 
 ## 📊 Quick Stats
 
-- **48** total opportunities
-- **45** unique companies
-- **14** different locations
+- **49** total opportunities
+- **46** unique companies
+- **13** different locations
 
 ---
 
@@ -27,7 +27,7 @@
 | 🏢 Advanon | [SOFTWARE ENGINEERING INTERNSHIP](https://remoteok.com/remote-jobs/7763-remote-software-engineering-internship-advanon) | 📍 Remote | 🏠 Remote | 📅 Jun 29 |
 | 🏢 Phidato | [Software Developer Internship](https://remoteok.com/remote-jobs/6881-remote-software-developer-internship-phidato) | 📍 Remote | 🏠 Remote | 📅 Jun 29 |
 | 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Jun 29 |
-| 🏢 Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-pune-at-maxgen-technologies-private-limited1748626002) | 📍 Pune | 💼 On Site | 📅 Jun 29 |
+| 🏢 Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-pune-at-maxgen-technologies-private-limited1750042777) | 📍 Pune | 💼 On Site | 📅 Jun 29 |
 | 🏢 IDZ Digital Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-mumbai-at-idz-digital-private-limited1749452328) | 📍 Mumbai | 💼 On Site | 📅 Jun 29 |
 | 🏢 Interpret Media | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-interpret-media1747289194) | 📍 Work from home | 💼 On Site | 📅 Jun 29 |
 | 🏢 CometChat | [Web Developer (React)](https://internshala.com/internship/detail/work-from-home-web-developer-react-internship-at-cometchat1750332340) | 📍 Work from home | 💼 On Site | 📅 Jun 29 |
@@ -62,14 +62,15 @@
 | 🏢 Web Dakaar Digital Consultancy LLP | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-multiple-locations-at-web-dakaar-digital-consultancy-llp1749105251) | 📍 Thane, Navi Mumbai, Mumbai | 💼 On Site | 📅 Jun 29 |
 | 🏢 Hublle.io | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-hublleio1750829826) | 📍 Jaipur | 💼 On Site | 📅 Jun 29 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jun 29 |
-| 🏢 IDEA Foundation Panchkula | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-panchkula-at-idea-foundation-panchkula1750868500) | 📍 Panchkula | 💼 On Site | 📅 Jun 29 |
-| 🏢 Inorbvict Healthcare India Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-pune-at-inorbvict-healthcare-india-private-limited1751010224) | 📍 Pune | 💼 On Site | 📅 Jun 29 |
 | 🏢 Zerenyth Technologies. | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-zerenyth-technologies1751191070) | 📍 Work from home | 💼 On Site | 📅 Jun 29 |
 | 🏢 AI Certs | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-ai-certs1751120035) | 📍 Work from home | 💼 On Site | 📅 Jun 29 |
+| 🏢 Agility AI Pvt. Ltd. | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-agility-ai-pvt-ltd1751119711) | 📍 Work from home | 💼 On Site | 📅 Jun 29 |
+| 🏢 Inorbvict Healthcare India Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-pune-at-inorbvict-healthcare-india-private-limited1751010224) | 📍 Pune | 💼 On Site | 📅 Jun 29 |
+| 🏢 Ketto Online Ventures Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-ketto-online-ventures-private-limited1750940259) | 📍 Mumbai | 💼 On Site | 📅 Jun 29 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-29 12:44 UTC*
+*Powered by Opdrop | Last update: 2025-06-29 18:31 UTC*
