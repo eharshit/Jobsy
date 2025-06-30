@@ -10,7 +10,7 @@
 
 - **49** total opportunities
 - **46** unique companies
-- **12** different locations
+- **14** different locations
 
 ---
 
@@ -19,6 +19,7 @@
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
 | 🏢 Talent Corner HR Services | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-talent-corner-hr-services1750405474) | 📍 Mumbai | 💼 On Site | 📅 Jun 30 |
+| 🏢 Sidh Sidhi Gems | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-jaipur-at-sidh-sidhi-gems1748684401) | 📍 Jaipur | 💼 On Site | 📅 Jun 30 |
 | 🏢 HENNGE K.K | [Software Engineer Internship](https://remoteok.com/remote-jobs/102971-remote-software-engineer-internship-hennge-k-k) | 📍 Remote | 🏠 Remote | 📅 Jun 30 |
 | 🏢 Sports AI Startup | [IOS Developer Intern Sparrow](https://remoteok.com/remote-jobs/100690-remote-ios-developer-intern-sparrow-sports-ai-startup) | 📍 Remote | 🏠 Remote | 📅 Jun 30 |
 | 🏢 Snowplow Analytics | [Summer Software Engineering Internship](https://remoteok.com/remote-jobs/66244-remote-summer-software-engineering-internship-snowplow-analytics) | 📍 Remote | 🏠 Remote | 📅 Jun 30 |
@@ -60,17 +61,16 @@
 | 🏢 GSharp Media Private Limited | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-mumbai-at-gsharp-media-pvt-ltd1751019567) | 📍 Mumbai | 💼 On Site | 📅 Jun 30 |
 | 🏢 Leistung Technologies | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-bangalore-at-leistung-technologies1750920559) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jun 30 |
 | 🏢 Get Structured Consulting Services OPC Private Limited | [Video Editing/Making (MALE)](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-get-structured-consulting-services-opc-private-limited1750747435) | 📍 Mumbai | 💼 On Site | 📅 Jun 30 |
+| 🏢 Right Health India | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-right-health-india1750665696) | 📍 Mumbai | 💼 On Site | 📅 Jun 30 |
 | 🏢 Hublle.io | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-hublleio1750829826) | 📍 Jaipur | 💼 On Site | 📅 Jun 30 |
+| 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 Anjuna | 💼 On Site | 📅 Jun 30 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jun 30 |
-| 🏢 Zerenyth Technologies. | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-zerenyth-technologies1751191070) | 📍 Work from home | 💼 On Site | 📅 Jun 30 |
-| 🏢 AI Certs | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-ai-certs1751120035) | 📍 Work from home | 💼 On Site | 📅 Jun 30 |
-| 🏢 Agility AI Pvt. Ltd. | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-agility-ai-pvt-ltd1751119711) | 📍 Work from home | 💼 On Site | 📅 Jun 30 |
-| 🏢 Inorbvict Healthcare India Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-pune-at-inorbvict-healthcare-india-private-limited1751010224) | 📍 Pune | 💼 On Site | 📅 Jun 30 |
-| 🏢 Ketto Online Ventures Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-ketto-online-ventures-private-limited1750940259) | 📍 Mumbai | 💼 On Site | 📅 Jun 30 |
+| 🏢 Garud | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-garud1751286838) | 📍 Work from home | 💼 On Site | 📅 Jun 30 |
+| 🏢 Learners University College | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-kochi-at-learners-university-college1751281713) | 📍 Kochi | 💼 On Site | 📅 Jun 30 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-30 06:37 UTC*
+*Powered by Opdrop | Last update: 2025-06-30 12:50 UTC*
