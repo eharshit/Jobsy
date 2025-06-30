@@ -56,6 +56,7 @@
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jun 30 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jun 30 |
 | 🏢 Requin Solutions Private Limited | [MERN Stack Web Developer](https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1751091176) | 📍 Jaipur | 💼 On Site | 📅 Jun 30 |
+| 🏢 AI Web Developers | [HR Consultant](https://internshala.com/internship/detail/work-from-home-hr-consultant-internship-at-ai-web-developers1751262983) | 📍 Work from home | 💼 On Site | 📅 Jun 30 |
 | 🏢 GSharp Media Private Limited | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-mumbai-at-gsharp-media-pvt-ltd1751019567) | 📍 Mumbai | 💼 On Site | 📅 Jun 30 |
 | 🏢 Leistung Technologies | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-bangalore-at-leistung-technologies1750920559) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jun 30 |
 | 🏢 Get Structured Consulting Services OPC Private Limited | [Video Editing/Making (MALE)](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-get-structured-consulting-services-opc-private-limited1750747435) | 📍 Mumbai | 💼 On Site | 📅 Jun 30 |
@@ -66,11 +67,10 @@
 | 🏢 Agility AI Pvt. Ltd. | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-agility-ai-pvt-ltd1751119711) | 📍 Work from home | 💼 On Site | 📅 Jun 30 |
 | 🏢 Inorbvict Healthcare India Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-pune-at-inorbvict-healthcare-india-private-limited1751010224) | 📍 Pune | 💼 On Site | 📅 Jun 30 |
 | 🏢 Ketto Online Ventures Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-ketto-online-ventures-private-limited1750940259) | 📍 Mumbai | 💼 On Site | 📅 Jun 30 |
-| 🏢 Sugary | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-sugary1750933878) | 📍 Mumbai | 💼 On Site | 📅 Jun 30 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-06-30 02:02 UTC*
+*Powered by Opdrop | Last update: 2025-06-30 06:37 UTC*
