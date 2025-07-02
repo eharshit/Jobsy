@@ -51,6 +51,7 @@
 | 🏢 TheBlackJabGroup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-theblackjabgroup1749791249) | 📍 Work from home | 💼 On Site | 📅 Jul 02 |
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Jul 02 |
 | 🏢 Thomas Cook | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-thomas-cook1750406572) | 📍 Mumbai, E | 💼 On Site | 📅 Jul 02 |
+| 🏢 Brihat Infotech Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-brihat-infotech-private-limited1751476821) | 📍 Delhi, Gurgaon, Greater Noida, Noida | 💼 On Site | 📅 Jul 02 |
 | 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Jul 02 |
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jul 02 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jul 02 |
@@ -59,18 +60,17 @@
 | 🏢 GSharp Media Private Limited | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-mumbai-at-gsharp-media-pvt-ltd1751019567) | 📍 Mumbai | 💼 On Site | 📅 Jul 02 |
 | 🏢 Go Picnic Technology Solutions | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-go-picnic-technology-solutions1751348332) | 📍 Chennai, Ramapuram | 💼 On Site | 📅 Jul 02 |
 | 🏢 Farmley | [Campus Ambassador](https://internshala.com/internship/detail/campus-ambassador-programme-at-farmley1750838567) | 📍 Tamil Nadu, Chennai | 💼 On Site | 📅 Jul 02 |
-| 🏢 VISHWAHITESHI BAHUUDDESHIYASANSTHA YAVATMA | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-vishwahiteshi-bahuuddeshiyasanstha-yavatma1751374746) | 📍 Chennai, Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jul 02 |
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 02 |
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 02 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 02 |
+| 🏢 Highway Delite | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-highway-delite1751460567) | 📍 Work from home | 💼 On Site | 📅 Jul 02 |
 | 🏢 Innover Labs | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-innover-labs1751459353) | 📍 Work from home | 💼 On Site | 📅 Jul 02 |
 | 🏢 Testmint.ai | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-testmintai1751457009) | 📍 Work from home | 💼 On Site | 📅 Jul 02 |
 | 🏢 IORA Ecological Solutions | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-delhi-at-iora-ecological-solutions1751438533) | 📍 Delhi | 💼 On Site | 📅 Jul 02 |
-| 🏢 Ekya Schools | [UI/UX Designer](https://internshala.com/internship/detail/ui-ux-designer-internship-in-bangalore-at-ekya-schools1751443740) | 📍 Bangalore | 💼 On Site | 📅 Jul 02 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-02 12:49 UTC*
+*Powered by Opdrop | Last update: 2025-07-02 18:34 UTC*
