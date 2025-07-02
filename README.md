@@ -63,14 +63,14 @@
 | 🏢 Algo8 AI | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-noida-at-algo8-ai1751373614) | 📍 Noida                                                                (Hybrid) | 💼 On Site | 📅 Jul 02 |
 | 🏢 Buzdealz Ventures Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-buzdealz-ventures-pvt-ltd1751364784) | 📍 Work from home | 💼 On Site | 📅 Jul 02 |
 | 🏢 MangoDesk | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-mangodesk1751346352) | 📍 Work from home | 💼 On Site | 📅 Jul 02 |
-| 🏢 Masterjitailor Online | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-masterjitailor-online1751306326) | 📍 Work from home | 💼 On Site | 📅 Jul 02 |
 | 🏢 Learners University College | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-kochi-at-learners-university-college1751281713) | 📍 Kochi | 💼 On Site | 📅 Jul 02 |
 | 🏢 Zerenyth Technologies. | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-zerenyth-technologies1751191070) | 📍 Work from home | 💼 On Site | 📅 Jul 02 |
 | 🏢 AI Certs | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-ai-certs1751120035) | 📍 Work from home | 💼 On Site | 📅 Jul 02 |
+| 🏢 Agility AI Pvt. Ltd. | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-agility-ai-pvt-ltd1751119711) | 📍 Work from home | 💼 On Site | 📅 Jul 02 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-02 01:56 UTC*
+*Powered by Opdrop | Last update: 2025-07-02 06:36 UTC*
