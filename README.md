@@ -10,7 +10,7 @@
 
 - **49** total opportunities
 - **46** unique companies
-- **17** different locations
+- **16** different locations
 
 ---
 
@@ -58,8 +58,8 @@
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jul 03 |
 | 🏢 Requin Solutions Private Limited | [MERN Stack Web Developer](https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1751091176) | 📍 Jaipur | 💼 On Site | 📅 Jul 03 |
 | 🏢 GSharp Media Private Limited | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-mumbai-at-gsharp-media-pvt-ltd1751019567) | 📍 Mumbai | 💼 On Site | 📅 Jul 03 |
-| 🏢 Go Picnic Technology Solutions | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-go-picnic-technology-solutions1751348332) | 📍 Chennai, Ramapuram | 💼 On Site | 📅 Jul 03 |
-| 🏢 Farmley | [Campus Ambassador](https://internshala.com/internship/detail/campus-ambassador-programme-at-farmley1750838567) | 📍 Tamil Nadu, Chennai | 💼 On Site | 📅 Jul 03 |
+| 🏢 Rugas Technologies Private Limited | [Full Stack Development](https://internshala.com/internship/detail/full-stack-development-internship-in-bangalore-at-rugas-technologies-private-limited1750397915) | 📍 Bangalore | 💼 On Site | 📅 Jul 03 |
+| 🏢 Orderseva | [Field Sales](https://internshala.com/internship/detail/field-sales-internship-in-multiple-locations-at-orderseva1750757890) | 📍 Lucknow, Bhopal, Jaipur, Delhi                                                                (Hybrid) | 💼 On Site | 📅 Jul 03 |
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 03 |
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 03 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 03 |
@@ -73,4 +73,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-03 01:57 UTC*
+*Powered by Opdrop | Last update: 2025-07-03 06:36 UTC*
