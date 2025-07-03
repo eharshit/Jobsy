@@ -58,19 +58,19 @@
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jul 03 |
 | 🏢 Requin Solutions Private Limited | [MERN Stack Web Developer](https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1751091176) | 📍 Jaipur | 💼 On Site | 📅 Jul 03 |
 | 🏢 GSharp Media Private Limited | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-mumbai-at-gsharp-media-pvt-ltd1751019567) | 📍 Mumbai | 💼 On Site | 📅 Jul 03 |
+| 🏢 Deepvue Technologies | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-deepvue-technologies1751524213) | 📍 Work from home | 💼 On Site | 📅 Jul 03 |
 | 🏢 Rugas Technologies Private Limited | [Full Stack Development](https://internshala.com/internship/detail/full-stack-development-internship-in-bangalore-at-rugas-technologies-private-limited1750397915) | 📍 Bangalore | 💼 On Site | 📅 Jul 03 |
 | 🏢 Orderseva | [Field Sales](https://internshala.com/internship/detail/field-sales-internship-in-multiple-locations-at-orderseva1750757890) | 📍 Lucknow, Bhopal, Jaipur, Delhi                                                                (Hybrid) | 💼 On Site | 📅 Jul 03 |
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 03 |
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 03 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 03 |
+| 🏢 Unified Sports | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-delhi-at-unified-sports1751526118) | 📍 Delhi | 💼 On Site | 📅 Jul 03 |
+| 🏢 MIC | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-mic1751528477) | 📍 Work from home | 💼 On Site | 📅 Jul 03 |
 | 🏢 Highway Delite | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-highway-delite1751460567) | 📍 Work from home | 💼 On Site | 📅 Jul 03 |
-| 🏢 Innover Labs | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-innover-labs1751459353) | 📍 Work from home | 💼 On Site | 📅 Jul 03 |
-| 🏢 Testmint.ai | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-testmintai1751457009) | 📍 Work from home | 💼 On Site | 📅 Jul 03 |
-| 🏢 IORA Ecological Solutions | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-delhi-at-iora-ecological-solutions1751438533) | 📍 Delhi | 💼 On Site | 📅 Jul 03 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-03 06:36 UTC*
+*Powered by Opdrop | Last update: 2025-07-03 12:47 UTC*
