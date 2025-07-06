@@ -9,7 +9,7 @@
 ## 📊 Quick Stats
 
 - **57** total opportunities
-- **54** unique companies
+- **55** unique companies
 - **17** different locations
 
 ---
@@ -56,14 +56,15 @@
 | 🏢 GSharp Media Private Limited | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-mumbai-at-gsharp-media-pvt-ltd1751019567) | 📍 Mumbai | 💼 On Site | 📅 Jul 06 |
 | 🏢 SaaSBanana Technologies | [Frontend Developer - NextJS](https://internshala.com/internship/detail/frontend-developer-nextjs-internship-in-noida-at-saasbanana-technologies1751623345) | 📍 Noida | 💼 On Site | 📅 Jul 06 |
 | 🏢 Deepvue Technologies | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-deepvue-technologies1751524213) | 📍 Work from home | 💼 On Site | 📅 Jul 06 |
-| 🏢 Praxis | [Sales and Marketing](https://internshala.com/internship/detail/part-time-sales-and-marketing-internship-in-chennai-at-praxis1751621040) | 📍 Chennai | 💼 On Site | 📅 Jul 06 |
-| 🏢 ABEX Excellence Private Limited | [Business Analytics](https://internshala.com/internship/detail/business-analytics-internship-in-chennai-at-abex-excellence-private-limited1751604063) | 📍 Chennai | 💼 On Site | 📅 Jul 06 |
-| 🏢 ABEX Excellence Private Limited | [AI Researcher (Non Tech)](https://internshala.com/internship/detail/ai-researcher-non-tech-internship-in-chennai-at-abex-excellence-private-limited1751362457) | 📍 Chennai | 💼 On Site | 📅 Jul 06 |
+| 🏢 Get Structured Consulting Services OPC Private Limited | [Video Editing/Making (MALE)](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-get-structured-consulting-services-opc-private-limited1750747435) | 📍 Mumbai | 💼 On Site | 📅 Jul 06 |
 | 🏢 Bhartiyneer | [HR (Team, Projects & Coordination Role)](https://internshala.com/internship/detail/hr-team-projects-coordination-role-internship-in-jodhpur-at-bhartiyneer1751528323) | 📍 Jodhpur, Ajmer, Bikaner, Udaipur, Jaipur, Pali | 💼 On Site | 📅 Jul 06 |
+| 🏢 ABEX Excellence Private Limited | [AI Researcher (Non Tech)](https://internshala.com/internship/detail/ai-researcher-non-tech-internship-in-chennai-at-abex-excellence-private-limited1751362457) | 📍 Chennai | 💼 On Site | 📅 Jul 06 |
+| 🏢 Praxis | [Sales and Marketing](https://internshala.com/internship/detail/part-time-sales-and-marketing-internship-in-chennai-at-praxis1751621040) | 📍 Chennai | 💼 On Site | 📅 Jul 06 |
 | 🏢 MiTran Global | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-chennai-at-mitran-global1751542350) | 📍 Chennai | 💼 On Site | 📅 Jul 06 |
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 06 |
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 06 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 06 |
+| 🏢 Schedulook | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-schedulook1751782701) | 📍 Work from home | 💼 On Site | 📅 Jul 06 |
 | 🏢 Eduminatti | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-eduminatti1751702686) | 📍 Work from home | 💼 On Site | 📅 Jul 06 |
 | 🏢 Global Trend | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-global-trend1751563796) | 📍 Work from home | 💼 On Site | 📅 Jul 06 |
 | 🏢 Highway Delite | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-highway-delite1751460567) | 📍 Work from home | 💼 On Site | 📅 Jul 06 |
@@ -74,11 +75,10 @@
 | 🏢 Nobrokerage.com | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-nobrokeragecom1751289800) | 📍 Work from home | 💼 On Site | 📅 Jul 06 |
 | 🏢 Learners University College | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-kochi-at-learners-university-college1751281713) | 📍 Kochi | 💼 On Site | 📅 Jul 06 |
 | 🏢 Zerenyth Technologies. | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-zerenyth-technologies1751191070) | 📍 Work from home | 💼 On Site | 📅 Jul 06 |
-| 🏢 AI Certs | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-ai-certs1751120035) | 📍 Work from home | 💼 On Site | 📅 Jul 06 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-06 06:34 UTC*
+*Powered by Opdrop | Last update: 2025-07-06 12:45 UTC*
