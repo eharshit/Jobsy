@@ -57,10 +57,10 @@
 | 🏢 SaaSBanana Technologies | [Frontend Developer - NextJS](https://internshala.com/internship/detail/frontend-developer-nextjs-internship-in-noida-at-saasbanana-technologies1751623345) | 📍 Noida | 💼 On Site | 📅 Jul 07 |
 | 🏢 Deepvue Technologies | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-deepvue-technologies1751524213) | 📍 Work from home | 💼 On Site | 📅 Jul 07 |
 | 🏢 Get Structured Consulting Services OPC Private Limited | [Video Editing/Making (MALE)](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-get-structured-consulting-services-opc-private-limited1750747435) | 📍 Mumbai | 💼 On Site | 📅 Jul 07 |
-| 🏢 MiTran Global | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-chennai-at-mitran-global1751542350) | 📍 Chennai | 💼 On Site | 📅 Jul 07 |
-| 🏢 ABEX Excellence Private Limited | [AI Researcher (Non Tech)](https://internshala.com/internship/detail/ai-researcher-non-tech-internship-in-chennai-at-abex-excellence-private-limited1751362457) | 📍 Chennai | 💼 On Site | 📅 Jul 07 |
+| 🏢 Beeyond Tech | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-mumbai-at-beeyond-tech1751460190) | 📍 Mumbai | 💼 On Site | 📅 Jul 07 |
 | 🏢 Bhartiyneer | [HR (Team, Projects & Coordination Role)](https://internshala.com/internship/detail/hr-team-projects-coordination-role-internship-in-jodhpur-at-bhartiyneer1751528323) | 📍 Jodhpur, Ajmer, Bikaner, Udaipur, Jaipur, Pali | 💼 On Site | 📅 Jul 07 |
-| 🏢 Praxis | [Sales and Marketing](https://internshala.com/internship/detail/part-time-sales-and-marketing-internship-in-chennai-at-praxis1751621040) | 📍 Chennai | 💼 On Site | 📅 Jul 07 |
+| 🏢 ABEX Excellence Private Limited | [AI Researcher (Non Tech)](https://internshala.com/internship/detail/ai-researcher-non-tech-internship-in-chennai-at-abex-excellence-private-limited1751362457) | 📍 Chennai | 💼 On Site | 📅 Jul 07 |
+| 🏢 MiTran Global | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-chennai-at-mitran-global1751542350) | 📍 Chennai | 💼 On Site | 📅 Jul 07 |
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 07 |
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 07 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 07 |
@@ -81,4 +81,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-07 02:03 UTC*
+*Powered by Opdrop | Last update: 2025-07-07 06:37 UTC*
