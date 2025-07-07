@@ -63,8 +63,8 @@
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 07 |
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 07 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 07 |
-| 🏢 Across The Globe (ATG) | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-across-the-globe-atg1751892041) | 📍 Work from home | 💼 On Site | 📅 Jul 07 |
 | 🏢 Infotech Services | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-infotech-services1751885486) | 📍 Work from home | 💼 On Site | 📅 Jul 07 |
+| 🏢 Across The Globe (ATG) | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-across-the-globe-atg1751892041) | 📍 Work from home | 💼 On Site | 📅 Jul 07 |
 | 🏢 Infits | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-infits1751877576) | 📍 Work from home | 💼 On Site | 📅 Jul 07 |
 | 🏢 Eduminatti | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-eduminatti1751702686) | 📍 Work from home | 💼 On Site | 📅 Jul 07 |
 | 🏢 Global Trend | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-global-trend1751563796) | 📍 Work from home | 💼 On Site | 📅 Jul 07 |
@@ -81,4 +81,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-07 12:51 UTC*
+*Powered by Opdrop | Last update: 2025-07-07 18:34 UTC*
