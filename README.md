@@ -9,8 +9,8 @@
 ## 📊 Quick Stats
 
 - **57** total opportunities
-- **55** unique companies
-- **17** different locations
+- **54** unique companies
+- **18** different locations
 
 ---
 
@@ -58,8 +58,8 @@
 | 🏢 Deepvue Technologies | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-deepvue-technologies1751524213) | 📍 Work from home | 💼 On Site | 📅 Jul 08 |
 | 🏢 S1 SHIPLEE (OPC) PRIVATE LIMITED | [Backend/API Developer For Shopify App](https://internshala.com/internship/detail/work-from-home-backend-api-developer-for-shopify-app-internship-at-s1-shiplee-opc-private-limited1751952169) | 📍 Work from home | 💼 On Site | 📅 Jul 08 |
 | 🏢 ABEX Excellence Private Limited | [AI Researcher (Non Tech)](https://internshala.com/internship/detail/ai-researcher-non-tech-internship-in-chennai-at-abex-excellence-private-limited1751362457) | 📍 Chennai | 💼 On Site | 📅 Jul 08 |
+| 🏢 ABEX Excellence Private Limited | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-chennai-at-abex-excellence-private-limited1751867912) | 📍 Chennai | 💼 On Site | 📅 Jul 08 |
 | 🏢 Go Picnic Technology Solutions | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-go-picnic-technology-solutions1751348332) | 📍 Chennai, Ramapuram | 💼 On Site | 📅 Jul 08 |
-| 🏢 Primal Patterns | [Fitness Trainer](https://internshala.com/internship/detail/fitness-trainer-internship-in-chennai-at-primal-patterns1751620121) | 📍 Chennai | 💼 On Site | 📅 Jul 08 |
 | 🏢 Me And My Care | [Field Sales](https://internshala.com/internship/detail/field-sales-internship-in-multiple-locations-at-me-and-my-care1749702656) | 📍 Chandigarh, Mohali, Zirakpur, Panchkula | 💼 On Site | 📅 Jul 08 |
 | 🏢 EG Allied Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-eg-allied-private-limited1751881904) | 📍 Jaipur | 💼 On Site | 📅 Jul 08 |
 | 🏢 Earthed Soul PVT LTD | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-earthed-soul-pvt-ltd1751880013) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jul 08 |
@@ -68,17 +68,17 @@
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 08 |
 | 🏢 ThumbStack Technologies | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-thumbstack-technologies1751949132) | 📍 Mumbai | 💼 On Site | 📅 Jul 08 |
 | 🏢 Eklavya.me | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-eklavyame1751971314) | 📍 Work from home | 💼 On Site | 📅 Jul 08 |
+| 🏢 NeuralGarage | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-bangalore-at-neuralgarage1751978124) | 📍 Bangalore | 💼 On Site | 📅 Jul 08 |
 | 🏢 Reevij Solutions | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-reevij-solutions1751971290) | 📍 Work from home | 💼 On Site | 📅 Jul 08 |
 | 🏢 Integra Magna | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-indore-at-integra-magna1751959116) | 📍 Indore | 💼 On Site | 📅 Jul 08 |
 | 🏢 Across The Globe (ATG) | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-across-the-globe-atg1751892041) | 📍 Work from home | 💼 On Site | 📅 Jul 08 |
 | 🏢 Infotech Services | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-infotech-services1751885486) | 📍 Work from home | 💼 On Site | 📅 Jul 08 |
 | 🏢 Infits | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-infits1751877576) | 📍 Work from home | 💼 On Site | 📅 Jul 08 |
 | 🏢 Eduminatti | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-eduminatti1751702686) | 📍 Work from home | 💼 On Site | 📅 Jul 08 |
-| 🏢 Global Trend | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-global-trend1751563796) | 📍 Work from home | 💼 On Site | 📅 Jul 08 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-08 12:51 UTC*
+*Powered by Opdrop | Last update: 2025-07-08 18:34 UTC*
