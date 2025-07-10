@@ -9,8 +9,8 @@
 ## 📊 Quick Stats
 
 - **57** total opportunities
-- **52** unique companies
-- **19** different locations
+- **51** unique companies
+- **20** different locations
 
 ---
 
@@ -56,6 +56,8 @@
 | 🏢 Deepvue Technologies | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-deepvue-technologies1751524213) | 📍 Work from home | 💼 On Site | 📅 Jul 10 |
 | 🏢 S1 SHIPLEE (OPC) PRIVATE LIMITED | [Backend/API Developer For Shopify App](https://internshala.com/internship/detail/work-from-home-backend-api-developer-for-shopify-app-internship-at-s1-shiplee-opc-private-limited1751952169) | 📍 Work from home | 💼 On Site | 📅 Jul 10 |
 | 🏢 Bitwell Tech Private Limited | [React Native Intern](https://internshala.com/internship/detail/work-from-home-react-native-intern-internship-at-bitwell-tech-private-limited1752033483) | 📍 Work from home | 💼 On Site | 📅 Jul 10 |
+| 🏢 ABEX Excellence Private Limited | [AI Researcher (Non Tech)](https://internshala.com/internship/detail/ai-researcher-non-tech-internship-in-chennai-at-abex-excellence-private-limited1751362457) | 📍 Chennai | 💼 On Site | 📅 Jul 10 |
+| 🏢 ABEX Excellence Private Limited | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-chennai-at-abex-excellence-private-limited1751867912) | 📍 Chennai | 💼 On Site | 📅 Jul 10 |
 | 🏢 Go Picnic Technology Solutions | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-go-picnic-technology-solutions1751348332) | 📍 Chennai, Ramapuram | 💼 On Site | 📅 Jul 10 |
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 10 |
 | 🏢 Me And My Care | [Field Sales](https://internshala.com/internship/detail/field-sales-internship-in-multiple-locations-at-me-and-my-care1749702656) | 📍 Chandigarh, Mohali, Zirakpur, Panchkula | 💼 On Site | 📅 Jul 10 |
@@ -73,12 +75,10 @@
 | 🏢 Integra Magna | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-indore-at-integra-magna1751959116) | 📍 Indore | 💼 On Site | 📅 Jul 10 |
 | 🏢 ThumbStack Technologies | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-thumbstack-technologies1751949132) | 📍 Mumbai | 💼 On Site | 📅 Jul 10 |
 | 🏢 Across The Globe (ATG) | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-across-the-globe-atg1751892041) | 📍 Work from home | 💼 On Site | 📅 Jul 10 |
-| 🏢 Infotech Services | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-infotech-services1751885486) | 📍 Work from home | 💼 On Site | 📅 Jul 10 |
-| 🏢 Infits | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-infits1751877576) | 📍 Work from home | 💼 On Site | 📅 Jul 10 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-10 01:59 UTC*
+*Powered by Opdrop | Last update: 2025-07-10 06:37 UTC*
