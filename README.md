@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** July 11, 2025
-**Total Listings:** 57
+**Total Listings:** 56
 
 ## 📊 Quick Stats
 
-- **57** total opportunities
-- **52** unique companies
-- **21** different locations
+- **56** total opportunities
+- **51** unique companies
+- **20** different locations
 
 ---
 
@@ -55,10 +55,13 @@
 | 🏢 Deepvue Technologies | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-deepvue-technologies1751524213) | 📍 Work from home | 💼 On Site | 📅 Jul 11 |
 | 🏢 Warewe Consultancy Private Limited | [Node.js Developer/Backend Developer](https://internshala.com/internship/detail/nodejs-developer-backend-developer-internship-in-gurgaon-at-warewe-consultancy-private-limited1752208432) | 📍 Gurgaon | 💼 On Site | 📅 Jul 11 |
 | 🏢 S1 SHIPLEE (OPC) PRIVATE LIMITED | [Backend/API Developer For Shopify App](https://internshala.com/internship/detail/work-from-home-backend-api-developer-for-shopify-app-internship-at-s1-shiplee-opc-private-limited1751952169) | 📍 Work from home | 💼 On Site | 📅 Jul 11 |
+| 🏢 Tharsha Ventures Private Limited (EldersIndia) | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-bangalore-at-tharsha-ventures-private-limited-eldersindia1752217271) | 📍 Bangalore | 💼 On Site | 📅 Jul 11 |
+| 🏢 Zenius | [Human Resources (HR)](https://internshala.com/internship/detail/human-resources-hr-internship-in-jaipur-at-zenius1752052664) | 📍 Jaipur | 💼 On Site | 📅 Jul 11 |
+| 🏢 KatSquare | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-multiple-locations-at-katsquare1752049939) | 📍 Belgaum, Belgaum Division | 💼 On Site | 📅 Jul 11 |
+| 🏢 RampMyCity | [Architecture](https://internshala.com/internship/detail/architecture-internship-in-mumbai-at-rampmycity1750400603) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jul 11 |
 | 🏢 Bramhachari Someshwar Chaitnya Kalyankari Sanstha, Nashik | [Digital Marketing](https://internshala.com/internship/detail/digital-marketing-internship-in-multiple-locations-at-bramhachari-someshwar-chaitnya-kalyankari-sanstha-nashik1751975883) | 📍 Aurangabad, Kolhapur, Pune, Sangli, Solapur, Osmanabad, Satara, Mumbai, Lonavala, Baramati, Barshi, Nashik, Mahabaleshwar | 💼 On Site | 📅 Jul 11 |
 | 🏢 Beeyond Tech | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-mumbai-at-beeyond-tech1751460190) | 📍 Mumbai | 💼 On Site | 📅 Jul 11 |
 | 🏢 Urja Talents | [Personal Assistant Manager](https://internshala.com/internship/detail/personal-assistant-manager-internship-in-multiple-locations-at-urja-talents1750049053) | 📍 Thane, Navi Mumbai, Mumbai, Virar, Vasai, Mira Bhayandar, Bandra | 💼 On Site | 📅 Jul 11 |
-| 🏢 ABEX Excellence Private Limited | [AI Researcher (Non Tech)](https://internshala.com/internship/detail/ai-researcher-non-tech-internship-in-chennai-at-abex-excellence-private-limited1751362457) | 📍 Chennai | 💼 On Site | 📅 Jul 11 |
 | 🏢 Go Picnic Technology Solutions | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-go-picnic-technology-solutions1751348332) | 📍 Chennai, Ramapuram | 💼 On Site | 📅 Jul 11 |
 | 🏢 EG Allied Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-eg-allied-private-limited1751881904) | 📍 Jaipur | 💼 On Site | 📅 Jul 11 |
 | 🏢 WebleyHUB | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-webleyhub1752211699) | 📍 Work from home | 💼 On Site | 📅 Jul 11 |
@@ -67,18 +70,14 @@
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 11 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 11 |
 | 🏢 Arhant Solutions | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-ahmedabad-at-arhant-solutions1752147013) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 11 |
-| 🏢 Hv Technologies | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-hv-technologies1752204941) | 📍 Work from home | 💼 On Site | 📅 Jul 11 |
-| 🏢 PolicyX.com | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-policyxcom1752156546) | 📍 Gurgaon, Delhi | 💼 On Site | 📅 Jul 11 |
+| 🏢 OnlineMic | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-onlinemic1752233403) | 📍 Work from home | 💼 On Site | 📅 Jul 11 |
 | 🏢 Tellis Technologies Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-tellis-technologies-private-limited1752129839) | 📍 Work from home | 💼 On Site | 📅 Jul 11 |
 | 🏢 Maxgen Technologies Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-pune-at-maxgen-technologies-private-limited1752080607) | 📍 Pune | 💼 On Site | 📅 Jul 11 |
-| 🏢 Fidore Health | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-delhi-at-fidore-health1752079290) | 📍 Delhi | 💼 On Site | 📅 Jul 11 |
 | 🏢 Creatiwise | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-creatiwise1752051861) | 📍 Work from home | 💼 On Site | 📅 Jul 11 |
-| 🏢 Trivy Technologies Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-trivy-technologies-private-limited1752041684) | 📍 Work from home | 💼 On Site | 📅 Jul 11 |
-| 🏢 Archly Inc | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-archly-inc1752038287) | 📍 Work from home | 💼 On Site | 📅 Jul 11 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-11 06:36 UTC*
+*Powered by Opdrop | Last update: 2025-07-11 12:49 UTC*
