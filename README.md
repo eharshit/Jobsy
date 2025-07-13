@@ -57,9 +57,9 @@
 | 🏢 S1 SHIPLEE (OPC) PRIVATE LIMITED | [Backend/API Developer For Shopify App](https://internshala.com/internship/detail/work-from-home-backend-api-developer-for-shopify-app-internship-at-s1-shiplee-opc-private-limited1751952169) | 📍 Work from home | 💼 On Site | 📅 Jul 13 |
 | 🏢 Tharsha Ventures Private Limited (EldersIndia) | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-bangalore-at-tharsha-ventures-private-limited-eldersindia1752217271) | 📍 Bangalore | 💼 On Site | 📅 Jul 13 |
 | 🏢 Across The Globe (ATG) | [MERN Stack Developer](https://internshala.com/internship/detail/work-from-home-mern-stack-developer-internship-at-across-the-globe-atg1752334294) | 📍 Work from home | 💼 On Site | 📅 Jul 13 |
-| 🏢 Urja Talents | [Personal Assistant Manager](https://internshala.com/internship/detail/personal-assistant-manager-internship-in-multiple-locations-at-urja-talents1750049053) | 📍 Thane, Navi Mumbai, Mumbai, Virar, Vasai, Mira Bhayandar, Bandra | 💼 On Site | 📅 Jul 13 |
 | 🏢 KatSquare | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-multiple-locations-at-katsquare1752049939) | 📍 Belgaum, Belgaum Division | 💼 On Site | 📅 Jul 13 |
 | 🏢 RampMyCity | [Architecture](https://internshala.com/internship/detail/architecture-internship-in-mumbai-at-rampmycity1750400603) | 📍 Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jul 13 |
+| 🏢 Urja Talents | [Personal Assistant Manager](https://internshala.com/internship/detail/personal-assistant-manager-internship-in-multiple-locations-at-urja-talents1750049053) | 📍 Thane, Navi Mumbai, Mumbai, Virar, Vasai, Mira Bhayandar, Bandra | 💼 On Site | 📅 Jul 13 |
 | 🏢 Beeyond Tech | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-mumbai-at-beeyond-tech1751460190) | 📍 Mumbai | 💼 On Site | 📅 Jul 13 |
 | 🏢 Bramhachari Someshwar Chaitnya Kalyankari Sanstha, Nashik | [Digital Marketing](https://internshala.com/internship/detail/digital-marketing-internship-in-multiple-locations-at-bramhachari-someshwar-chaitnya-kalyankari-sanstha-nashik1751975883) | 📍 Aurangabad, Kolhapur, Pune, Sangli, Solapur, Osmanabad, Satara, Mumbai, Lonavala, Baramati, Barshi, Nashik, Mahabaleshwar | 💼 On Site | 📅 Jul 13 |
 | 🏢 WebleyHUB | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-webleyhub1752211699) | 📍 Work from home | 💼 On Site | 📅 Jul 13 |
@@ -67,15 +67,15 @@
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 13 |
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 13 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 13 |
-| 🏢 Futurionic Private Limited | [UI/UX Testing](https://internshala.com/internship/detail/work-from-home-ui-ux-testing-internship-at-futurionic-private-limited1752339551) | 📍 Work from home | 💼 On Site | 📅 Jul 13 |
 | 🏢 Algo Div | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-bangalore-at-algo-div1752238088) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jul 13 |
 | 🏢 HighScores | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-highscores1752341655) | 📍 Work from home | 💼 On Site | 📅 Jul 13 |
-| 🏢 Hypweb Solutions LLP | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-hypweb-solutions-llp1752334392) | 📍 Work from home | 💼 On Site | 📅 Jul 13 |
-| 🏢 Eric Web Solutions | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-eric-web-solutions1752326187) | 📍 Work from home | 💼 On Site | 📅 Jul 13 |
+| 🏢 Hooman Digital LLP | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-hooman-digital-llp1752246538) | 📍 Work from home | 💼 On Site | 📅 Jul 13 |
+| 🏢 Ruchika  Poojary | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-ruchika-poojary1752237747) | 📍 Mumbai | 💼 On Site | 📅 Jul 13 |
+| 🏢 Arhant Solutions | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-ahmedabad-at-arhant-solutions1752147013) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 13 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-13 06:35 UTC*
+*Powered by Opdrop | Last update: 2025-07-13 12:47 UTC*
