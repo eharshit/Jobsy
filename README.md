@@ -9,8 +9,8 @@
 ## 📊 Quick Stats
 
 - **55** total opportunities
-- **52** unique companies
-- **17** different locations
+- **45** unique companies
+- **16** different locations
 
 ---
 
@@ -53,11 +53,18 @@
 | 🏢 Deepvue Technologies | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-deepvue-technologies1751524213) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
 | 🏢 Warewe Consultancy Private Limited | [Node.js Developer/Backend Developer](https://internshala.com/internship/detail/nodejs-developer-backend-developer-internship-in-gurgaon-at-warewe-consultancy-private-limited1752208432) | 📍 Gurgaon | 💼 On Site | 📅 Jul 15 |
 | 🏢 S1 SHIPLEE (OPC) PRIVATE LIMITED | [Backend/API Developer For Shopify App](https://internshala.com/internship/detail/work-from-home-backend-api-developer-for-shopify-app-internship-at-s1-shiplee-opc-private-limited1751952169) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
+| 🏢 Dobby Ads | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-dobby-ads1752559588) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
 | 🏢 Tharsha Ventures Private Limited (EldersIndia) | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-bangalore-at-tharsha-ventures-private-limited-eldersindia1752217271) | 📍 Bangalore | 💼 On Site | 📅 Jul 15 |
 | 🏢 Across The Globe (ATG) | [MERN Stack Developer](https://internshala.com/internship/detail/work-from-home-mern-stack-developer-internship-at-across-the-globe-atg1752334294) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
 | 🏢 Diasimos Private Limited | [Mern Stack Developer Internship](https://internshala.com/internship/detail/mern-stack-developer-internship-internship-in-ahmedabad-at-diasimos-private-limited1752484523) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 15 |
-| 🏢 I2global School | [Sales and Marketing](https://internshala.com/internship/detail/sales-and-marketing-internship-in-chennai-at-i2global-school1751269299) | 📍 Chennai | 💼 On Site | 📅 Jul 15 |
-| 🏢 Acelucid Technologies | [Lead Generation Trainee](https://internshala.com/internship/detail/lead-generation-trainee-internship-in-multiple-locations-at-acelucid-technologies1752220803) | 📍 Dehradun, Uttarakhand | 💼 On Site | 📅 Jul 15 |
+| 🏢 Royal Tour & Travel India Private Limited | [Travel & Tourism](https://internshala.com/internship/detail/travel-tourism-internship-in-multiple-locations-at-royal-tour-travel-india-private-limited1752467136) | 📍 Chennai, Delhi, Ghaziabad, Gorakhpur, Gurgaon, Indore, Lucknow, Hyderabad, Bhopal, Mumbai, Noida, Allahabad, Bangalore, Kanpur Dehat, Varanasi | 💼 On Site | 📅 Jul 15 |
+| 🏢 Mr n Mrs Pet | [Customer Service/Customer Support](https://internshala.com/internship/detail/customer-service-customer-support-internship-in-jaipur-at-mr-n-mrs-pet1751093765) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
+| 🏢 Mr n Mrs Pet | [Post Sales](https://internshala.com/internship/detail/post-sales-internship-in-jaipur-at-mr-n-mrs-pet1751118323) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
+| 🏢 Mr n Mrs Pet | [Search Engine Optimization (SEO)](https://internshala.com/internship/detail/search-engine-optimization-seo-internship-in-jaipur-at-mr-n-mrs-pet1751093873) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
+| 🏢 Mr n Mrs Pet | [Business Development Executive](https://internshala.com/internship/detail/business-development-executive-internship-in-jaipur-at-mr-n-mrs-pet1751093804) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
+| 🏢 Mr n Mrs Pet | [Sales](https://internshala.com/internship/detail/sales-internship-in-jaipur-at-mr-n-mrs-pet1751093827) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
+| 🏢 Mr n Mrs Pet | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-jaipur-at-mr-n-mrs-pet1751438006) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
+| 🏢 Mr n Mrs Pet | [Social Media Marketing](https://internshala.com/internship/detail/social-media-marketing-internship-in-jaipur-at-mr-n-mrs-pet1751438180) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
 | 🏢 EG Allied Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-eg-allied-private-limited1752472455) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
 | 🏢 WebleyHUB | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-webleyhub1752211699) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 15 |
@@ -66,17 +73,10 @@
 | 🏢 Algo Div | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-bangalore-at-algo-div1752238088) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jul 15 |
 | 🏢 Radiantly | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-radiantly1752513860) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
 | 🏢 ADmyBRAND.com | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-admybrandcom1752483791) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
-| 🏢 Ayu Devices | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-bangalore-at-ayu-devices1752479701) | 📍 Bangalore | 💼 On Site | 📅 Jul 15 |
-| 🏢 Appz Global Tech | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-noida-at-appz-global-tech1752473920) | 📍 Noida | 💼 On Site | 📅 Jul 15 |
-| 🏢 HighScores | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-highscores1752341655) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
-| 🏢 Hooman Digital LLP | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-hooman-digital-llp1752246538) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
-| 🏢 Ruchika  Poojary | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-mumbai-at-ruchika-poojary1752237747) | 📍 Mumbai | 💼 On Site | 📅 Jul 15 |
-| 🏢 Arhant Solutions | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-ahmedabad-at-arhant-solutions1752147013) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 15 |
-| 🏢 Tellis Technologies Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-tellis-technologies-private-limited1752129839) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-15 02:06 UTC*
+*Powered by Opdrop | Last update: 2025-07-15 06:39 UTC*
