@@ -9,7 +9,7 @@
 ## 📊 Quick Stats
 
 - **54** total opportunities
-- **47** unique companies
+- **46** unique companies
 - **16** different locations
 
 ---
@@ -63,19 +63,19 @@
 | 🏢 Algo Div | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-bangalore-at-algo-div1752238088) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jul 15 |
 | 🏢 Mr n Mrs Pet | [Customer Service/Customer Support](https://internshala.com/internship/detail/customer-service-customer-support-internship-in-jaipur-at-mr-n-mrs-pet1751093765) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
 | 🏢 Mr n Mrs Pet | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-jaipur-at-mr-n-mrs-pet1751438006) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
-| 🏢 Mr n Mrs Pet | [Social Media Marketing](https://internshala.com/internship/detail/social-media-marketing-internship-in-jaipur-at-mr-n-mrs-pet1751438180) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
-| 🏢 Mr n Mrs Pet | [Business Development Executive](https://internshala.com/internship/detail/business-development-executive-internship-in-jaipur-at-mr-n-mrs-pet1751093804) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
+| 🏢 Mr n Mrs Pet | [Post Sales](https://internshala.com/internship/detail/post-sales-internship-in-jaipur-at-mr-n-mrs-pet1751118323) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
+| 🏢 Mr n Mrs Pet | [Search Engine Optimization (SEO)](https://internshala.com/internship/detail/search-engine-optimization-seo-internship-in-jaipur-at-mr-n-mrs-pet1751093873) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
+| 🏢 Mr n Mrs Pet | [Sales](https://internshala.com/internship/detail/sales-internship-in-jaipur-at-mr-n-mrs-pet1751093827) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
 | 🏢 Royal Tour & Travel India Private Limited | [Travel & Tourism](https://internshala.com/internship/detail/travel-tourism-internship-in-multiple-locations-at-royal-tour-travel-india-private-limited1752467136) | 📍 Chennai, Delhi, Ghaziabad, Gorakhpur, Gurgaon, Indore, Lucknow, Hyderabad, Bhopal, Mumbai, Noida, Allahabad, Bangalore, Kanpur Dehat, Varanasi | 💼 On Site | 📅 Jul 15 |
 | 🏢 EG Allied Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-eg-allied-private-limited1752472455) | 📍 Jaipur | 💼 On Site | 📅 Jul 15 |
 | 🏢 WebleyHUB | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-webleyhub1752211699) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 15 |
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 15 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
-| 🏢 Ayush Agrawal | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-ayush-agrawal1752579506) | 📍 Work from home | 💼 On Site | 📅 Jul 15 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-15 12:52 UTC*
+*Powered by Opdrop | Last update: 2025-07-15 18:36 UTC*
