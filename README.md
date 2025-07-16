@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** July 16, 2025
-**Total Listings:** 53
+**Total Listings:** 52
 
 ## 📊 Quick Stats
 
-- **53** total opportunities
-- **46** unique companies
-- **16** different locations
+- **52** total opportunities
+- **47** unique companies
+- **15** different locations
 
 ---
 
@@ -27,7 +27,6 @@
 | 🏢 Advanon | [SOFTWARE ENGINEERING INTERNSHIP](https://remoteok.com/remote-jobs/7763-remote-software-engineering-internship-advanon) | 📍 Remote | 🏠 Remote | 📅 Jul 16 |
 | 🏢 Phidato | [Software Developer Internship](https://remoteok.com/remote-jobs/6881-remote-software-developer-internship-phidato) | 📍 Remote | 🏠 Remote | 📅 Jul 16 |
 | 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Jul 16 |
-| 🏢 Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-pune-at-maxgen-technologies-private-limited1750042777) | 📍 Pune | 💼 On Site | 📅 Jul 16 |
 | 🏢 CometChat | [Web Developer (React)](https://internshala.com/internship/detail/work-from-home-web-developer-react-internship-at-cometchat1750332340) | 📍 Work from home | 💼 On Site | 📅 Jul 16 |
 | 🏢 Bditto | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-bditto1748434063) | 📍 Work from home | 💼 On Site | 📅 Jul 16 |
 | 🏢 Bright Future Institute Private Limited | [Full Stack Developer (use LLM AI Tools)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-use-llm-ai-tools-internship-at-bright-future-institute-private-limited1750148526) | 📍 Work from home | 💼 On Site | 📅 Jul 16 |
@@ -63,13 +62,13 @@
 | 🏢 Mr n Mrs Pet | [Customer Service/Customer Support](https://internshala.com/internship/detail/customer-service-customer-support-internship-in-jaipur-at-mr-n-mrs-pet1751093765) | 📍 Jaipur | 💼 On Site | 📅 Jul 16 |
 | 🏢 Mr n Mrs Pet | [Post Sales](https://internshala.com/internship/detail/post-sales-internship-in-jaipur-at-mr-n-mrs-pet1751118323) | 📍 Jaipur | 💼 On Site | 📅 Jul 16 |
 | 🏢 Mr n Mrs Pet | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-jaipur-at-mr-n-mrs-pet1751438006) | 📍 Jaipur | 💼 On Site | 📅 Jul 16 |
-| 🏢 Mr n Mrs Pet | [Business Development Executive](https://internshala.com/internship/detail/business-development-executive-internship-in-jaipur-at-mr-n-mrs-pet1751093804) | 📍 Jaipur | 💼 On Site | 📅 Jul 16 |
 | 🏢 Mr n Mrs Pet | [Sales](https://internshala.com/internship/detail/sales-internship-in-jaipur-at-mr-n-mrs-pet1751093827) | 📍 Jaipur | 💼 On Site | 📅 Jul 16 |
 | 🏢 EG Allied Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-eg-allied-private-limited1752472455) | 📍 Jaipur | 💼 On Site | 📅 Jul 16 |
 | 🏢 WebleyHUB | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-webleyhub1752211699) | 📍 Work from home | 💼 On Site | 📅 Jul 16 |
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 16 |
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 16 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 16 |
+| 🏢 Sportech Innovation Lab Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-sportech-innovation-lab-private-limited1752683923) | 📍 Work from home | 💼 On Site | 📅 Jul 16 |
 | 🏢 Harshit Gurjar | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-harshit-gurjar1752665809) | 📍 Work from home | 💼 On Site | 📅 Jul 16 |
 
 ---
@@ -77,4 +76,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-16 12:53 UTC*
+*Powered by Opdrop | Last update: 2025-07-16 18:36 UTC*
