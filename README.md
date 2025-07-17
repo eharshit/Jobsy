@@ -9,7 +9,7 @@
 ## 📊 Quick Stats
 
 - **52** total opportunities
-- **46** unique companies
+- **47** unique companies
 - **15** different locations
 
 ---
@@ -51,6 +51,7 @@
 | 🏢 Deepvue Technologies | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-deepvue-technologies1751524213) | 📍 Work from home | 💼 On Site | 📅 Jul 17 |
 | 🏢 Warewe Consultancy Private Limited | [Node.js Developer/Backend Developer](https://internshala.com/internship/detail/nodejs-developer-backend-developer-internship-in-gurgaon-at-warewe-consultancy-private-limited1752208432) | 📍 Gurgaon | 💼 On Site | 📅 Jul 17 |
 | 🏢 S1 SHIPLEE (OPC) PRIVATE LIMITED | [Backend/API Developer For Shopify App](https://internshala.com/internship/detail/work-from-home-backend-api-developer-for-shopify-app-internship-at-s1-shiplee-opc-private-limited1751952169) | 📍 Work from home | 💼 On Site | 📅 Jul 17 |
+| 🏢 Listerr - An Indian Marketplace | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-listerr-an-indian-marketplace1752720603) | 📍 Work from home | 💼 On Site | 📅 Jul 17 |
 | 🏢 Dobby Ads | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-dobby-ads1752559588) | 📍 Work from home | 💼 On Site | 📅 Jul 17 |
 | 🏢 CogniAI Private Limited | [Full Stack Developer (Mern Stack)](https://internshala.com/internship/detail/full-stack-developer-mern-stack-internship-in-gurgaon-at-cogniai-private-limited1752664005) | 📍 Gurgaon                                                                (Hybrid) | 💼 On Site | 📅 Jul 17 |
 | 🏢 7 SEERS | [Full-Stack App Developer Internship (iOS + Android)](https://internshala.com/internship/detail/work-from-home-full-stack-app-developer-internship-ios-android-internship-at-7-seers1752571108) | 📍 Work from home | 💼 On Site | 📅 Jul 17 |
@@ -59,21 +60,20 @@
 | 🏢 Across The Globe (ATG) | [MERN Stack Developer](https://internshala.com/internship/detail/work-from-home-mern-stack-developer-internship-at-across-the-globe-atg1752334294) | 📍 Work from home | 💼 On Site | 📅 Jul 17 |
 | 🏢 Diasimos Private Limited | [Mern Stack Developer Internship](https://internshala.com/internship/detail/mern-stack-developer-internship-internship-in-ahmedabad-at-diasimos-private-limited1752484523) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 17 |
 | 🏢 Algo Div | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-bangalore-at-algo-div1752238088) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Jul 17 |
-| 🏢 Mr n Mrs Pet | [Customer Service/Customer Support](https://internshala.com/internship/detail/customer-service-customer-support-internship-in-jaipur-at-mr-n-mrs-pet1751093765) | 📍 Jaipur | 💼 On Site | 📅 Jul 17 |
 | 🏢 Mr n Mrs Pet | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-jaipur-at-mr-n-mrs-pet1751438006) | 📍 Jaipur | 💼 On Site | 📅 Jul 17 |
-| 🏢 Mr n Mrs Pet | [Social Media Marketing](https://internshala.com/internship/detail/social-media-marketing-internship-in-jaipur-at-mr-n-mrs-pet1751438180) | 📍 Jaipur | 💼 On Site | 📅 Jul 17 |
-| 🏢 Mr n Mrs Pet | [Post Sales](https://internshala.com/internship/detail/post-sales-internship-in-jaipur-at-mr-n-mrs-pet1751118323) | 📍 Jaipur | 💼 On Site | 📅 Jul 17 |
-| 🏢 Mr n Mrs Pet | [Sales](https://internshala.com/internship/detail/sales-internship-in-jaipur-at-mr-n-mrs-pet1751093827) | 📍 Jaipur | 💼 On Site | 📅 Jul 17 |
+| 🏢 Mr n Mrs Pet | [Business Development Executive](https://internshala.com/internship/detail/business-development-executive-internship-in-jaipur-at-mr-n-mrs-pet1751093804) | 📍 Jaipur | 💼 On Site | 📅 Jul 17 |
+| 🏢 Mr n Mrs Pet | [Customer Service/Customer Support](https://internshala.com/internship/detail/customer-service-customer-support-internship-in-jaipur-at-mr-n-mrs-pet1751093765) | 📍 Jaipur | 💼 On Site | 📅 Jul 17 |
+| 🏢 Mr n Mrs Pet | [Search Engine Optimization (SEO)](https://internshala.com/internship/detail/search-engine-optimization-seo-internship-in-jaipur-at-mr-n-mrs-pet1751093873) | 📍 Jaipur | 💼 On Site | 📅 Jul 17 |
 | 🏢 EG Allied Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-eg-allied-private-limited1752472455) | 📍 Jaipur | 💼 On Site | 📅 Jul 17 |
 | 🏢 WebleyHUB | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-webleyhub1752211699) | 📍 Work from home | 💼 On Site | 📅 Jul 17 |
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 17 |
 | 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 17 |
 | 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 17 |
-| 🏢 Sportech Innovation Lab Private Limited | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-sportech-innovation-lab-private-limited1752683923) | 📍 Work from home | 💼 On Site | 📅 Jul 17 |
+| 🏢 SPACE For Early Childhood Education | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-space-for-early-childhood-education1752732296) | 📍 Work from home | 💼 On Site | 📅 Jul 17 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-17 02:03 UTC*
+*Powered by Opdrop | Last update: 2025-07-17 06:38 UTC*
