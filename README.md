@@ -30,7 +30,6 @@
 | 🏢 CometChat | [Web Developer (React)](https://internshala.com/internship/detail/work-from-home-web-developer-react-internship-at-cometchat1750332340) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
 | 🏢 Basti Ki Pathshala Foundation | [Mobile App Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-frontend-developer-internship-at-basti-ki-pathshala-foundation1750424164) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
 | 🏢 Basti Ki Pathshala Foundation | [Mobile App Backend Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-backend-developer-internship-at-basti-ki-pathshala-foundation1750424138) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
-| 🏢 Bditto | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-bditto1748434063) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
 | 🏢 Bright Future Institute Private Limited | [Full Stack Developer (use LLM AI Tools)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-use-llm-ai-tools-internship-at-bright-future-institute-private-limited1750148526) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
 | 🏢 Maxgen Technologies Private Limited | [React JS Developer](https://internshala.com/internship/detail/react-js-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1752080539) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 18 |
 | 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1750756402) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 18 |
@@ -58,17 +57,18 @@
 | 🏢 Across The Globe (ATG) | [MERN Stack Developer](https://internshala.com/internship/detail/work-from-home-mern-stack-developer-internship-at-across-the-globe-atg1752334294) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
 | 🏢 Diasimos Private Limited | [Mern Stack Developer Internship](https://internshala.com/internship/detail/mern-stack-developer-internship-internship-in-ahmedabad-at-diasimos-private-limited1752484523) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 18 |
 | 🏢 Lohagarh Software Solutions Pvt Ltd | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-jaipur-at-lohagarh-software-solutions-pvt-ltd1752812739) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
-| 🏢 Prolegion Pvt. Ltd. | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-jaipur-at-prolegion-pvt-ltd1752571810) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
 | 🏢 The Trading Fox | [Videography](https://internshala.com/internship/detail/videography-internship-in-jaipur-at-the-trading-fox1752734340) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
+| 🏢 Prolegion Pvt. Ltd. | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-jaipur-at-prolegion-pvt-ltd1752571810) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
 | 🏢 The Trading Fox | [YouTube Expert](https://internshala.com/internship/detail/youtube-expert-internship-in-jaipur-at-the-trading-fox1752736514) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
 | 🏢 Travel Lykke Private Limited | [Video Animator](https://internshala.com/internship/detail/video-animator-internship-in-jaipur-at-travel-lykke-private-limited1751707788) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
 | 🏢 TrBahadurpur | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-raipur-at-trbahadurpur1751460215) | 📍 Raipur | 💼 On Site | 📅 Jul 18 |
 | 🏢 Orufy Technologies Private Limited | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-jaipur-at-orufy-technologies-private-limited1752130723) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
 | 🏢 EG Allied Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-eg-allied-private-limited1752472455) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
+| 🏢 WebleyHUB | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-webleyhub1752211699) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-18 12:54 UTC*
+*Powered by Opdrop | Last update: 2025-07-18 18:35 UTC*
