@@ -10,7 +10,7 @@
 
 - **47** total opportunities
 - **44** unique companies
-- **13** different locations
+- **12** different locations
 
 ---
 
@@ -41,8 +41,8 @@
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jul 18 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jul 18 |
 | 🏢 IREED Academy India Private Limited | [Frontend Web Developer](https://internshala.com/internship/detail/frontend-web-developer-internship-in-gurgaon-at-ireed-academy-india-private-limited1752335962) | 📍 Gurgaon | 💼 On Site | 📅 Jul 18 |
-| 🏢 Mohi Lifestile Solutions Private Limited | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Jul 18 |
 | 🏢 Requin Solutions Private Limited | [MERN Stack Web Developer](https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1751091176) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
+| 🏢 Mohi Lifestile Solutions Private Limited | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Jul 18 |
 | 🏢 Zeru | [Web3 Full Stack Developer](https://internshala.com/internship/detail/work-from-home-web3-full-stack-developer-internship-at-zeru1752561580) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
 | 🏢 Lyfebynary 0103 LLP | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-multiple-locations-at-lyfebynary-0103-llp1751950554) | 📍 Pune, Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jul 18 |
 | 🏢 GSharp Media Private Limited | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-mumbai-at-gsharp-media-pvt-ltd1751019567) | 📍 Mumbai | 💼 On Site | 📅 Jul 18 |
@@ -50,7 +50,6 @@
 | 🏢 Deepvue Technologies | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-deepvue-technologies1751524213) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
 | 🏢 Warewe Consultancy Private Limited | [Node.js Developer/Backend Developer](https://internshala.com/internship/detail/nodejs-developer-backend-developer-internship-in-gurgaon-at-warewe-consultancy-private-limited1752208432) | 📍 Gurgaon | 💼 On Site | 📅 Jul 18 |
 | 🏢 S1 SHIPLEE (OPC) PRIVATE LIMITED | [Backend/API Developer For Shopify App](https://internshala.com/internship/detail/work-from-home-backend-api-developer-for-shopify-app-internship-at-s1-shiplee-opc-private-limited1751952169) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
-| 🏢 Chili Pili | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-bangalore-at-chili-pili1752818156) | 📍 Bangalore | 💼 On Site | 📅 Jul 18 |
 | 🏢 Dobby Ads | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-dobby-ads1752559588) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
 | 🏢 CogniAI Private Limited | [Full Stack Developer (Mern Stack)](https://internshala.com/internship/detail/full-stack-developer-mern-stack-internship-in-gurgaon-at-cogniai-private-limited1752664005) | 📍 Gurgaon                                                                (Hybrid) | 💼 On Site | 📅 Jul 18 |
 | 🏢 7 SEERS | [Full-Stack App Developer Internship (iOS + Android)](https://internshala.com/internship/detail/work-from-home-full-stack-app-developer-internship-ios-android-internship-at-7-seers1752571108) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
@@ -58,12 +57,13 @@
 | 🏢 Tharsha Ventures Private Limited (EldersIndia) | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-bangalore-at-tharsha-ventures-private-limited-eldersindia1752217271) | 📍 Bangalore | 💼 On Site | 📅 Jul 18 |
 | 🏢 Across The Globe (ATG) | [MERN Stack Developer](https://internshala.com/internship/detail/work-from-home-mern-stack-developer-internship-at-across-the-globe-atg1752334294) | 📍 Work from home | 💼 On Site | 📅 Jul 18 |
 | 🏢 Diasimos Private Limited | [Mern Stack Developer Internship](https://internshala.com/internship/detail/mern-stack-developer-internship-internship-in-ahmedabad-at-diasimos-private-limited1752484523) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 18 |
+| 🏢 Lohagarh Software Solutions Pvt Ltd | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-jaipur-at-lohagarh-software-solutions-pvt-ltd1752812739) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
+| 🏢 Prolegion Pvt. Ltd. | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-jaipur-at-prolegion-pvt-ltd1752571810) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
 | 🏢 The Trading Fox | [Videography](https://internshala.com/internship/detail/videography-internship-in-jaipur-at-the-trading-fox1752734340) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
-| 🏢 Travel Lykke Private Limited | [Video Animator](https://internshala.com/internship/detail/video-animator-internship-in-jaipur-at-travel-lykke-private-limited1751707788) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
 | 🏢 The Trading Fox | [YouTube Expert](https://internshala.com/internship/detail/youtube-expert-internship-in-jaipur-at-the-trading-fox1752736514) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
-| 🏢 Orufy Technologies Private Limited | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-jaipur-at-orufy-technologies-private-limited1752130723) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
+| 🏢 Travel Lykke Private Limited | [Video Animator](https://internshala.com/internship/detail/video-animator-internship-in-jaipur-at-travel-lykke-private-limited1751707788) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
 | 🏢 TrBahadurpur | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-raipur-at-trbahadurpur1751460215) | 📍 Raipur | 💼 On Site | 📅 Jul 18 |
-| 🏢 Acelucid Technologies | [Lead Generation Trainee](https://internshala.com/internship/detail/lead-generation-trainee-internship-in-multiple-locations-at-acelucid-technologies1752220803) | 📍 Dehradun, Uttarakhand | 💼 On Site | 📅 Jul 18 |
+| 🏢 Orufy Technologies Private Limited | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-jaipur-at-orufy-technologies-private-limited1752130723) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
 | 🏢 EG Allied Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-eg-allied-private-limited1752472455) | 📍 Jaipur | 💼 On Site | 📅 Jul 18 |
 
 ---
@@ -71,4 +71,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-18 06:37 UTC*
+*Powered by Opdrop | Last update: 2025-07-18 12:54 UTC*
