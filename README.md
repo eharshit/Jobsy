@@ -39,8 +39,8 @@
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jul 20 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jul 20 |
 | 🏢 IREED Academy India Private Limited | [Frontend Web Developer](https://internshala.com/internship/detail/frontend-web-developer-internship-in-gurgaon-at-ireed-academy-india-private-limited1752335962) | 📍 Gurgaon | 💼 On Site | 📅 Jul 20 |
-| 🏢 Mohi Lifestile Solutions Private Limited | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Jul 20 |
 | 🏢 Requin Solutions Private Limited | [MERN Stack Web Developer](https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1751091176) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
+| 🏢 Mohi Lifestile Solutions Private Limited | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Jul 20 |
 | 🏢 Zeru | [Web3 Full Stack Developer](https://internshala.com/internship/detail/work-from-home-web3-full-stack-developer-internship-at-zeru1752561580) | 📍 Work from home | 💼 On Site | 📅 Jul 20 |
 | 🏢 Lyfebynary 0103 LLP | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-multiple-locations-at-lyfebynary-0103-llp1751950554) | 📍 Pune, Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jul 20 |
 | 🏢 GSharp Media Private Limited | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-mumbai-at-gsharp-media-pvt-ltd1751019567) | 📍 Mumbai | 💼 On Site | 📅 Jul 20 |
@@ -54,16 +54,16 @@
 | 🏢 Tharsha Ventures Private Limited (EldersIndia) | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-bangalore-at-tharsha-ventures-private-limited-eldersindia1752217271) | 📍 Bangalore | 💼 On Site | 📅 Jul 20 |
 | 🏢 Across The Globe (ATG) | [MERN Stack Developer](https://internshala.com/internship/detail/work-from-home-mern-stack-developer-internship-at-across-the-globe-atg1752334294) | 📍 Work from home | 💼 On Site | 📅 Jul 20 |
 | 🏢 Diasimos Private Limited | [Mern Stack Developer Internship](https://internshala.com/internship/detail/mern-stack-developer-internship-internship-in-ahmedabad-at-diasimos-private-limited1752484523) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 20 |
-| 🏢 The Trading Fox | [YouTube Expert](https://internshala.com/internship/detail/youtube-expert-internship-in-jaipur-at-the-trading-fox1752736514) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
-| 🏢 HD Design Studio | [Architecture](https://internshala.com/internship/detail/architecture-internship-in-multiple-locations-at-hd-design-studio1752057921) | 📍 Thane, Navi Mumbai, Mumbai | 💼 On Site | 📅 Jul 20 |
+| 🏢 Jorim Technology Solutions Private Limited | [Digital Marketing](https://internshala.com/internship/detail/digital-marketing-internship-in-chennai-at-jorim-technology-solutions-private-limited1752728649) | 📍 Chennai                                                                (Hybrid) | 💼 On Site | 📅 Jul 20 |
+| 🏢 Lohagarh Software Solutions Pvt Ltd | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-jaipur-at-lohagarh-software-solutions-pvt-ltd1752812739) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
 | 🏢 MiTran Global | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-chennai-at-mitran-global1751542350) | 📍 Chennai | 💼 On Site | 📅 Jul 20 |
 | 🏢 The Trading Fox | [Videography](https://internshala.com/internship/detail/videography-internship-in-jaipur-at-the-trading-fox1752734340) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
-| 🏢 Jorim Technology Solutions Private Limited | [Digital Marketing](https://internshala.com/internship/detail/digital-marketing-internship-in-chennai-at-jorim-technology-solutions-private-limited1752728649) | 📍 Chennai                                                                (Hybrid) | 💼 On Site | 📅 Jul 20 |
-| 🏢 Restomart | [Sales and Marketing](https://internshala.com/internship/detail/sales-and-marketing-internship-in-chennai-at-restomart1752752843) | 📍 Chennai | 💼 On Site | 📅 Jul 20 |
-| 🏢 Lohagarh Software Solutions Pvt Ltd | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-jaipur-at-lohagarh-software-solutions-pvt-ltd1752812739) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
+| 🏢 HD Design Studio | [Architecture](https://internshala.com/internship/detail/architecture-internship-in-multiple-locations-at-hd-design-studio1752057921) | 📍 Thane, Navi Mumbai, Mumbai | 💼 On Site | 📅 Jul 20 |
 | 🏢 Travel Lykke Private Limited | [Video Animator](https://internshala.com/internship/detail/video-animator-internship-in-jaipur-at-travel-lykke-private-limited1751707788) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
+| 🏢 Restomart | [Sales and Marketing](https://internshala.com/internship/detail/sales-and-marketing-internship-in-chennai-at-restomart1752752843) | 📍 Chennai | 💼 On Site | 📅 Jul 20 |
+| 🏢 The Trading Fox | [YouTube Expert](https://internshala.com/internship/detail/youtube-expert-internship-in-jaipur-at-the-trading-fox1752736514) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
 | 🏢 TrBahadurpur | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-raipur-at-trbahadurpur1751460215) | 📍 Raipur | 💼 On Site | 📅 Jul 20 |
-| 🏢 Prolegion Pvt. Ltd. | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-jaipur-at-prolegion-pvt-ltd1752571810) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
+| 🏢 EG Allied Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-eg-allied-private-limited1752984633) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
 | 🏢 WebleyHUB | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-webleyhub1752211699) | 📍 Work from home | 💼 On Site | 📅 Jul 20 |
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 20 |
 
@@ -72,4 +72,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-20 02:13 UTC*
+*Powered by Opdrop | Last update: 2025-07-20 06:35 UTC*
