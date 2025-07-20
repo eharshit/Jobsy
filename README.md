@@ -9,8 +9,8 @@
 ## 📊 Quick Stats
 
 - **48** total opportunities
-- **45** unique companies
-- **16** different locations
+- **46** unique companies
+- **17** different locations
 
 ---
 
@@ -18,7 +18,6 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
-| 🏢 Talent Corner HR Services | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-talent-corner-hr-services1750405474) | 📍 Mumbai | 💼 On Site | 📅 Jul 20 |
 | 🏢 HENNGE K.K | [Software Engineer Internship](https://remoteok.com/remote-jobs/102971-remote-software-engineer-internship-hennge-k-k) | 📍 Remote | 🏠 Remote | 📅 Jul 20 |
 | 🏢 Sports AI Startup | [IOS Developer Intern Sparrow](https://remoteok.com/remote-jobs/100690-remote-ios-developer-intern-sparrow-sports-ai-startup) | 📍 Remote | 🏠 Remote | 📅 Jul 20 |
 | 🏢 Snowplow Analytics | [Summer Software Engineering Internship](https://remoteok.com/remote-jobs/66244-remote-summer-software-engineering-internship-snowplow-analytics) | 📍 Remote | 🏠 Remote | 📅 Jul 20 |
@@ -27,12 +26,11 @@
 | 🏢 Advanon | [SOFTWARE ENGINEERING INTERNSHIP](https://remoteok.com/remote-jobs/7763-remote-software-engineering-internship-advanon) | 📍 Remote | 🏠 Remote | 📅 Jul 20 |
 | 🏢 Phidato | [Software Developer Internship](https://remoteok.com/remote-jobs/6881-remote-software-developer-internship-phidato) | 📍 Remote | 🏠 Remote | 📅 Jul 20 |
 | 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Jul 20 |
-| 🏢 Basti Ki Pathshala Foundation | [Mobile App Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-frontend-developer-internship-at-basti-ki-pathshala-foundation1750424164) | 📍 Work from home | 💼 On Site | 📅 Jul 20 |
-| 🏢 Basti Ki Pathshala Foundation | [Mobile App Backend Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-backend-developer-internship-at-basti-ki-pathshala-foundation1750424138) | 📍 Work from home | 💼 On Site | 📅 Jul 20 |
 | 🏢 Bright Future Institute Private Limited | [Full Stack Developer (use LLM AI Tools)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-use-llm-ai-tools-internship-at-bright-future-institute-private-limited1750148526) | 📍 Work from home | 💼 On Site | 📅 Jul 20 |
 | 🏢 Maxgen Technologies Private Limited | [React JS Developer](https://internshala.com/internship/detail/react-js-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1752080539) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 20 |
 | 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1750756402) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 20 |
 | 🏢 Creatiwise | [UI Designer](https://internshala.com/internship/detail/ui-designer-internship-in-multiple-locations-at-creatiwise1750855007) | 📍 Pune, Thane, Mumbai, Maharashtra | 💼 On Site | 📅 Jul 20 |
+| 🏢 Eventful India Marketing Services | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-eventful-india-marketing-services1750594548) | 📍 Work from home | 💼 On Site | 📅 Jul 20 |
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Jul 20 |
 | 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Jul 20 |
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jul 20 |
@@ -54,22 +52,24 @@
 | 🏢 Tharsha Ventures Private Limited (EldersIndia) | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-bangalore-at-tharsha-ventures-private-limited-eldersindia1752217271) | 📍 Bangalore | 💼 On Site | 📅 Jul 20 |
 | 🏢 Across The Globe (ATG) | [MERN Stack Developer](https://internshala.com/internship/detail/work-from-home-mern-stack-developer-internship-at-across-the-globe-atg1752334294) | 📍 Work from home | 💼 On Site | 📅 Jul 20 |
 | 🏢 Diasimos Private Limited | [Mern Stack Developer Internship](https://internshala.com/internship/detail/mern-stack-developer-internship-internship-in-ahmedabad-at-diasimos-private-limited1752484523) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 20 |
-| 🏢 Restomart | [Sales and Marketing](https://internshala.com/internship/detail/sales-and-marketing-internship-in-chennai-at-restomart1752752843) | 📍 Chennai | 💼 On Site | 📅 Jul 20 |
+| 🏢 MiTran Global | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-chennai-at-mitran-global1751542350) | 📍 Chennai | 💼 On Site | 📅 Jul 20 |
 | 🏢 Jorim Technology Solutions Private Limited | [Digital Marketing](https://internshala.com/internship/detail/digital-marketing-internship-in-chennai-at-jorim-technology-solutions-private-limited1752728649) | 📍 Chennai                                                                (Hybrid) | 💼 On Site | 📅 Jul 20 |
-| 🏢 HD Design Studio | [Architecture](https://internshala.com/internship/detail/architecture-internship-in-multiple-locations-at-hd-design-studio1752057921) | 📍 Thane, Navi Mumbai, Mumbai | 💼 On Site | 📅 Jul 20 |
 | 🏢 Lohagarh Software Solutions Pvt Ltd | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-jaipur-at-lohagarh-software-solutions-pvt-ltd1752812739) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
 | 🏢 The Trading Fox | [Videography](https://internshala.com/internship/detail/videography-internship-in-jaipur-at-the-trading-fox1752734340) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
 | 🏢 Travel Lykke Private Limited | [Video Animator](https://internshala.com/internship/detail/video-animator-internship-in-jaipur-at-travel-lykke-private-limited1751707788) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
-| 🏢 MiTran Global | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-chennai-at-mitran-global1751542350) | 📍 Chennai | 💼 On Site | 📅 Jul 20 |
+| 🏢 HD Design Studio | [Architecture](https://internshala.com/internship/detail/architecture-internship-in-multiple-locations-at-hd-design-studio1752057921) | 📍 Thane, Navi Mumbai, Mumbai | 💼 On Site | 📅 Jul 20 |
+| 🏢 Restomart | [Sales and Marketing](https://internshala.com/internship/detail/sales-and-marketing-internship-in-chennai-at-restomart1752752843) | 📍 Chennai | 💼 On Site | 📅 Jul 20 |
 | 🏢 The Trading Fox | [YouTube Expert](https://internshala.com/internship/detail/youtube-expert-internship-in-jaipur-at-the-trading-fox1752736514) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
 | 🏢 TrBahadurpur | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-raipur-at-trbahadurpur1751460215) | 📍 Raipur | 💼 On Site | 📅 Jul 20 |
 | 🏢 EG Allied Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-eg-allied-private-limited1752984633) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
 | 🏢 WebleyHUB | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-webleyhub1752211699) | 📍 Work from home | 💼 On Site | 📅 Jul 20 |
 | 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Jul 20 |
+| 🏢 Ahoum | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-anjuna-at-ahoum1751275812) | 📍 North Goa | 💼 On Site | 📅 Jul 20 |
+| 🏢 EmptyCup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-emptycup1750912585) | 📍 Work from home | 💼 On Site | 📅 Jul 20 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-20 12:47 UTC*
+*Powered by Opdrop | Last update: 2025-07-20 18:33 UTC*
