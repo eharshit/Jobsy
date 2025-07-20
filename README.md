@@ -54,13 +54,13 @@
 | 🏢 Tharsha Ventures Private Limited (EldersIndia) | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-bangalore-at-tharsha-ventures-private-limited-eldersindia1752217271) | 📍 Bangalore | 💼 On Site | 📅 Jul 20 |
 | 🏢 Across The Globe (ATG) | [MERN Stack Developer](https://internshala.com/internship/detail/work-from-home-mern-stack-developer-internship-at-across-the-globe-atg1752334294) | 📍 Work from home | 💼 On Site | 📅 Jul 20 |
 | 🏢 Diasimos Private Limited | [Mern Stack Developer Internship](https://internshala.com/internship/detail/mern-stack-developer-internship-internship-in-ahmedabad-at-diasimos-private-limited1752484523) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 20 |
-| 🏢 Jorim Technology Solutions Private Limited | [Digital Marketing](https://internshala.com/internship/detail/digital-marketing-internship-in-chennai-at-jorim-technology-solutions-private-limited1752728649) | 📍 Chennai                                                                (Hybrid) | 💼 On Site | 📅 Jul 20 |
-| 🏢 Lohagarh Software Solutions Pvt Ltd | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-jaipur-at-lohagarh-software-solutions-pvt-ltd1752812739) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
-| 🏢 MiTran Global | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-chennai-at-mitran-global1751542350) | 📍 Chennai | 💼 On Site | 📅 Jul 20 |
-| 🏢 The Trading Fox | [Videography](https://internshala.com/internship/detail/videography-internship-in-jaipur-at-the-trading-fox1752734340) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
-| 🏢 HD Design Studio | [Architecture](https://internshala.com/internship/detail/architecture-internship-in-multiple-locations-at-hd-design-studio1752057921) | 📍 Thane, Navi Mumbai, Mumbai | 💼 On Site | 📅 Jul 20 |
-| 🏢 Travel Lykke Private Limited | [Video Animator](https://internshala.com/internship/detail/video-animator-internship-in-jaipur-at-travel-lykke-private-limited1751707788) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
 | 🏢 Restomart | [Sales and Marketing](https://internshala.com/internship/detail/sales-and-marketing-internship-in-chennai-at-restomart1752752843) | 📍 Chennai | 💼 On Site | 📅 Jul 20 |
+| 🏢 Jorim Technology Solutions Private Limited | [Digital Marketing](https://internshala.com/internship/detail/digital-marketing-internship-in-chennai-at-jorim-technology-solutions-private-limited1752728649) | 📍 Chennai                                                                (Hybrid) | 💼 On Site | 📅 Jul 20 |
+| 🏢 HD Design Studio | [Architecture](https://internshala.com/internship/detail/architecture-internship-in-multiple-locations-at-hd-design-studio1752057921) | 📍 Thane, Navi Mumbai, Mumbai | 💼 On Site | 📅 Jul 20 |
+| 🏢 Lohagarh Software Solutions Pvt Ltd | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-jaipur-at-lohagarh-software-solutions-pvt-ltd1752812739) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
+| 🏢 The Trading Fox | [Videography](https://internshala.com/internship/detail/videography-internship-in-jaipur-at-the-trading-fox1752734340) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
+| 🏢 Travel Lykke Private Limited | [Video Animator](https://internshala.com/internship/detail/video-animator-internship-in-jaipur-at-travel-lykke-private-limited1751707788) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
+| 🏢 MiTran Global | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-chennai-at-mitran-global1751542350) | 📍 Chennai | 💼 On Site | 📅 Jul 20 |
 | 🏢 The Trading Fox | [YouTube Expert](https://internshala.com/internship/detail/youtube-expert-internship-in-jaipur-at-the-trading-fox1752736514) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
 | 🏢 TrBahadurpur | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-raipur-at-trbahadurpur1751460215) | 📍 Raipur | 💼 On Site | 📅 Jul 20 |
 | 🏢 EG Allied Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-eg-allied-private-limited1752984633) | 📍 Jaipur | 💼 On Site | 📅 Jul 20 |
@@ -72,4 +72,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-20 06:35 UTC*
+*Powered by Opdrop | Last update: 2025-07-20 12:47 UTC*
