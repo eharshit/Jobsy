@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** July 25, 2025
-**Total Listings:** 44
+**Total Listings:** 46
 
 ## 📊 Quick Stats
 
-- **44** total opportunities
-- **42** unique companies
-- **12** different locations
+- **46** total opportunities
+- **44** unique companies
+- **11** different locations
 
 ---
 
@@ -29,7 +29,7 @@
 | 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Jul 25 |
 | 🏢 Bright Future Institute Private Limited | [Full Stack Developer (use LLM AI Tools)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-use-llm-ai-tools-internship-at-bright-future-institute-private-limited1750148526) | 📍 Work from home | 💼 On Site | 📅 Jul 25 |
 | 🏢 Maxgen Technologies Private Limited | [React JS Developer](https://internshala.com/internship/detail/react-js-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1752080539) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 25 |
-| 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-maxgen-technologies-private-limited1752218209) | 📍 Pune | 💼 On Site | 📅 Jul 25 |
+| 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1752335290) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 25 |
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Jul 25 |
 | 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Jul 25 |
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jul 25 |
@@ -45,14 +45,16 @@
 | 🏢 IREED Academy India Private Limited | [Frontend Web Developer](https://internshala.com/internship/detail/frontend-web-developer-internship-in-gurgaon-at-ireed-academy-india-private-limited1752335962) | 📍 Gurgaon | 💼 On Site | 📅 Jul 25 |
 | 🏢 4POWER Infocom FZ LLC. | [WordPress And Shopify Developer](https://internshala.com/internship/detail/wordpress-and-shopify-developer-internship-in-mumbai-at-4power-infocom-fz-llc1752143159) | 📍 Mumbai | 💼 On Site | 📅 Jul 25 |
 | 🏢 Anuschka Leather-India Private Limited | [Remote Web Developer & Designer (AI Tools Expertise)](https://internshala.com/internship/detail/work-from-home-remote-web-developer-designer-ai-tools-expertise-internship-at-anuschka-leather-india-private-limited1753353337) | 📍 Work from home | 💼 On Site | 📅 Jul 25 |
+| 🏢 Eniacworld Media Private Limited | [Project Coordinator and Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-project-coordinator-and-web-developer-internship-at-eniacworld-media-private-limited1753427573) | 📍 Work from home | 💼 On Site | 📅 Jul 25 |
 | 🏢 Requin Solutions Private Limited | [MERN Stack Web Developer](https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-requin-solutions-private-limited1751091176) | 📍 Jaipur | 💼 On Site | 📅 Jul 25 |
 | 🏢 Zeru | [Web3 Full Stack Developer](https://internshala.com/internship/detail/work-from-home-web3-full-stack-developer-internship-at-zeru1752561580) | 📍 Work from home | 💼 On Site | 📅 Jul 25 |
 | 🏢 Lyfebynary 0103 LLP | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-multiple-locations-at-lyfebynary-0103-llp1751950554) | 📍 Pune, Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Jul 25 |
 | 🏢 GSharp Media Private Limited | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-mumbai-at-gsharp-media-pvt-ltd1751019567) | 📍 Mumbai | 💼 On Site | 📅 Jul 25 |
 | 🏢 Deepvue Technologies | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-deepvue-technologies1751524213) | 📍 Work from home | 💼 On Site | 📅 Jul 25 |
-| 🏢 Lawtech | [JavaScript Developer (Backend Specialization)](https://internshala.com/internship/detail/work-from-home-javascript-developer-backend-specialization-internship-at-lawtech1753258358) | 📍 Work from home | 💼 On Site | 📅 Jul 25 |
+| 🏢 Lawtech | [JavaScript Developer (Backend Specialization)](https://internshala.com/internship/detail/work-from-home-javascript-developer-backend-specialization-internship-at-lawtech1753426736) | 📍 Work from home | 💼 On Site | 📅 Jul 25 |
 | 🏢 Infoware | [Backend Developer – LLM & Vector Database Integration](https://internshala.com/internship/detail/part-time-backend-developer--llm-vector-database-integration-internship-in-multiple-locations-at-infoware1753359645) | 📍 Ahmedabad, Gandhinagar                                                                (Hybrid) | 💼 On Site | 📅 Jul 25 |
 | 🏢 Shiplee | [Backend/API Developer For Shopify App](https://internshala.com/internship/detail/work-from-home-backend-api-developer-for-shopify-app-internship-at-s1-shiplee-opc-private-limited1751952169) | 📍 Work from home | 💼 On Site | 📅 Jul 25 |
+| 🏢 1000xdev | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-1000xdev1753428577) | 📍 Work from home | 💼 On Site | 📅 Jul 25 |
 | 🏢 Maxgen Technologies Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1753116830) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 25 |
 | 🏢 Dobby Ads | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-dobby-ads1752559588) | 📍 Work from home | 💼 On Site | 📅 Jul 25 |
 | 🏢 CogniAI Private Limited | [Full Stack Developer (Mern Stack)](https://internshala.com/internship/detail/full-stack-developer-mern-stack-internship-in-gurgaon-at-cogniai-private-limited1752664005) | 📍 Gurgaon                                                                (Hybrid) | 💼 On Site | 📅 Jul 25 |
@@ -68,4 +70,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-25 06:38 UTC*
+*Powered by Opdrop | Last update: 2025-07-25 12:52 UTC*
