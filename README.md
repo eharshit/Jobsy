@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** July 28, 2025
-**Total Listings:** 47
+**Total Listings:** 48
 
 ## 📊 Quick Stats
 
-- **47** total opportunities
-- **45** unique companies
+- **48** total opportunities
+- **46** unique companies
 - **12** different locations
 
 ---
@@ -29,14 +29,14 @@
 | 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Jul 28 |
 | 🏢 Bright Future Institute Private Limited | [Full Stack Developer (use LLM AI Tools)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-use-llm-ai-tools-internship-at-bright-future-institute-private-limited1750148526) | 📍 Work from home | 💼 On Site | 📅 Jul 28 |
 | 🏢 Maxgen Technologies Private Limited | [React JS Developer](https://internshala.com/internship/detail/react-js-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1752080539) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 28 |
-| 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-maxgen-technologies-private-limited1753632977) | 📍 Pune | 💼 On Site | 📅 Jul 28 |
+| 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-maxgen-technologies-private-limited1752218209) | 📍 Pune | 💼 On Site | 📅 Jul 28 |
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Jul 28 |
 | 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Jul 28 |
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jul 28 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Jul 28 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Jul 28 |
-| 🏢 Creative Nirvana Private Limited | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-creative-nirvana-private-limited1753350630) | 📍 Work from home | 💼 On Site | 📅 Jul 28 |
 | 🏢 WellnessZ | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Jul 28 |
+| 🏢 Creative Nirvana Private Limited | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-creative-nirvana-private-limited1753350630) | 📍 Work from home | 💼 On Site | 📅 Jul 28 |
 | 🏢 AutofillJobs | [Web Developer/Cofounder](https://internshala.com/internship/detail/work-from-home-web-developer-cofounder-internship-at-autofilljobs1753091255) | 📍 Work from home | 💼 On Site | 📅 Jul 28 |
 | 🏢 Search Digitally | [Laravel Developer](https://internshala.com/internship/detail/laravel-developer-internship-in-mumbai-at-search-digitally1752049609) | 📍 Mumbai | 💼 On Site | 📅 Jul 28 |
 | 🏢 SPACE For Early Childhood Education | [Laravel Developers](https://internshala.com/internship/detail/work-from-home-laravel-developers-internship-at-space-for-early-childhood-education1752738261) | 📍 Work from home | 💼 On Site | 📅 Jul 28 |
@@ -62,6 +62,7 @@
 | 🏢 Across The Globe (ATG) | [MERN Stack Developer](https://internshala.com/internship/detail/work-from-home-mern-stack-developer-internship-at-across-the-globe-atg1752334294) | 📍 Work from home | 💼 On Site | 📅 Jul 28 |
 | 🏢 Creatiwise | [Full Stack (Python/Django) Developer](https://internshala.com/internship/detail/work-from-home-full-stack-python-django-developer-internship-at-creatiwise1753091769) | 📍 Work from home | 💼 On Site | 📅 Jul 28 |
 | 🏢 Diasimos Private Limited | [Mern Stack Developer Internship](https://internshala.com/internship/detail/mern-stack-developer-internship-internship-in-ahmedabad-at-diasimos-private-limited1752484523) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 28 |
+| 🏢 UnifyXperts | [Full Stack Developer – Enterprise Software & System Integration](https://internshala.com/internship/detail/full-stack-developer--enterprise-software-system-integration-internship-in-mumbai-at-unifyxperts1753678321) | 📍 Mumbai | 💼 On Site | 📅 Jul 28 |
 | 🏢 Tharsha Ventures Private Limited (EldersIndia) | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-bangalore-at-tharsha-ventures-private-limited-eldersindia1752217271) | 📍 Bangalore | 💼 On Site | 📅 Jul 28 |
 | 🏢 Astute Lex Servicado Private Limited | [React Native Developer](https://internshala.com/internship/detail/work-from-home-react-native-developer-internship-at-astute-lex-servicado-private-limited1752563173) | 📍 Work from home | 💼 On Site | 📅 Jul 28 |
 | 🏢 Start10x | [Mobile App Developer [React Native + Onsite]](https://internshala.com/internship/detail/mobile-app-developer-react-native-onsite-internship-in-gurgaon-at-start10x1753637618) | 📍 Gurgaon | 💼 On Site | 📅 Jul 28 |
@@ -71,4 +72,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-28 02:10 UTC*
+*Powered by Opdrop | Last update: 2025-07-28 06:40 UTC*
