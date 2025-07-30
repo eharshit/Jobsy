@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** July 30, 2025
-**Total Listings:** 48
+**Total Listings:** 49
 
 ## 📊 Quick Stats
 
-- **48** total opportunities
-- **46** unique companies
+- **49** total opportunities
+- **47** unique companies
 - **11** different locations
 
 ---
@@ -29,7 +29,7 @@
 | 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Jul 30 |
 | 🏢 Bright Future Institute Private Limited | [Full Stack Developer (use LLM AI Tools)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-use-llm-ai-tools-internship-at-bright-future-institute-private-limited1750148526) | 📍 Work from home | 💼 On Site | 📅 Jul 30 |
 | 🏢 Maxgen Technologies Private Limited | [React JS Developer](https://internshala.com/internship/detail/react-js-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1752080539) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 30 |
-| 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-maxgen-technologies-private-limited1753632977) | 📍 Pune | 💼 On Site | 📅 Jul 30 |
+| 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-maxgen-technologies-private-limited1752218209) | 📍 Pune | 💼 On Site | 📅 Jul 30 |
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Jul 30 |
 | 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Jul 30 |
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Jul 30 |
@@ -53,6 +53,7 @@
 | 🏢 Lawtech | [JavaScript Developer (Backend Specialization)](https://internshala.com/internship/detail/work-from-home-javascript-developer-backend-specialization-internship-at-lawtech1753426736) | 📍 Work from home | 💼 On Site | 📅 Jul 30 |
 | 🏢 Infoware | [Backend Developer – LLM & Vector Database Integration](https://internshala.com/internship/detail/part-time-backend-developer--llm-vector-database-integration-internship-in-multiple-locations-at-infoware1753359645) | 📍 Ahmedabad, Gandhinagar                                                                (Hybrid) | 💼 On Site | 📅 Jul 30 |
 | 🏢 Shiplee | [Backend/API Developer For Shopify App](https://internshala.com/internship/detail/work-from-home-backend-api-developer-for-shopify-app-internship-at-s1-shiplee-opc-private-limited1751952169) | 📍 Work from home | 💼 On Site | 📅 Jul 30 |
+| 🏢 Workik | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-workik1753850865) | 📍 Work from home | 💼 On Site | 📅 Jul 30 |
 | 🏢 Arvyax Technologies Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-arvyax-technologies-private-limited1753714995) | 📍 Work from home | 💼 On Site | 📅 Jul 30 |
 | 🏢 1000xdev | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-1000xdev1753428577) | 📍 Work from home | 💼 On Site | 📅 Jul 30 |
 | 🏢 Maxgen Technologies Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1753116830) | 📍 Ahmedabad | 💼 On Site | 📅 Jul 30 |
@@ -72,4 +73,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-07-30 02:06 UTC*
+*Powered by Opdrop | Last update: 2025-07-30 06:40 UTC*
