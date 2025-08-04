@@ -50,6 +50,7 @@
 | 🏢 Eniacworld Media Private Limited | [Project Coordinator and Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-project-coordinator-and-web-developer-internship-at-eniacworld-media-private-limited1753427573) | 📍 Work from home | 💼 On Site | 📅 Aug 04 |
 | 🏢 Zeru | [Web3 Full Stack Developer](https://internshala.com/internship/detail/work-from-home-web3-full-stack-developer-internship-at-zeru1752561580) | 📍 Work from home | 💼 On Site | 📅 Aug 04 |
 | 🏢 House Of Hiranandani | [Information Technology](https://internshala.com/internship/detail/information-technology-internship-in-multiple-locations-at-house-of-hiranandani1753945192) | 📍 Thane, Mumbai | 💼 On Site | 📅 Aug 04 |
+| 🏢 1accord | [Electronics Engineering](https://internshala.com/internship/detail/electronics-engineering-internship-in-mumbai-at-1accord1754299986) | 📍 Mumbai | 💼 On Site | 📅 Aug 04 |
 | 🏢 Pune Medical Coding Training Institute | [Frontend Developer – UI](https://internshala.com/internship/detail/frontend-developer--ui-internship-in-pune-at-pune-medical-coding-training-institute1754052321) | 📍 Pune | 💼 On Site | 📅 Aug 04 |
 | 🏢 Lyfebynary 0103 LLP | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-multiple-locations-at-lyfebynary-0103-llp1751950554) | 📍 Pune, Mumbai                                                                (Hybrid) | 💼 On Site | 📅 Aug 04 |
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Mobile (React Native)](https://internshala.com/internship/detail/work-from-home-frontend-developer--mobile-react-native-internship-at-centora-mobility-private-limited1754029639) | 📍 Work from home | 💼 On Site | 📅 Aug 04 |
@@ -69,11 +70,10 @@
 | 🏢 Diasimos Private Limited | [Mern Stack Developer Internship](https://internshala.com/internship/detail/mern-stack-developer-internship-internship-in-ahmedabad-at-diasimos-private-limited1752484523) | 📍 Ahmedabad | 💼 On Site | 📅 Aug 04 |
 | 🏢 UnifyXperts | [Full Stack Developer – Enterprise Software & System Integration](https://internshala.com/internship/detail/full-stack-developer--enterprise-software-system-integration-internship-in-mumbai-at-unifyxperts1753678321) | 📍 Mumbai | 💼 On Site | 📅 Aug 04 |
 | 🏢 Tharsha Ventures Private Limited (EldersIndia) | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-bangalore-at-tharsha-ventures-private-limited-eldersindia1752217271) | 📍 Bangalore | 💼 On Site | 📅 Aug 04 |
-| 🏢 Astute Lex Servicado Private Limited | [React Native Developer](https://internshala.com/internship/detail/work-from-home-react-native-developer-internship-at-astute-lex-servicado-private-limited1752563173) | 📍 Work from home | 💼 On Site | 📅 Aug 04 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-04 06:44 UTC*
+*Powered by Opdrop | Last update: 2025-08-04 12:56 UTC*
