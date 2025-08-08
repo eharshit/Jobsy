@@ -10,7 +10,7 @@
 
 - **51** total opportunities
 - **48** unique companies
-- **11** different locations
+- **12** different locations
 
 ---
 
@@ -38,7 +38,6 @@
 | 🏢 WellnessZ | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Aug 08 |
 | 🏢 NoFeeSwap | [Web3 Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-web3-frontend-developer-internship-at-nofeeswap1754541531) | 📍 Work from home | 💼 On Site | 📅 Aug 08 |
 | 🏢 AutofillJobs | [Web Developer/Cofounder](https://internshala.com/internship/detail/work-from-home-web-developer-cofounder-internship-at-autofilljobs1753091255) | 📍 Work from home | 💼 On Site | 📅 Aug 08 |
-| 🏢 Search Digitally | [Laravel Developer](https://internshala.com/internship/detail/laravel-developer-internship-in-mumbai-at-search-digitally1752049609) | 📍 Mumbai | 💼 On Site | 📅 Aug 08 |
 | 🏢 SPACE For Early Childhood Education | [Laravel Developers](https://internshala.com/internship/detail/work-from-home-laravel-developers-internship-at-space-for-early-childhood-education1752738261) | 📍 Work from home | 💼 On Site | 📅 Aug 08 |
 | 🏢 IDZ Digital Private Limited | [Web Games Developer](https://internshala.com/internship/detail/web-games-developer-internship-in-mumbai-at-idz-digital-private-limited1753159265) | 📍 Mumbai | 💼 On Site | 📅 Aug 08 |
 | 🏢 IREED Academy India Private Limited | [Frontend Web Developer](https://internshala.com/internship/detail/frontend-web-developer-internship-in-gurgaon-at-ireed-academy-india-private-limited1752335962) | 📍 Gurgaon | 💼 On Site | 📅 Aug 08 |
@@ -47,6 +46,7 @@
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Web (Next.js)](https://internshala.com/internship/detail/work-from-home-frontend-developer--web-nextjs-internship-at-centora-mobility-private-limited1754029435) | 📍 Work from home | 💼 On Site | 📅 Aug 08 |
 | 🏢 Kaushal Ranjeet Private Limited | [Full Stack Web Developer](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-internship-at-kaushal-ranjeet-private-limited1753520126) | 📍 Work from home | 💼 On Site | 📅 Aug 08 |
 | 🏢 Eniacworld Media Private Limited | [Project Coordinator and Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-project-coordinator-and-web-developer-internship-at-eniacworld-media-private-limited1753427573) | 📍 Work from home | 💼 On Site | 📅 Aug 08 |
+| 🏢 Sujagat AI Technology Private Limited | [AI-Powered Web Builder Developer](https://internshala.com/internship/detail/ai-powered-web-builder-developer-internship-in-delhi-at-sujagat-ai-technology-private-limited1754659356) | 📍 Delhi                                                                (Hybrid) | 💼 On Site | 📅 Aug 08 |
 | 🏢 Zeru | [Web3 Full Stack Developer](https://internshala.com/internship/detail/work-from-home-web3-full-stack-developer-internship-at-zeru1752561580) | 📍 Work from home | 💼 On Site | 📅 Aug 08 |
 | 🏢 House Of Hiranandani | [Information Technology](https://internshala.com/internship/detail/information-technology-internship-in-multiple-locations-at-house-of-hiranandani1753945192) | 📍 Thane, Mumbai | 💼 On Site | 📅 Aug 08 |
 | 🏢 1accord | [Electronics Engineering](https://internshala.com/internship/detail/electronics-engineering-internship-in-mumbai-at-1accord1754299986) | 📍 Mumbai | 💼 On Site | 📅 Aug 08 |
@@ -75,4 +75,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-08 12:54 UTC*
+*Powered by Opdrop | Last update: 2025-08-08 18:34 UTC*
