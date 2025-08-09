@@ -33,15 +33,14 @@
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Aug 09 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Aug 09 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Aug 09 |
+| 🏢 WellnessZ | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Aug 09 |
 | 🏢 NoFeeSwap | [Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-internship-at-nofeeswap1754050994) | 📍 Work from home | 💼 On Site | 📅 Aug 09 |
 | 🏢 Creative Nirvana Private Limited | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-creative-nirvana-private-limited1753350630) | 📍 Work from home | 💼 On Site | 📅 Aug 09 |
-| 🏢 WellnessZ | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Aug 09 |
 | 🏢 NoFeeSwap | [Web3 Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-web3-frontend-developer-internship-at-nofeeswap1754541531) | 📍 Work from home | 💼 On Site | 📅 Aug 09 |
 | 🏢 AutofillJobs | [Web Developer/Cofounder](https://internshala.com/internship/detail/work-from-home-web-developer-cofounder-internship-at-autofilljobs1753091255) | 📍 Work from home | 💼 On Site | 📅 Aug 09 |
 | 🏢 SPACE For Early Childhood Education | [Laravel Developers](https://internshala.com/internship/detail/work-from-home-laravel-developers-internship-at-space-for-early-childhood-education1752738261) | 📍 Work from home | 💼 On Site | 📅 Aug 09 |
 | 🏢 IDZ Digital Private Limited | [Web Games Developer](https://internshala.com/internship/detail/web-games-developer-internship-in-mumbai-at-idz-digital-private-limited1753159265) | 📍 Mumbai | 💼 On Site | 📅 Aug 09 |
 | 🏢 IREED Academy India Private Limited | [Frontend Web Developer](https://internshala.com/internship/detail/frontend-web-developer-internship-in-gurgaon-at-ireed-academy-india-private-limited1752335962) | 📍 Gurgaon | 💼 On Site | 📅 Aug 09 |
-| 🏢 4POWER Infocom FZ LLC. | [WordPress And Shopify Developer](https://internshala.com/internship/detail/wordpress-and-shopify-developer-internship-in-mumbai-at-4power-infocom-fz-llc1752143159) | 📍 Mumbai | 💼 On Site | 📅 Aug 09 |
 | 🏢 Anuschka Leather-India Private Limited | [Remote Web Developer & Designer (AI Tools Expertise)](https://internshala.com/internship/detail/work-from-home-remote-web-developer-designer-ai-tools-expertise-internship-at-anuschka-leather-india-private-limited1753353337) | 📍 Work from home | 💼 On Site | 📅 Aug 09 |
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Web (Next.js)](https://internshala.com/internship/detail/work-from-home-frontend-developer--web-nextjs-internship-at-centora-mobility-private-limited1754029435) | 📍 Work from home | 💼 On Site | 📅 Aug 09 |
 | 🏢 Kaushal Ranjeet Private Limited | [Full Stack Web Developer](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-internship-at-kaushal-ranjeet-private-limited1753520126) | 📍 Work from home | 💼 On Site | 📅 Aug 09 |
@@ -69,10 +68,11 @@
 | 🏢 UnifyXperts | [Full Stack Developer – Enterprise Software & System Integration](https://internshala.com/internship/detail/full-stack-developer--enterprise-software-system-integration-internship-in-mumbai-at-unifyxperts1753678321) | 📍 Mumbai | 💼 On Site | 📅 Aug 09 |
 | 🏢 Arakoo | [Node.js Generative AI/ML Developer](https://internshala.com/internship/detail/work-from-home-nodejs-generative-ai-ml-developer-internship-at-arakoo1754332692) | 📍 Work from home | 💼 On Site | 📅 Aug 09 |
 | 🏢 Tharsha Ventures Private Limited (EldersIndia) | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-bangalore-at-tharsha-ventures-private-limited-eldersindia1752217271) | 📍 Bangalore | 💼 On Site | 📅 Aug 09 |
+| 🏢 Astute Lex Servicado Private Limited | [React Native Developer](https://internshala.com/internship/detail/work-from-home-react-native-developer-internship-at-astute-lex-servicado-private-limited1752563173) | 📍 Work from home | 💼 On Site | 📅 Aug 09 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-09 12:48 UTC*
+*Powered by Opdrop | Last update: 2025-08-09 18:34 UTC*
