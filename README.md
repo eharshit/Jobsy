@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** August 11, 2025
-**Total Listings:** 50
+**Total Listings:** 51
 
 ## 📊 Quick Stats
 
-- **50** total opportunities
-- **47** unique companies
+- **51** total opportunities
+- **48** unique companies
 - **11** different locations
 
 ---
@@ -42,6 +42,7 @@
 | 🏢 IDZ Digital Private Limited | [Web Games Developer](https://internshala.com/internship/detail/web-games-developer-internship-in-mumbai-at-idz-digital-private-limited1753159265) | 📍 Mumbai | 💼 On Site | 📅 Aug 11 |
 | 🏢 IREED Academy India Private Limited | [Frontend Web Developer](https://internshala.com/internship/detail/frontend-web-developer-internship-in-gurgaon-at-ireed-academy-india-private-limited1752335962) | 📍 Gurgaon | 💼 On Site | 📅 Aug 11 |
 | 🏢 Anuschka Leather-India Private Limited | [Remote Web Developer & Designer (AI Tools Expertise)](https://internshala.com/internship/detail/work-from-home-remote-web-developer-designer-ai-tools-expertise-internship-at-anuschka-leather-india-private-limited1753353337) | 📍 Work from home | 💼 On Site | 📅 Aug 11 |
+| 🏢 Innara AI Nutrition | [No Code Developer (Lovable/Bolt)](https://internshala.com/internship/detail/work-from-home-no-code-developer-lovable-bolt-internship-at-innara-ai-nutrition1754889070) | 📍 Work from home | 💼 On Site | 📅 Aug 11 |
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Web (Next.js)](https://internshala.com/internship/detail/work-from-home-frontend-developer--web-nextjs-internship-at-centora-mobility-private-limited1754029435) | 📍 Work from home | 💼 On Site | 📅 Aug 11 |
 | 🏢 Kaushal Ranjeet Private Limited | [Full Stack Web Developer](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-internship-at-kaushal-ranjeet-private-limited1753520126) | 📍 Work from home | 💼 On Site | 📅 Aug 11 |
 | 🏢 Eniacworld Media Private Limited | [Project Coordinator and Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-project-coordinator-and-web-developer-internship-at-eniacworld-media-private-limited1753427573) | 📍 Work from home | 💼 On Site | 📅 Aug 11 |
@@ -74,4 +75,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-11 02:08 UTC*
+*Powered by Opdrop | Last update: 2025-08-11 06:39 UTC*
