@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** August 15, 2025
-**Total Listings:** 49
+**Total Listings:** 48
 
 ## 📊 Quick Stats
 
-- **49** total opportunities
-- **46** unique companies
-- **13** different locations
+- **48** total opportunities
+- **45** unique companies
+- **12** different locations
 
 ---
 
@@ -33,10 +33,10 @@
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Aug 15 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Aug 15 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Aug 15 |
+| 🏢 WellnessZ | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Aug 15 |
 | 🏢 Prolegion Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bhopal-at-prolegion-private-limited1755079032) | 📍 Bhopal | 💼 On Site | 📅 Aug 15 |
 | 🏢 NoFeeSwap | [Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-internship-at-nofeeswap1754050994) | 📍 Work from home | 💼 On Site | 📅 Aug 15 |
 | 🏢 Creative Nirvana Private Limited | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-creative-nirvana-private-limited1753350630) | 📍 Work from home | 💼 On Site | 📅 Aug 15 |
-| 🏢 WellnessZ | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Aug 15 |
 | 🏢 NoFeeSwap | [Web3 Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-web3-frontend-developer-internship-at-nofeeswap1754541531) | 📍 Work from home | 💼 On Site | 📅 Aug 15 |
 | 🏢 AutofillJobs | [Web Developer/Cofounder](https://internshala.com/internship/detail/work-from-home-web-developer-cofounder-internship-at-autofilljobs1753091255) | 📍 Work from home | 💼 On Site | 📅 Aug 15 |
 | 🏢 SPACE For Early Childhood Education | [Laravel Developers](https://internshala.com/internship/detail/work-from-home-laravel-developers-internship-at-space-for-early-childhood-education1752738261) | 📍 Work from home | 💼 On Site | 📅 Aug 15 |
@@ -47,7 +47,6 @@
 | 🏢 Eniacworld Media Private Limited | [Project Coordinator and Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-project-coordinator-and-web-developer-internship-at-eniacworld-media-private-limited1753427573) | 📍 Work from home | 💼 On Site | 📅 Aug 15 |
 | 🏢 Sujagat AI Technology Private Limited | [AI-Powered Web Builder Developer](https://internshala.com/internship/detail/ai-powered-web-builder-developer-internship-in-delhi-at-sujagat-ai-technology-private-limited1754659356) | 📍 Delhi                                                                (Hybrid) | 💼 On Site | 📅 Aug 15 |
 | 🏢 BIIT | [Web Development](https://internshala.com/internship/detail/work-from-home-digital-marketing-internship-program-internship-at-biit1753104648) | 📍 Work from home | 💼 On Site | 📅 Aug 15 |
-| 🏢 House Of Hiranandani | [Information Technology](https://internshala.com/internship/detail/information-technology-internship-in-multiple-locations-at-house-of-hiranandani1753945192) | 📍 Thane, Mumbai | 💼 On Site | 📅 Aug 15 |
 | 🏢 1accord | [Electronics Engineering](https://internshala.com/internship/detail/electronics-engineering-internship-in-mumbai-at-1accord1754299986) | 📍 Mumbai | 💼 On Site | 📅 Aug 15 |
 | 🏢 Pune Medical Coding Training Institute | [Frontend Developer – UI](https://internshala.com/internship/detail/frontend-developer--ui-internship-in-pune-at-pune-medical-coding-training-institute1754052321) | 📍 Pune | 💼 On Site | 📅 Aug 15 |
 | 🏢 Dodger Labs | [UI/UX - Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-frontend-developer-internship-at-dodger-labs1754912367) | 📍 Work from home | 💼 On Site | 📅 Aug 15 |
@@ -73,4 +72,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-15 06:37 UTC*
+*Powered by Opdrop | Last update: 2025-08-15 12:48 UTC*
