@@ -10,7 +10,7 @@
 
 - **51** total opportunities
 - **48** unique companies
-- **13** different locations
+- **12** different locations
 
 ---
 
@@ -33,10 +33,10 @@
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Aug 16 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Aug 16 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Aug 16 |
-| 🏢 WellnessZ | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Aug 16 |
 | 🏢 Prolegion Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bhopal-at-prolegion-private-limited1755079032) | 📍 Bhopal | 💼 On Site | 📅 Aug 16 |
 | 🏢 NoFeeSwap | [Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-internship-at-nofeeswap1754050994) | 📍 Work from home | 💼 On Site | 📅 Aug 16 |
 | 🏢 Creative Nirvana Private Limited | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-creative-nirvana-private-limited1753350630) | 📍 Work from home | 💼 On Site | 📅 Aug 16 |
+| 🏢 WellnessZ | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Aug 16 |
 | 🏢 NoFeeSwap | [Web3 Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-web3-frontend-developer-internship-at-nofeeswap1754541531) | 📍 Work from home | 💼 On Site | 📅 Aug 16 |
 | 🏢 AutofillJobs | [Web Developer/Cofounder](https://internshala.com/internship/detail/work-from-home-web-developer-cofounder-internship-at-autofilljobs1753091255) | 📍 Work from home | 💼 On Site | 📅 Aug 16 |
 | 🏢 SPACE For Early Childhood Education | [Laravel Developers](https://internshala.com/internship/detail/work-from-home-laravel-developers-internship-at-space-for-early-childhood-education1752738261) | 📍 Work from home | 💼 On Site | 📅 Aug 16 |
@@ -67,12 +67,12 @@
 | 🏢 Golden Brick Radix Private Limited | [Sales](https://internshala.com/internship/detail/sales-internship-in-jaipur-at-golden-brick-radix-private-limited1754908432) | 📍 Jaipur | 💼 On Site | 📅 Aug 16 |
 | 🏢 Get Catalyzed | [LinkedIn Management Manager](https://internshala.com/internship/detail/linkedin-management-manager-internship-in-jaipur-at-get-catalyzed1753461492) | 📍 Jaipur | 💼 On Site | 📅 Aug 16 |
 | 🏢 Digital Darzi | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-jaipur-at-digital-darzi1753957552) | 📍 Jaipur | 💼 On Site | 📅 Aug 16 |
+| 🏢 StoryMirror Infotech Private Limited | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-storymirror-infotech-private-limited1753466814) | 📍 Mumbai | 💼 On Site | 📅 Aug 16 |
 | 🏢 Ecosaviour Innovations LLP | [Sales and Marketing](https://internshala.com/internship/detail/sales-and-marketing-internship-in-jaipur-at-ecosaviour-innovations-llp1754631457) | 📍 Jaipur | 💼 On Site | 📅 Aug 16 |
-| 🏢 Bramhachari Someshwar Chaitnya Kalyankari Sanstha, Nashik | [Digital Marketing](https://internshala.com/internship/detail/digital-marketing-internship-in-multiple-locations-at-bramhachari-someshwar-chaitnya-kalyankari-sanstha-nashik1754651647) | 📍 Aurangabad, Pune, Sangli, Solapur, Osmanabad, Satara, Lonavala, Baramati, Barshi, Mahabaleshwar | 💼 On Site | 📅 Aug 16 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-16 01:53 UTC*
+*Powered by Opdrop | Last update: 2025-08-16 06:34 UTC*
