@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** August 16, 2025
-**Total Listings:** 50
+**Total Listings:** 54
 
 ## 📊 Quick Stats
 
-- **50** total opportunities
-- **46** unique companies
+- **54** total opportunities
+- **50** unique companies
 - **12** different locations
 
 ---
@@ -33,7 +33,6 @@
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Aug 16 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Aug 16 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Aug 16 |
-| 🏢 WellnessZ | [Frontend Developer Intern (Next.js / React.js)](https://internshala.com/internship/detail/frontend-developer-intern-nextjs-reactjs-internship-in-noida-at-mohi-lifestile-solutions-private-limited1752743361) | 📍 Noida | 💼 On Site | 📅 Aug 16 |
 | 🏢 Prolegion Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bhopal-at-prolegion-private-limited1755079032) | 📍 Bhopal | 💼 On Site | 📅 Aug 16 |
 | 🏢 NoFeeSwap | [Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-internship-at-nofeeswap1754050994) | 📍 Work from home | 💼 On Site | 📅 Aug 16 |
 | 🏢 Creative Nirvana Private Limited | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-creative-nirvana-private-limited1753350630) | 📍 Work from home | 💼 On Site | 📅 Aug 16 |
@@ -66,12 +65,17 @@
 | 🏢 Arakoo | [Node.js Generative AI/ML Developer](https://internshala.com/internship/detail/work-from-home-nodejs-generative-ai-ml-developer-internship-at-arakoo1754332692) | 📍 Work from home | 💼 On Site | 📅 Aug 16 |
 | 🏢 Start10x | [Mobile App Developer [React Native + Onsite]](https://internshala.com/internship/detail/mobile-app-developer-react-native-onsite-internship-in-gurgaon-at-start10x1753637618) | 📍 Gurgaon | 💼 On Site | 📅 Aug 16 |
 | 🏢 Kazhuga | [MERN Stack Developer](https://internshala.com/internship/detail/part-time-mern-stack-developer-internship-in-kanpur-at-kazhuga1753868480) | 📍 Kanpur | 💼 On Site | 📅 Aug 16 |
+| 🏢 Get Catalyzed | [LinkedIn Management Manager](https://internshala.com/internship/detail/linkedin-management-manager-internship-in-jaipur-at-get-catalyzed1753461492) | 📍 Jaipur | 💼 On Site | 📅 Aug 16 |
 | 🏢 Digital Darzi | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-jaipur-at-digital-darzi1753957552) | 📍 Jaipur | 💼 On Site | 📅 Aug 16 |
 | 🏢 Golden Brick Radix Private Limited | [Sales](https://internshala.com/internship/detail/sales-internship-in-jaipur-at-golden-brick-radix-private-limited1754908432) | 📍 Jaipur | 💼 On Site | 📅 Aug 16 |
+| 🏢 Ecosaviour Innovations LLP | [Sales and Marketing](https://internshala.com/internship/detail/sales-and-marketing-internship-in-jaipur-at-ecosaviour-innovations-llp1754631457) | 📍 Jaipur | 💼 On Site | 📅 Aug 16 |
+| 🏢 StoryMirror Infotech Private Limited | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-mumbai-at-storymirror-infotech-private-limited1753466814) | 📍 Mumbai | 💼 On Site | 📅 Aug 16 |
+| 🏢 Nexotech Solutions | [UI/UX Design](https://internshala.com/internship/detail/part-time-ui-ux-design-internship-in-multiple-locations-at-nexotech-solutions1755161458) | 📍 Kollam, Kottayam, Kozhikode, Pathanamthitta, Thiruvananthapuram, Thrissur, Malappuram, Alappuzha, Wayanad, Idukki, Kochi, Ernakulam, Palakkad, Kannur                                                                (Hybrid) | 💼 On Site | 📅 Aug 16 |
+| 🏢 Orufy Technologies Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-orufy-technologies-private-limited1753187250) | 📍 Jaipur | 💼 On Site | 📅 Aug 16 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-16 12:45 UTC*
+*Powered by Opdrop | Last update: 2025-08-16 18:31 UTC*
