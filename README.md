@@ -68,14 +68,14 @@
 | 🏢 Kazhuga | [MERN Stack Developer](https://internshala.com/internship/detail/part-time-mern-stack-developer-internship-in-kanpur-at-kazhuga1753868480) | 📍 Kanpur | 💼 On Site | 📅 Aug 17 |
 | 🏢 Nexotech Solutions | [UI/UX Design](https://internshala.com/internship/detail/part-time-ui-ux-design-internship-in-multiple-locations-at-nexotech-solutions1755161458) | 📍 Kollam, Kottayam, Kozhikode, Pathanamthitta, Thiruvananthapuram, Thrissur, Malappuram, Alappuzha, Wayanad, Idukki, Kochi, Ernakulam, Palakkad, Kannur                                                                (Hybrid) | 💼 On Site | 📅 Aug 17 |
 | 🏢 Orufy Technologies Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-orufy-technologies-private-limited1753187250) | 📍 Jaipur | 💼 On Site | 📅 Aug 17 |
-| 🏢 Humanity Founders | [UI/UX Designer](https://internshala.com/internship/detail/work-from-home-ui-ux-designer-internship-at-humanity-founders1753101776) | 📍 Work from home | 💼 On Site | 📅 Aug 17 |
 | 🏢 Tisteps Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-chennai-at-tisteps-private-limited1755002074) | 📍 Chennai | 💼 On Site | 📅 Aug 17 |
 | 🏢 Venus Life | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-venus-life1753526409) | 📍 Delhi                                                                (Hybrid) | 💼 On Site | 📅 Aug 17 |
 | 🏢 NovaFocus Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-bangalore-at-novafocus-private-limited1753277616) | 📍 Bangalore | 💼 On Site | 📅 Aug 17 |
+| 🏢 WebleyHUB | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-webleyhub1752211699) | 📍 Work from home | 💼 On Site | 📅 Aug 17 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-17 12:47 UTC*
+*Powered by Opdrop | Last update: 2025-08-17 18:33 UTC*
