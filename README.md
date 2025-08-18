@@ -10,7 +10,7 @@
 
 - **43** total opportunities
 - **39** unique companies
-- **14** different locations
+- **13** different locations
 
 ---
 
@@ -54,17 +54,17 @@
 | 🏢 Arakoo | [Node.js Generative AI/ML Developer](https://internshala.com/internship/detail/work-from-home-nodejs-generative-ai-ml-developer-internship-at-arakoo1754332692) | 📍 Work from home | 💼 On Site | 📅 Aug 18 |
 | 🏢 Start10x | [Mobile App Developer [React Native + Onsite]](https://internshala.com/internship/detail/mobile-app-developer-react-native-onsite-internship-in-gurgaon-at-start10x1753637618) | 📍 Gurgaon | 💼 On Site | 📅 Aug 18 |
 | 🏢 Kazhuga | [MERN Stack Developer](https://internshala.com/internship/detail/part-time-mern-stack-developer-internship-in-kanpur-at-kazhuga1753868480) | 📍 Kanpur | 💼 On Site | 📅 Aug 18 |
+| 🏢 Praxis | [Receptionist - Front Office Administration (Female)](https://internshala.com/internship/detail/part-time-receptionist-front-office-administration-female-internship-in-chennai-at-praxis1754369672) | 📍 Chennai | 💼 On Site | 📅 Aug 18 |
 | 🏢 Nexotech Solutions | [UI/UX Design](https://internshala.com/internship/detail/part-time-ui-ux-design-internship-in-multiple-locations-at-nexotech-solutions1755161458) | 📍 Kollam, Kottayam, Kozhikode, Pathanamthitta, Thiruvananthapuram, Thrissur, Malappuram, Alappuzha, Wayanad, Idukki, Kochi, Ernakulam, Palakkad, Kannur                                                                (Hybrid) | 💼 On Site | 📅 Aug 18 |
 | 🏢 Orufy Technologies Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-orufy-technologies-private-limited1753187250) | 📍 Jaipur | 💼 On Site | 📅 Aug 18 |
 | 🏢 Tisteps Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-chennai-at-tisteps-private-limited1755002074) | 📍 Chennai | 💼 On Site | 📅 Aug 18 |
 | 🏢 Venus Life | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-venus-life1753526409) | 📍 Delhi                                                                (Hybrid) | 💼 On Site | 📅 Aug 18 |
 | 🏢 NovaFocus Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-bangalore-at-novafocus-private-limited1753277616) | 📍 Bangalore | 💼 On Site | 📅 Aug 18 |
 | 🏢 WebleyHUB | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-ui-ux-design-internship-at-webleyhub1752211699) | 📍 Work from home | 💼 On Site | 📅 Aug 18 |
-| 🏢 InternGrad SkillUp Solutions Pvt Ltd | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-multiple-locations-at-interngrad-skillup-solutions-pvt-ltd1751297620) | 📍 Pune, Bangalore | 💼 On Site | 📅 Aug 18 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-18 02:05 UTC*
+*Powered by Opdrop | Last update: 2025-08-18 06:40 UTC*
