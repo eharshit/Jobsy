@@ -10,7 +10,7 @@
 
 - **55** total opportunities
 - **49** unique companies
-- **16** different locations
+- **15** different locations
 
 ---
 
@@ -67,16 +67,16 @@
 | 🏢 Start10x | [Mobile App Developer [React Native + Onsite]](https://internshala.com/internship/detail/mobile-app-developer-react-native-onsite-internship-in-gurgaon-at-start10x1753637618) | 📍 Gurgaon | 💼 On Site | 📅 Aug 19 |
 | 🏢 Kazhuga | [MERN Stack Developer](https://internshala.com/internship/detail/part-time-mern-stack-developer-internship-in-kanpur-at-kazhuga1753868480) | 📍 Kanpur | 💼 On Site | 📅 Aug 19 |
 | 🏢 Break The Code | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-multiple-locations-at-break-the-code1754906092) | 📍 Mumbai, Virar, Mira Bhayandar, Nala Sopara, Dahisar, Sion Koliwada, Vasai-Virar, Kurla, Bandra | 💼 On Site | 📅 Aug 19 |
+| 🏢 Praxis | [Receptionist - Front Office Administration (Female)](https://internshala.com/internship/detail/part-time-receptionist-front-office-administration-female-internship-in-chennai-at-praxis1754369672) | 📍 Chennai | 💼 On Site | 📅 Aug 19 |
 | 🏢 SIRPI Products & Services Private Limited | [Front End Development(AngularJs And React Js) - Batch 2025](https://internshala.com/internship/detail/front-end-developmentangularjs-and-react-js-internship-in-bangalore-at-sirpi-products-services-private-limited1755161999) | 📍 Bangalore | 💼 On Site | 📅 Aug 19 |
 | 🏢 SIRPI Products & Services Private Limited | [Python Development- Batch 2025](https://internshala.com/internship/detail/python-development-internship-in-bangalore-at-sirpi-products-services-private-limited1755161917) | 📍 Bangalore | 💼 On Site | 📅 Aug 19 |
 | 🏢 SIRPI Products & Services Private Limited | [Mobile App Development (React Native & React Js)- Batch 2025](https://internshala.com/internship/detail/mobile-app-development-react-native-react-js-internship-in-bangalore-at-sirpi-products-services-private-limited1755162099) | 📍 Bangalore | 💼 On Site | 📅 Aug 19 |
-| 🏢 Praxis | [Receptionist - Front Office Administration (Female)](https://internshala.com/internship/detail/part-time-receptionist-front-office-administration-female-internship-in-chennai-at-praxis1754369672) | 📍 Chennai | 💼 On Site | 📅 Aug 19 |
+| 🏢 Dukane IAS India Private Limited | [Design Internship](https://internshala.com/internship/detail/design-manager-internship-in-chennai-at-dukane-ias-india-private-limited1754465414) | 📍 Chennai | 💼 On Site | 📅 Aug 19 |
 | 🏢 Dexter Consulting Private Limited | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-dexter-consulting-private-limited1753450802) | 📍 Ahmedabad, Aurangabad, Guwahati, Indore, Ludhiana, Lucknow, Patna, Puri, Pune, Rajkot, Sambalpur, Shimla, Varanasi, Udupi, Amravati, Jammu                                                                (Hybrid) | 💼 On Site | 📅 Aug 19 |
-| 🏢 Shree Narayan Manufacturer | [Fashion Design And Merchandising](https://internshala.com/internship/detail/fashion-design-and-merchandising-internship-in-jaipur-at-shree-narayan-manufacturer1755343773) | 📍 Jaipur | 💼 On Site | 📅 Aug 19 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-19 01:52 UTC*
+*Powered by Opdrop | Last update: 2025-08-19 06:36 UTC*
