@@ -9,8 +9,8 @@
 ## 📊 Quick Stats
 
 - **54** total opportunities
-- **49** unique companies
-- **17** different locations
+- **50** unique companies
+- **18** different locations
 
 ---
 
@@ -48,7 +48,6 @@
 | 🏢 1accord | [Electronics Engineering](https://internshala.com/internship/detail/electronics-engineering-internship-in-mumbai-at-1accord1754299986) | 📍 Mumbai | 💼 On Site | 📅 Aug 19 |
 | 🏢 Pune Medical Coding Training Institute | [Frontend Developer – UI](https://internshala.com/internship/detail/frontend-developer--ui-internship-in-pune-at-pune-medical-coding-training-institute1754052321) | 📍 Pune | 💼 On Site | 📅 Aug 19 |
 | 🏢 Prashant Kumar Limited | [Frontend Developer (React + Next.js)](https://internshala.com/internship/detail/work-from-home-part-time-frontend-developer-react-nextjs-internship-at-prashant-kumar-limited1755341847) | 📍 Work from home | 💼 On Site | 📅 Aug 19 |
-| 🏢 Dodger Labs | [UI/UX - Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-frontend-developer-internship-at-dodger-labs1754912367) | 📍 Work from home | 💼 On Site | 📅 Aug 19 |
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Mobile (React Native)](https://internshala.com/internship/detail/work-from-home-frontend-developer--mobile-react-native-internship-at-centora-mobility-private-limited1754029639) | 📍 Work from home | 💼 On Site | 📅 Aug 19 |
 | 🏢 Prashant Kumar Limited | [Backend Developer (Node.js + Express)](https://internshala.com/internship/detail/work-from-home-part-time-backend-developer-nodejs-express-internship-at-prashant-kumar-limited1755341697) | 📍 Work from home | 💼 On Site | 📅 Aug 19 |
 | 🏢 Lawtech | [JavaScript Developer (Backend Specialization)](https://internshala.com/internship/detail/work-from-home-javascript-developer-backend-specialization-internship-at-lawtech1753426736) | 📍 Work from home | 💼 On Site | 📅 Aug 19 |
@@ -68,14 +67,15 @@
 | 🏢 Social Shor | [Social Media Marketing(Female)](https://internshala.com/internship/detail/social-media-marketing-internship-in-jaipur-at-social-shor1755110209) | 📍 Jaipur | 💼 On Site | 📅 Aug 19 |
 | 🏢 Praxis | [Receptionist - Front Office Administration (Female)](https://internshala.com/internship/detail/part-time-receptionist-front-office-administration-female-internship-in-chennai-at-praxis1754369672) | 📍 Chennai | 💼 On Site | 📅 Aug 19 |
 | 🏢 Break The Code | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-multiple-locations-at-break-the-code1754906092) | 📍 Mumbai, Virar, Mira Bhayandar, Nala Sopara, Dahisar, Sion Koliwada, Vasai-Virar, Kurla, Bandra | 💼 On Site | 📅 Aug 19 |
-| 🏢 SIRPI Products & Services Private Limited | [Front End Development(AngularJs And React Js) - Batch 2025](https://internshala.com/internship/detail/front-end-developmentangularjs-and-react-js-internship-in-bangalore-at-sirpi-products-services-private-limited1755161999) | 📍 Bangalore | 💼 On Site | 📅 Aug 19 |
 | 🏢 SIRPI Products & Services Private Limited | [Mobile App Development (React Native & React Js)- Batch 2025](https://internshala.com/internship/detail/mobile-app-development-react-native-react-js-internship-in-bangalore-at-sirpi-products-services-private-limited1755162099) | 📍 Bangalore | 💼 On Site | 📅 Aug 19 |
 | 🏢 Dexter Consulting Private Limited | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-dexter-consulting-private-limited1753450802) | 📍 Ahmedabad, Aurangabad, Guwahati, Indore, Ludhiana, Lucknow, Patna, Puri, Pune, Rajkot, Sambalpur, Shimla, Varanasi, Udupi, Amravati, Jammu                                                                (Hybrid) | 💼 On Site | 📅 Aug 19 |
 | 🏢 Yogi Foundation | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-gorakhpur-at-yogi-foundation1755508387) | 📍 Gorakhpur                                                                (Hybrid) | 💼 On Site | 📅 Aug 19 |
+| 🏢 Nexotech Solutions | [UI/UX Design](https://internshala.com/internship/detail/part-time-ui-ux-design-internship-in-multiple-locations-at-nexotech-solutions1755161458) | 📍 Kollam, Kottayam, Kozhikode, Pathanamthitta, Thiruvananthapuram, Thrissur, Malappuram, Alappuzha, Wayanad, Idukki, Kochi, Ernakulam, Palakkad, Kannur                                                                (Hybrid) | 💼 On Site | 📅 Aug 19 |
+| 🏢 Orufy Technologies Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-orufy-technologies-private-limited1753187250) | 📍 Jaipur | 💼 On Site | 📅 Aug 19 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-19 12:47 UTC*
+*Powered by Opdrop | Last update: 2025-08-19 18:35 UTC*
