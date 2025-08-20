@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** August 20, 2025
-**Total Listings:** 54
+**Total Listings:** 53
 
 ## 📊 Quick Stats
 
-- **54** total opportunities
-- **50** unique companies
-- **18** different locations
+- **53** total opportunities
+- **48** unique companies
+- **16** different locations
 
 ---
 
@@ -45,10 +45,12 @@
 | 🏢 Kaushal Ranjeet Private Limited | [Full Stack Web Developer](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-internship-at-kaushal-ranjeet-private-limited1753520126) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
 | 🏢 Eniacworld Media Private Limited | [Project Coordinator and Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-project-coordinator-and-web-developer-internship-at-eniacworld-media-private-limited1753427573) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
 | 🏢 Sujagat AI Technology Private Limited | [AI-Powered Web Builder Developer](https://internshala.com/internship/detail/ai-powered-web-builder-developer-internship-in-delhi-at-sujagat-ai-technology-private-limited1754659356) | 📍 Delhi                                                                (Hybrid) | 💼 On Site | 📅 Aug 20 |
+| 🏢 BIIT | [Full-Stack Web Developer (Shopify, WordPress, Custom Frameworks & AI)](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-shopify-wordpress-custom-frameworks-ai-internship-at-biit1755674226) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
 | 🏢 1accord | [Electronics Engineering](https://internshala.com/internship/detail/electronics-engineering-internship-in-mumbai-at-1accord1754299986) | 📍 Mumbai | 💼 On Site | 📅 Aug 20 |
 | 🏢 Pune Medical Coding Training Institute | [Frontend Developer – UI](https://internshala.com/internship/detail/frontend-developer--ui-internship-in-pune-at-pune-medical-coding-training-institute1754052321) | 📍 Pune | 💼 On Site | 📅 Aug 20 |
 | 🏢 Prashant Kumar Limited | [Frontend Developer (React + Next.js)](https://internshala.com/internship/detail/work-from-home-part-time-frontend-developer-react-nextjs-internship-at-prashant-kumar-limited1755341847) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Mobile (React Native)](https://internshala.com/internship/detail/work-from-home-frontend-developer--mobile-react-native-internship-at-centora-mobility-private-limited1754029639) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
+| 🏢 LineupX | [Backend (Node.js) Developer](https://internshala.com/internship/detail/backend-nodejs-developer-internship-in-mumbai-at-lineupx1755682335) | 📍 Mumbai | 💼 On Site | 📅 Aug 20 |
 | 🏢 Prashant Kumar Limited | [Backend Developer (Node.js + Express)](https://internshala.com/internship/detail/work-from-home-part-time-backend-developer-nodejs-express-internship-at-prashant-kumar-limited1755341697) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
 | 🏢 Lawtech | [JavaScript Developer (Backend Specialization)](https://internshala.com/internship/detail/work-from-home-javascript-developer-backend-specialization-internship-at-lawtech1753426736) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
 | 🏢 Infoware | [Backend Developer – LLM & Vector Database Integration](https://internshala.com/internship/detail/part-time-backend-developer--llm-vector-database-integration-internship-in-multiple-locations-at-infoware1753359645) | 📍 Ahmedabad, Gandhinagar                                                                (Hybrid) | 💼 On Site | 📅 Aug 20 |
@@ -58,24 +60,21 @@
 | 🏢 Maxgen Technologies Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1753116830) | 📍 Ahmedabad | 💼 On Site | 📅 Aug 20 |
 | 🏢 Livesitter | [AI Full Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-full-stack-developer-internship-at-livesitter1754974587) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
 | 🏢 Sixnine Galaxies Private Limited | [Full Stack & Game Developer](https://internshala.com/internship/detail/work-from-home-full-stack-game-developer-internship-at-sixnine-galaxies-private-limited1753333499) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
+| 🏢 Wargstech | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-wargstech1755676423) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Aug 20 |
 | 🏢 Creatiwise | [Full Stack (Python/Django) Developer](https://internshala.com/internship/detail/work-from-home-full-stack-python-django-developer-internship-at-creatiwise1753091769) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
 | 🏢 UnifyXperts | [Full Stack Developer – Enterprise Software & System Integration](https://internshala.com/internship/detail/full-stack-developer--enterprise-software-system-integration-internship-in-mumbai-at-unifyxperts1753678321) | 📍 Mumbai | 💼 On Site | 📅 Aug 20 |
 | 🏢 Arakoo | [Node.js Generative AI/ML Developer](https://internshala.com/internship/detail/work-from-home-nodejs-generative-ai-ml-developer-internship-at-arakoo1754332692) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
 | 🏢 IDiv | [React Native + Expo Developer](https://internshala.com/internship/detail/react-native-expo-developer-internship-in-kolkata-at-idiv1755519859) | 📍 Kolkata                                                                (Hybrid) | 💼 On Site | 📅 Aug 20 |
 | 🏢 Start10x | [Mobile App Developer [React Native + Onsite]](https://internshala.com/internship/detail/mobile-app-developer-react-native-onsite-internship-in-gurgaon-at-start10x1753637618) | 📍 Gurgaon | 💼 On Site | 📅 Aug 20 |
 | 🏢 Kazhuga | [MERN Stack Developer](https://internshala.com/internship/detail/part-time-mern-stack-developer-internship-in-kanpur-at-kazhuga1753868480) | 📍 Kanpur | 💼 On Site | 📅 Aug 20 |
+| 🏢 Go Picnic Technology Solutions | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-go-picnic-technology-solutions1751348332) | 📍 Chennai, Ramapuram | 💼 On Site | 📅 Aug 20 |
+| 🏢 Go Picnic Technology Solutions | [Creative Design](https://internshala.com/internship/detail/creative-design-internship-in-multiple-locations-at-go-picnic-technology-solutions1755255212) | 📍 Chennai, Kanchipuram, Avadi | 💼 On Site | 📅 Aug 20 |
 | 🏢 Social Shor | [Social Media Marketing(Female)](https://internshala.com/internship/detail/social-media-marketing-internship-in-jaipur-at-social-shor1755110209) | 📍 Jaipur | 💼 On Site | 📅 Aug 20 |
-| 🏢 Praxis | [Receptionist - Front Office Administration (Female)](https://internshala.com/internship/detail/part-time-receptionist-front-office-administration-female-internship-in-chennai-at-praxis1754369672) | 📍 Chennai | 💼 On Site | 📅 Aug 20 |
 | 🏢 Break The Code | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-multiple-locations-at-break-the-code1754906092) | 📍 Mumbai, Virar, Mira Bhayandar, Nala Sopara, Dahisar, Sion Koliwada, Vasai-Virar, Kurla, Bandra | 💼 On Site | 📅 Aug 20 |
-| 🏢 SIRPI Products & Services Private Limited | [Mobile App Development (React Native & React Js)- Batch 2025](https://internshala.com/internship/detail/mobile-app-development-react-native-react-js-internship-in-bangalore-at-sirpi-products-services-private-limited1755162099) | 📍 Bangalore | 💼 On Site | 📅 Aug 20 |
-| 🏢 Dexter Consulting Private Limited | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-dexter-consulting-private-limited1753450802) | 📍 Ahmedabad, Aurangabad, Guwahati, Indore, Ludhiana, Lucknow, Patna, Puri, Pune, Rajkot, Sambalpur, Shimla, Varanasi, Udupi, Amravati, Jammu                                                                (Hybrid) | 💼 On Site | 📅 Aug 20 |
-| 🏢 Yogi Foundation | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-gorakhpur-at-yogi-foundation1755508387) | 📍 Gorakhpur                                                                (Hybrid) | 💼 On Site | 📅 Aug 20 |
-| 🏢 Nexotech Solutions | [UI/UX Design](https://internshala.com/internship/detail/part-time-ui-ux-design-internship-in-multiple-locations-at-nexotech-solutions1755161458) | 📍 Kollam, Kottayam, Kozhikode, Pathanamthitta, Thiruvananthapuram, Thrissur, Malappuram, Alappuzha, Wayanad, Idukki, Kochi, Ernakulam, Palakkad, Kannur                                                                (Hybrid) | 💼 On Site | 📅 Aug 20 |
-| 🏢 Orufy Technologies Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-jaipur-at-orufy-technologies-private-limited1753187250) | 📍 Jaipur | 💼 On Site | 📅 Aug 20 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-20 06:37 UTC*
+*Powered by Opdrop | Last update: 2025-08-20 12:49 UTC*
