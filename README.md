@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** August 20, 2025
-**Total Listings:** 42
+**Total Listings:** 54
 
 ## 📊 Quick Stats
 
-- **42** total opportunities
-- **38** unique companies
-- **16** different locations
+- **54** total opportunities
+- **50** unique companies
+- **18** different locations
 
 ---
 
@@ -19,9 +19,20 @@
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
 | 🏢 Talent Corner HR Services | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-mumbai-at-talent-corner-hr-services1753098997) | 📍 Mumbai | 💼 On Site | 📅 Aug 20 |
+| 🏢 HENNGE K.K | [Software Engineer Internship](https://remoteok.com/remote-jobs/102971-remote-software-engineer-internship-hennge-k-k) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
+| 🏢 Sports AI Startup | [IOS Developer Intern Sparrow](https://remoteok.com/remote-jobs/100690-remote-ios-developer-intern-sparrow-sports-ai-startup) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
+| 🏢 Snowplow Analytics | [Summer Software Engineering Internship](https://remoteok.com/remote-jobs/66244-remote-summer-software-engineering-internship-snowplow-analytics) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
+| 🏢 DreamLap | [Junior Meteor Developer Intern](https://remoteok.com/remote-jobs/16863-remote-junior-meteor-developer-intern-dreamlap) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
+| 🏢 BIWA | [PHP Developer Intern](https://remoteok.com/remote-jobs/15480-remote-php-developer-intern-biwa) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
+| 🏢 Advanon | [SOFTWARE ENGINEERING INTERNSHIP](https://remoteok.com/remote-jobs/7763-remote-software-engineering-internship-advanon) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
+| 🏢 Phidato | [Software Developer Internship](https://remoteok.com/remote-jobs/6881-remote-software-developer-internship-phidato) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
+| 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
 | 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-maxgen-technologies-private-limited1753632977) | 📍 Pune | 💼 On Site | 📅 Aug 20 |
-| 🏢 TheBlackJabGroup | [UI/UX Design](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-design-internship-at-theblackjabgroup1755060059) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Aug 20 |
+| 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
+| 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
+| 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
+| 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Aug 20 |
 | 🏢 Prolegion Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bhopal-at-prolegion-private-limited1755079032) | 📍 Bhopal | 💼 On Site | 📅 Aug 20 |
 | 🏢 NoFeeSwap | [Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-internship-at-nofeeswap1754050994) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
 | 🏢 Creative Nirvana Private Limited | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-creative-nirvana-private-limited1753350630) | 📍 Work from home | 💼 On Site | 📅 Aug 20 |
@@ -56,6 +67,7 @@
 | 🏢 Social Shor | [Social Media Marketing(Female)](https://internshala.com/internship/detail/social-media-marketing-internship-in-jaipur-at-social-shor1755110209) | 📍 Jaipur | 💼 On Site | 📅 Aug 20 |
 | 🏢 Praxis | [Receptionist - Front Office Administration (Female)](https://internshala.com/internship/detail/part-time-receptionist-front-office-administration-female-internship-in-chennai-at-praxis1754369672) | 📍 Chennai | 💼 On Site | 📅 Aug 20 |
 | 🏢 Break The Code | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-multiple-locations-at-break-the-code1754906092) | 📍 Mumbai, Virar, Mira Bhayandar, Nala Sopara, Dahisar, Sion Koliwada, Vasai-Virar, Kurla, Bandra | 💼 On Site | 📅 Aug 20 |
+| 🏢 SIRPI Products & Services Private Limited | [Mobile App Development (React Native & React Js)- Batch 2025](https://internshala.com/internship/detail/mobile-app-development-react-native-react-js-internship-in-bangalore-at-sirpi-products-services-private-limited1755162099) | 📍 Bangalore | 💼 On Site | 📅 Aug 20 |
 | 🏢 Dexter Consulting Private Limited | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-dexter-consulting-private-limited1753450802) | 📍 Ahmedabad, Aurangabad, Guwahati, Indore, Ludhiana, Lucknow, Patna, Puri, Pune, Rajkot, Sambalpur, Shimla, Varanasi, Udupi, Amravati, Jammu                                                                (Hybrid) | 💼 On Site | 📅 Aug 20 |
 | 🏢 Yogi Foundation | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-gorakhpur-at-yogi-foundation1755508387) | 📍 Gorakhpur                                                                (Hybrid) | 💼 On Site | 📅 Aug 20 |
 | 🏢 Nexotech Solutions | [UI/UX Design](https://internshala.com/internship/detail/part-time-ui-ux-design-internship-in-multiple-locations-at-nexotech-solutions1755161458) | 📍 Kollam, Kottayam, Kozhikode, Pathanamthitta, Thiruvananthapuram, Thrissur, Malappuram, Alappuzha, Wayanad, Idukki, Kochi, Ernakulam, Palakkad, Kannur                                                                (Hybrid) | 💼 On Site | 📅 Aug 20 |
@@ -66,4 +78,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-20 01:50 UTC*
+*Powered by Opdrop | Last update: 2025-08-20 06:37 UTC*
