@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** August 22, 2025
-**Total Listings:** 52
+**Total Listings:** 51
 
 ## 📊 Quick Stats
 
-- **52** total opportunities
-- **48** unique companies
-- **17** different locations
+- **51** total opportunities
+- **47** unique companies
+- **14** different locations
 
 ---
 
@@ -26,6 +26,7 @@
 | 🏢 Advanon | [SOFTWARE ENGINEERING INTERNSHIP](https://remoteok.com/remote-jobs/7763-remote-software-engineering-internship-advanon) | 📍 Remote | 🏠 Remote | 📅 Aug 22 |
 | 🏢 Phidato | [Software Developer Internship](https://remoteok.com/remote-jobs/6881-remote-software-developer-internship-phidato) | 📍 Remote | 🏠 Remote | 📅 Aug 22 |
 | 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Aug 22 |
+| 🏢 Bditto | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-bditto1755860990) | 📍 Work from home | 💼 On Site | 📅 Aug 22 |
 | 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-maxgen-technologies-private-limited1753632977) | 📍 Pune | 💼 On Site | 📅 Aug 22 |
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Aug 22 |
 | 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Aug 22 |
@@ -51,6 +52,7 @@
 | 🏢 Prashant Kumar Limited | [Backend Developer (Node.js + Express)](https://internshala.com/internship/detail/work-from-home-part-time-backend-developer-nodejs-express-internship-at-prashant-kumar-limited1755341697) | 📍 Work from home | 💼 On Site | 📅 Aug 22 |
 | 🏢 Lawtech | [JavaScript Developer (Backend Specialization)](https://internshala.com/internship/detail/work-from-home-javascript-developer-backend-specialization-internship-at-lawtech1753426736) | 📍 Work from home | 💼 On Site | 📅 Aug 22 |
 | 🏢 Infoware | [Backend Developer – LLM & Vector Database Integration](https://internshala.com/internship/detail/part-time-backend-developer--llm-vector-database-integration-internship-in-multiple-locations-at-infoware1753359645) | 📍 Ahmedabad, Gandhinagar                                                                (Hybrid) | 💼 On Site | 📅 Aug 22 |
+| 🏢 Arealis Networks Pvt. Ltd. | [AI / Backend / Fullstack Developers](https://internshala.com/internship/detail/ai-backend-fullstack-developers-internship-in-pune-at-arealis-networks-pvt-ltd1755860611) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Aug 22 |
 | 🏢 Dobby Ads | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-dobby-ads1755783419) | 📍 Work from home | 💼 On Site | 📅 Aug 22 |
 | 🏢 Innovate Solutions | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-innovate-solutions1755712569) | 📍 Work from home | 💼 On Site | 📅 Aug 22 |
 | 🏢 Workik | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-workik1753850865) | 📍 Work from home | 💼 On Site | 📅 Aug 22 |
@@ -64,16 +66,13 @@
 | 🏢 IDiv | [React Native + Expo Developer](https://internshala.com/internship/detail/react-native-expo-developer-internship-in-kolkata-at-idiv1755519859) | 📍 Kolkata                                                                (Hybrid) | 💼 On Site | 📅 Aug 22 |
 | 🏢 Start10x | [Mobile App Developer [React Native + Onsite]](https://internshala.com/internship/detail/mobile-app-developer-react-native-onsite-internship-in-gurgaon-at-start10x1753637618) | 📍 Gurgaon | 💼 On Site | 📅 Aug 22 |
 | 🏢 Kazhuga | [MERN Stack Developer](https://internshala.com/internship/detail/part-time-mern-stack-developer-internship-in-kanpur-at-kazhuga1753868480) | 📍 Kanpur | 💼 On Site | 📅 Aug 22 |
-| 🏢 Avaesa | [Video Editing/Making](https://internshala.com/internship/detail/video-editing-making-internship-in-chennai-at-avaesa1753522824) | 📍 Chennai | 💼 On Site | 📅 Aug 22 |
-| 🏢 Bramhachari Someshwar Chaitnya Kalyankari Sanstha, Nashik | [Digital Marketing](https://internshala.com/internship/detail/digital-marketing-internship-in-multiple-locations-at-bramhachari-someshwar-chaitnya-kalyankari-sanstha-nashik1754651647) | 📍 Aurangabad, Pune, Sangli, Solapur, Osmanabad, Satara, Lonavala, Baramati, Barshi, Mahabaleshwar | 💼 On Site | 📅 Aug 22 |
-| 🏢 Go Picnic Technology Solutions | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-go-picnic-technology-solutions1751348332) | 📍 Chennai, Ramapuram | 💼 On Site | 📅 Aug 22 |
-| 🏢 Go Picnic Technology Solutions | [Creative Design](https://internshala.com/internship/detail/creative-design-internship-in-multiple-locations-at-go-picnic-technology-solutions1755255212) | 📍 Chennai, Kanchipuram, Avadi | 💼 On Site | 📅 Aug 22 |
-| 🏢 Social Shor | [Social Media Marketing(Female)](https://internshala.com/internship/detail/social-media-marketing-internship-in-jaipur-at-social-shor1755110209) | 📍 Jaipur | 💼 On Site | 📅 Aug 22 |
-| 🏢 Dexter Consulting Private Limited | [Market Research](https://internshala.com/internship/detail/market-research-internship-in-multiple-locations-at-dexter-consulting-private-limited1753450802) | 📍 Ahmedabad, Aurangabad, Guwahati, Indore, Ludhiana, Lucknow, Patna, Puri, Pune, Rajkot, Sambalpur, Shimla, Varanasi, Udupi, Amravati, Jammu                                                                (Hybrid) | 💼 On Site | 📅 Aug 22 |
+| 🏢 Agni Rural Welfare Society | [NGO Fundraising & Field Coordinator Volunteer (Only For Kolkata)](https://internshala.com/internship/detail/part-time-ngo-fundraising-field-coordinator-volunteer-only-for-kolkata-internship-in-multiple-locations-at-agni-rural-welfare-society1753706429) | 📍 Rajpur Sonarpur, Sonarpur, Kolkata | 💼 On Site | 📅 Aug 22 |
+| 🏢 XENZIA | [Graphic & Video Editor Manager(Female)](https://internshala.com/internship/detail/graphic-video-editor-managerfemale-internship-in-multiple-locations-at-xenzia1755329902) | 📍 Ahmedabad, Amritsar, Chandigarh, Dehradun, Delhi, Gurgaon, Indore, Kanpur, Lucknow, Panjim, Ranchi, Jaipur, Noida, Bangarapet, Maharashtra                                                                (Hybrid) | 💼 On Site | 📅 Aug 22 |
+| 🏢 XENZIA | [Social Media & Content Marketing (Female) Manager](https://internshala.com/internship/detail/social-media-content-marketing-female-manager-internship-in-multiple-locations-at-xenzia1755089812) | 📍 Ahmedabad, Amritsar, Chandigarh, Dehradun, Delhi, Gurgaon, Indore, Lucknow, Panjim, Ranchi, Udaipur, Jaipur, Noida, Bangalore, Maharashtra                                                                (Hybrid) | 💼 On Site | 📅 Aug 22 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-22 06:36 UTC*
+*Powered by Opdrop | Last update: 2025-08-22 12:47 UTC*
