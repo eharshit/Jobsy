@@ -67,12 +67,12 @@
 | 🏢 IDiv | [React Native + Expo Developer](https://internshala.com/internship/detail/react-native-expo-developer-internship-in-kolkata-at-idiv1755519859) | 📍 Kolkata                                                                (Hybrid) | 💼 On Site | 📅 Aug 24 |
 | 🏢 Start10x | [Mobile App Developer [React Native + Onsite]](https://internshala.com/internship/detail/mobile-app-developer-react-native-onsite-internship-in-gurgaon-at-start10x1753637618) | 📍 Gurgaon | 💼 On Site | 📅 Aug 24 |
 | 🏢 Kazhuga | [MERN Stack Developer](https://internshala.com/internship/detail/part-time-mern-stack-developer-internship-in-kanpur-at-kazhuga1753868480) | 📍 Kanpur | 💼 On Site | 📅 Aug 24 |
+| 🏢 XENZIA | [Graphic & Video Editor Manager(Female)](https://internshala.com/internship/detail/graphic-video-editor-managerfemale-internship-in-multiple-locations-at-xenzia1755329902) | 📍 Ahmedabad, Amritsar, Chandigarh, Dehradun, Delhi, Gurgaon, Indore, Kanpur, Lucknow, Panjim, Ranchi, Jaipur, Noida, Bangarapet, Maharashtra                                                                (Hybrid) | 💼 On Site | 📅 Aug 24 |
 | 🏢 199 Developments Private Limited | [UI/UX Design](https://internshala.com/internship/detail/ui-ux-design-internship-in-ahmedabad-at-199-developments-private-limited1754645704) | 📍 Ahmedabad | 💼 On Site | 📅 Aug 24 |
-| 🏢 Agni Rural Welfare Society | [NGO Fundraising & Field Coordinator Volunteer (Only For Kolkata)](https://internshala.com/internship/detail/part-time-ngo-fundraising-field-coordinator-volunteer-only-for-kolkata-internship-in-multiple-locations-at-agni-rural-welfare-society1753706429) | 📍 Rajpur Sonarpur, Sonarpur, Kolkata | 💼 On Site | 📅 Aug 24 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-24 02:00 UTC*
+*Powered by Opdrop | Last update: 2025-08-24 06:33 UTC*
