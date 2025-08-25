@@ -10,7 +10,7 @@
 
 - **57** total opportunities
 - **53** unique companies
-- **9** different locations
+- **10** different locations
 
 ---
 
@@ -45,8 +45,8 @@
 | 🏢 Stirring Minds | [Webflow Designer And Developer](https://internshala.com/internship/detail/work-from-home-webflow-designer-and-developer-internship-at-stirring-minds1754711208) | 📍 Work from home | 💼 On Site | 📅 Aug 25 |
 | 🏢 Quillhash | [Web3 BD & Partnerships Intern](https://internshala.com/internship/detail/work-from-home-web3-bd-partnerships-intern-internship-at-quillhash1755667210) | 📍 Work from home | 💼 On Site | 📅 Aug 25 |
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Web (Next.js)](https://internshala.com/internship/detail/work-from-home-frontend-developer--web-nextjs-internship-at-centora-mobility-private-limited1754029435) | 📍 Work from home | 💼 On Site | 📅 Aug 25 |
-| 🏢 Kaushal Ranjeet Private Limited | [Full Stack Web Developer](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-internship-at-kaushal-ranjeet-private-limited1753520126) | 📍 Work from home | 💼 On Site | 📅 Aug 25 |
 | 🏢 Sujagat AI Technology Private Limited | [AI-Powered Web Builder Developer](https://internshala.com/internship/detail/ai-powered-web-builder-developer-internship-in-delhi-at-sujagat-ai-technology-private-limited1754659356) | 📍 Delhi                                                                (Hybrid) | 💼 On Site | 📅 Aug 25 |
+| 🏢 MultyComm Interactive Media Private Limited | [SEO Intern (with Web Development Exposure)](https://internshala.com/internship/detail/seo-intern-with-web-development-exposure-internship-in-delhi-at-multycomm-interactive-media-private-limited1756127429) | 📍 Delhi | 💼 On Site | 📅 Aug 25 |
 | 🏢 BIIT | [Full-Stack Web Developer (Shopify, WordPress, Custom Frameworks & AI)](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-shopify-wordpress-custom-frameworks-ai-internship-at-biit1755674226) | 📍 Work from home | 💼 On Site | 📅 Aug 25 |
 | 🏢 Faclon | [Front End Development](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-faclon1755166585) | 📍 Work from home | 💼 On Site | 📅 Aug 25 |
 | 🏢 Antariksha Labs | [Mobile App Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-developer-internship-at-antariksha-labs1755330972) | 📍 Work from home | 💼 On Site | 📅 Aug 25 |
@@ -81,4 +81,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-25 12:50 UTC*
+*Powered by Opdrop | Last update: 2025-08-25 18:33 UTC*
