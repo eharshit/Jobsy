@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** August 26, 2025
-**Total Listings:** 58
+**Total Listings:** 57
 
 ## 📊 Quick Stats
 
-- **58** total opportunities
-- **54** unique companies
+- **57** total opportunities
+- **53** unique companies
 - **12** different locations
 
 ---
@@ -27,7 +27,6 @@
 | 🏢 Phidato | [Software Developer Internship](https://remoteok.com/remote-jobs/6881-remote-software-developer-internship-phidato) | 📍 Remote | 🏠 Remote | 📅 Aug 26 |
 | 🏢 The Banyan Roots | [Software Developer Internship](https://remoteok.com/remote-jobs/6880-remote-software-developer-internship-the-banyan-roots) | 📍 Remote | 🏠 Remote | 📅 Aug 26 |
 | 🏢 Bditto | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-bditto1755860990) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
-| 🏢 Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-maxgen-technologies-private-limited1753632977) | 📍 Pune | 💼 On Site | 📅 Aug 26 |
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Aug 26 |
 | 🏢 Roomi | [iOS Developer Internship](https://remoteok.com/remote-jobs/6712-remote-ios-developer-internship-roomi) | 📍 Remote | 🏠 Remote | 📅 Aug 26 |
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Aug 26 |
@@ -38,6 +37,7 @@
 | 🏢 Prolegion Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bhopal-at-prolegion-private-limited1755079032) | 📍 Bhopal | 💼 On Site | 📅 Aug 26 |
 | 🏢 NoFeeSwap | [Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-internship-at-nofeeswap1754050994) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
 | 🏢 NoFeeSwap | [Web3 Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-web3-frontend-developer-internship-at-nofeeswap1754541531) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
+| 🏢 Efeedor | [Developer](https://internshala.com/internship/detail/part-time-developer-internship-in-bangalore-at-efeedor1756205753) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Aug 26 |
 | 🏢 AutofillJobs | [Web Developer/Cofounder](https://internshala.com/internship/detail/work-from-home-web-developer-cofounder-internship-at-autofilljobs1753091255) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
 | 🏢 Codecraft IT Solutions | [Website Developer](https://internshala.com/internship/detail/work-from-home-website-developer-internship-at-codecraft-it-solutions1756099923) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
 | 🏢 QuantaPixel Software Solutions | [Drupal Developer](https://internshala.com/internship/detail/work-from-home-drupal-developer-internship-at-quantapixel-software-solutions1754304174) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
@@ -48,7 +48,6 @@
 | 🏢 Quillhash | [Web3 BD & Partnerships Intern](https://internshala.com/internship/detail/work-from-home-web3-bd-partnerships-intern-internship-at-quillhash1755667210) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Web (Next.js)](https://internshala.com/internship/detail/work-from-home-frontend-developer--web-nextjs-internship-at-centora-mobility-private-limited1754029435) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
 | 🏢 Sujagat AI Technology Private Limited | [AI-Powered Web Builder Developer](https://internshala.com/internship/detail/ai-powered-web-builder-developer-internship-in-delhi-at-sujagat-ai-technology-private-limited1754659356) | 📍 Delhi                                                                (Hybrid) | 💼 On Site | 📅 Aug 26 |
-| 🏢 MultyComm Interactive Media Private Limited | [SEO Intern (with Web Development Exposure)](https://internshala.com/internship/detail/seo-intern-with-web-development-exposure-internship-in-delhi-at-multycomm-interactive-media-private-limited1756127429) | 📍 Delhi | 💼 On Site | 📅 Aug 26 |
 | 🏢 BIIT | [Full-Stack Web Developer (Shopify, WordPress, Custom Frameworks & AI)](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-shopify-wordpress-custom-frameworks-ai-internship-at-biit1755674226) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
 | 🏢 Faclon | [Front End Development](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-faclon1755166585) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
 | 🏢 Antariksha Labs | [Mobile App Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-developer-internship-at-antariksha-labs1755330972) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
@@ -82,4 +81,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-26 12:51 UTC*
+*Powered by Opdrop | Last update: 2025-08-26 18:32 UTC*
