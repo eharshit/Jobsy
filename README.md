@@ -10,7 +10,7 @@
 
 - **58** total opportunities
 - **54** unique companies
-- **11** different locations
+- **12** different locations
 
 ---
 
@@ -33,6 +33,7 @@
 | 🏢 Happy Medium | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5465-remote-wordpress-web-developer-internship-happy-medium) | 📍 Remote | 🏠 Remote | 📅 Aug 26 |
 | 🏢 Happy Medium Interactive | [Wordpress Web Developer Internship](https://remoteok.com/remote-jobs/5469-remote-wordpress-web-developer-internship-happy-medium-interactive) | 📍 Remote | 🏠 Remote | 📅 Aug 26 |
 | 🏢 Cookly | [Frontend Developer Internship](https://remoteok.com/remote-jobs/4604-remote-frontend-developer-internship-cookly) | 📍 Remote | 🏠 Remote | 📅 Aug 26 |
+| 🏢 Transition Computing India | [Angular Web Developer](https://internshala.com/internship/detail/angular-web-developer-internship-in-hyderabad-at-transition-computing-india1756191364) | 📍 Hyderabad | 💼 On Site | 📅 Aug 26 |
 | 🏢 Pentasoft Professional | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bathinda-at-pentasoft-professional1756188795) | 📍 Bathinda | 💼 On Site | 📅 Aug 26 |
 | 🏢 Prolegion Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bhopal-at-prolegion-private-limited1755079032) | 📍 Bhopal | 💼 On Site | 📅 Aug 26 |
 | 🏢 NoFeeSwap | [Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-internship-at-nofeeswap1754050994) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
@@ -75,11 +76,10 @@
 | 🏢 Livesitter | [AI Full Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-full-stack-developer-internship-at-livesitter1754974587) | 📍 Work from home | 💼 On Site | 📅 Aug 26 |
 | 🏢 Wargstech | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-wargstech1755676423) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Aug 26 |
 | 🏢 Bluespace Studio | [Full-Stack Software Developer  – In-Office (Agra)](https://internshala.com/internship/detail/full-stack-software-developer--in-office-agra-internship-in-agra-at-bluespace-studio1753958863) | 📍 Agra | 💼 On Site | 📅 Aug 26 |
-| 🏢 UnifyXperts | [Full Stack Developer – Enterprise Software & System Integration](https://internshala.com/internship/detail/full-stack-developer--enterprise-software-system-integration-internship-in-mumbai-at-unifyxperts1753678321) | 📍 Mumbai | 💼 On Site | 📅 Aug 26 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-26 06:35 UTC*
+*Powered by Opdrop | Last update: 2025-08-26 12:51 UTC*
