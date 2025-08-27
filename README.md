@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** August 27, 2025
-**Total Listings:** 57
+**Total Listings:** 56
 
 ## 📊 Quick Stats
 
-- **57** total opportunities
-- **53** unique companies
+- **56** total opportunities
+- **52** unique companies
 - **12** different locations
 
 ---
@@ -58,7 +58,6 @@
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Mobile (React Native)](https://internshala.com/internship/detail/work-from-home-frontend-developer--mobile-react-native-internship-at-centora-mobility-private-limited1754029639) | 📍 Work from home | 💼 On Site | 📅 Aug 27 |
 | 🏢 Lumio Partners | [Backend Developer Trainee](https://internshala.com/internship/detail/work-from-home-backend-developer-trainee-internship-at-lumio-partners1754632590) | 📍 Work from home | 💼 On Site | 📅 Aug 27 |
 | 🏢 Prashant Kumar Limited | [Backend Developer (Node.js + Express)](https://internshala.com/internship/detail/work-from-home-part-time-backend-developer-nodejs-express-internship-at-prashant-kumar-limited1755341697) | 📍 Work from home | 💼 On Site | 📅 Aug 27 |
-| 🏢 Raju Kancharla | [FastAPI Developer](https://internshala.com/internship/detail/work-from-home-fastapi-developer-internship-at-raju-kancharla1756115149) | 📍 Work from home | 💼 On Site | 📅 Aug 27 |
 | 🏢 Vicharak Computers LLP | [FPGA Developer](https://internshala.com/internship/detail/fpga-developer-internship-in-surat-at-vicharak-computers-llp1756102454) | 📍 Surat | 💼 On Site | 📅 Aug 27 |
 | 🏢 Plus Barrels | [Whatsapp BOT Developer](https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-plus-barrels1755770515) | 📍 Mumbai | 💼 On Site | 📅 Aug 27 |
 | 🏢 Innovate Solutions | [Back End Developer](https://internshala.com/internship/detail/work-from-home-back-end-developer-internship-at-innovate-solutions1755713246) | 📍 Work from home | 💼 On Site | 📅 Aug 27 |
@@ -81,4 +80,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-27 01:48 UTC*
+*Powered by Opdrop | Last update: 2025-08-27 06:34 UTC*
