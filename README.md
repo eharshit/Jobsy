@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** August 28, 2025
-**Total Listings:** 45
+**Total Listings:** 46
 
 ## 📊 Quick Stats
 
-- **45** total opportunities
-- **41** unique companies
+- **46** total opportunities
+- **42** unique companies
 - **9** different locations
 
 ---
@@ -20,11 +20,9 @@
 |:---|:---|:---|:---|:---|
 | 🏢 Bditto | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-bditto1755860990) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Aug 28 |
-| 🏢 Yonder Ai | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-yonder-ai1756370911) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Prolegion Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bhopal-at-prolegion-private-limited1755079032) | 📍 Bhopal | 💼 On Site | 📅 Aug 28 |
 | 🏢 NoFeeSwap | [Web Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-internship-at-nofeeswap1754050994) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 NoFeeSwap | [Web3 Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-web3-frontend-developer-internship-at-nofeeswap1754541531) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
-| 🏢 TheBlackJabGroup | [Shopify Web Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-developer-internship-at-theblackjabgroup1756373596) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Transition Computing India | [Angular Web Developer](https://internshala.com/internship/detail/angular-web-developer-internship-in-hyderabad-at-transition-computing-india1756191364) | 📍 Hyderabad | 💼 On Site | 📅 Aug 28 |
 | 🏢 AutofillJobs | [Web Developer/Cofounder](https://internshala.com/internship/detail/work-from-home-web-developer-cofounder-internship-at-autofilljobs1753091255) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Codecraft IT Solutions | [Website Developer](https://internshala.com/internship/detail/work-from-home-website-developer-internship-at-codecraft-it-solutions1756099923) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
@@ -35,6 +33,7 @@
 | 🏢 Stirring Minds | [Webflow Designer And Developer](https://internshala.com/internship/detail/work-from-home-webflow-designer-and-developer-internship-at-stirring-minds1754711208) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Quillhash | [Web3 BD & Partnerships Intern](https://internshala.com/internship/detail/work-from-home-web3-bd-partnerships-intern-internship-at-quillhash1755667210) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Web (Next.js)](https://internshala.com/internship/detail/work-from-home-frontend-developer--web-nextjs-internship-at-centora-mobility-private-limited1754029435) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
+| 🏢 Delhi Book Market | [Front End Web App Developer](https://internshala.com/internship/detail/work-from-home-front-end-web-app-developer-internship-at-delhi-book-market1756197752) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Sujagat AI Technology Private Limited | [AI-Powered Web Builder Developer](https://internshala.com/internship/detail/ai-powered-web-builder-developer-internship-in-delhi-at-sujagat-ai-technology-private-limited1754659356) | 📍 Delhi                                                                (Hybrid) | 💼 On Site | 📅 Aug 28 |
 | 🏢 BIIT | [Full-Stack Web Developer (Shopify, WordPress, Custom Frameworks & AI)](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-shopify-wordpress-custom-frameworks-ai-internship-at-biit1755674226) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Faclon | [Front End Development](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-faclon1755166585) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
@@ -44,7 +43,9 @@
 | 🏢 Pune Medical Coding Training Institute | [Frontend Developer – UI](https://internshala.com/internship/detail/frontend-developer--ui-internship-in-pune-at-pune-medical-coding-training-institute1754052321) | 📍 Pune | 💼 On Site | 📅 Aug 28 |
 | 🏢 Auriv Learning | [Frontend Developer / UI Designer](https://internshala.com/internship/detail/work-from-home-frontend-developer-ui-designer-internship-at-auriv-learning1755870279) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Prashant Kumar Limited | [Frontend Developer (React + Next.js)](https://internshala.com/internship/detail/work-from-home-part-time-frontend-developer-react-nextjs-internship-at-prashant-kumar-limited1755341847) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
+| 🏢 Dodger Labs | [UI/UX - Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-frontend-developer-internship-at-dodger-labs1754912367) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Mobile (React Native)](https://internshala.com/internship/detail/work-from-home-frontend-developer--mobile-react-native-internship-at-centora-mobility-private-limited1754029639) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
+| 🏢 Presence Learning Private Limited | [NodeJS Backend Developer](https://internshala.com/internship/detail/work-from-home-nodejs-backend-developer-internship-at-presence-learning-private-limited1756386869) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Lumio Partners | [Backend Developer Trainee](https://internshala.com/internship/detail/work-from-home-backend-developer-trainee-internship-at-lumio-partners1754632590) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Prashant Kumar Limited | [Backend Developer (Node.js + Express)](https://internshala.com/internship/detail/work-from-home-part-time-backend-developer-nodejs-express-internship-at-prashant-kumar-limited1755341697) | 📍 Work from home | 💼 On Site | 📅 Aug 28 |
 | 🏢 Vicharak Computers LLP | [FPGA Developer](https://internshala.com/internship/detail/fpga-developer-internship-in-surat-at-vicharak-computers-llp1756102454) | 📍 Surat | 💼 On Site | 📅 Aug 28 |
@@ -69,4 +70,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-28 12:46 UTC*
+*Powered by Opdrop | Last update: 2025-08-28 18:32 UTC*
