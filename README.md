@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** August 30, 2025
-**Total Listings:** 43
+**Total Listings:** 42
 
 ## 📊 Quick Stats
 
-- **43** total opportunities
-- **40** unique companies
-- **10** different locations
+- **42** total opportunities
+- **39** unique companies
+- **9** different locations
 
 ---
 
@@ -34,6 +34,7 @@
 | 🏢 Sujagat AI Technology Private Limited | [AI-Powered Web Builder Developer](https://internshala.com/internship/detail/ai-powered-web-builder-developer-internship-in-delhi-at-sujagat-ai-technology-private-limited1754659356) | 📍 Delhi                                                                (Hybrid) | 💼 On Site | 📅 Aug 30 |
 | 🏢 BIIT | [Full-Stack Web Developer (Shopify, WordPress, Custom Frameworks & AI)](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-shopify-wordpress-custom-frameworks-ai-internship-at-biit1755674226) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
 | 🏢 Faclon | [Front End Development](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-faclon1755166585) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
+| 🏢 Big Internet E-commerce Private Limited | [Full Stack Developer ( Night Shift Only)](https://internshala.com/internship/detail/work-from-home-full-stack-developer--night-shift-only-internship-at-big-internet-e-commerce-private-limited1756529918) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
 | 🏢 Antariksha Labs | [Mobile App Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-developer-internship-at-antariksha-labs1755330972) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
 | 🏢 DDverse Initiatives Private Limited | [Mobile App Development](https://internshala.com/internship/detail/mobile-app-development-internship-in-noida-at-ddverse-initiatives-private-limited1756444866) | 📍 Noida | 💼 On Site | 📅 Aug 30 |
 | 🏢 Nineti GmbH | [Flutter Development](https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-nineti-gmbh1756275975) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
@@ -54,17 +55,15 @@
 | 🏢 Innovate Solutions | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-innovate-solutions1755712569) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
 | 🏢 Buzdealz Ventures Private Limited | [Full-Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-buzdealz-ventures-private-limited1755247579) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
 | 🏢 Workik | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-workik1753850865) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
+| 🏢 Arvyax Technologies Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-arvyax-technologies-private-limited1753714995) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
 | 🏢 1000xdev | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-1000xdev1753428577) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
 | 🏢 Garud | [Full-Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-garud1751540727) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
 | 🏢 Livesitter | [AI Full Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-full-stack-developer-internship-at-livesitter1754974587) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
 | 🏢 Wargstech | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-wargstech1755676423) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Aug 30 |
-| 🏢 Bluespace Studio | [Full-Stack Software Developer  – In-Office (Agra)](https://internshala.com/internship/detail/full-stack-software-developer--in-office-agra-internship-in-agra-at-bluespace-studio1753958863) | 📍 Agra | 💼 On Site | 📅 Aug 30 |
-| 🏢 Creatiwise | [Fullstack (Python/Django) Developer](https://internshala.com/internship/detail/work-from-home-fullstack-python-django-developer-internship-at-creatiwise1756366639) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
-| 🏢 Arakoo | [Node.js Generative AI/ML Developer](https://internshala.com/internship/detail/work-from-home-nodejs-generative-ai-ml-developer-internship-at-arakoo1754332692) | 📍 Work from home | 💼 On Site | 📅 Aug 30 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-30 01:41 UTC*
+*Powered by Opdrop | Last update: 2025-08-30 06:30 UTC*
