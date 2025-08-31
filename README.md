@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** August 31, 2025
-**Total Listings:** 43
+**Total Listings:** 42
 
 ## 📊 Quick Stats
 
-- **43** total opportunities
-- **40** unique companies
+- **42** total opportunities
+- **39** unique companies
 - **9** different locations
 
 ---
@@ -29,8 +29,8 @@
 | 🏢 Anuschka Leather-India Private Limited | [Web Developer & Designer (AI Tools Expertise)](https://internshala.com/internship/detail/work-from-home-web-developer-designer-ai-tools-expertise-internship-at-anuschka-leather-india-private-limited1755870019) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
 | 🏢 Tailor Apps | [Mobile/Web App Developer (Flutter/Flutterflow)](https://internshala.com/internship/detail/work-from-home-part-time-mobile-web-app-developer-flutter-flutterflow-internship-at-tailor-apps1755756110) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
 | 🏢 Stirring Minds | [Webflow Designer And Developer](https://internshala.com/internship/detail/work-from-home-webflow-designer-and-developer-internship-at-stirring-minds1754711208) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
-| 🏢 Quillhash | [Web3 BD & Partnerships Intern](https://internshala.com/internship/detail/work-from-home-web3-bd-partnerships-intern-internship-at-quillhash1755667210) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Web (Next.js)](https://internshala.com/internship/detail/work-from-home-frontend-developer--web-nextjs-internship-at-centora-mobility-private-limited1754029435) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
+| 🏢 Quillhash | [Web3 BD & Partnerships Intern](https://internshala.com/internship/detail/work-from-home-web3-bd-partnerships-intern-internship-at-quillhash1755667210) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
 | 🏢 Sujagat AI Technology Private Limited | [AI-Powered Web Builder Developer](https://internshala.com/internship/detail/ai-powered-web-builder-developer-internship-in-delhi-at-sujagat-ai-technology-private-limited1754659356) | 📍 Delhi                                                                (Hybrid) | 💼 On Site | 📅 Aug 31 |
 | 🏢 BIIT | [Full-Stack Web Developer (Shopify, WordPress, Custom Frameworks & AI)](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-shopify-wordpress-custom-frameworks-ai-internship-at-biit1755674226) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
 | 🏢 Faclon | [Front End Development](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-faclon1755166585) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
@@ -41,7 +41,6 @@
 | 🏢 Pune Medical Coding Training Institute | [Frontend Developer – UI](https://internshala.com/internship/detail/frontend-developer--ui-internship-in-pune-at-pune-medical-coding-training-institute1754052321) | 📍 Pune | 💼 On Site | 📅 Aug 31 |
 | 🏢 Auriv Learning | [Frontend Developer / UI Designer](https://internshala.com/internship/detail/work-from-home-frontend-developer-ui-designer-internship-at-auriv-learning1755870279) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
 | 🏢 Prashant Kumar Limited | [Frontend Developer (React + Next.js)](https://internshala.com/internship/detail/work-from-home-part-time-frontend-developer-react-nextjs-internship-at-prashant-kumar-limited1755341847) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
-| 🏢 Dodger Labs | [UI/UX - Frontend Developer](https://internshala.com/internship/detail/work-from-home-part-time-ui-ux-frontend-developer-internship-at-dodger-labs1754912367) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
 | 🏢 Centora Mobility Private Limited | [Frontend Developer – Mobile (React Native)](https://internshala.com/internship/detail/work-from-home-frontend-developer--mobile-react-native-internship-at-centora-mobility-private-limited1754029639) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
 | 🏢 Lumio Partners | [Backend Developer Trainee](https://internshala.com/internship/detail/work-from-home-backend-developer-trainee-internship-at-lumio-partners1754632590) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
 | 🏢 Prashant Kumar Limited | [Backend Developer (Node.js + Express)](https://internshala.com/internship/detail/work-from-home-part-time-backend-developer-nodejs-express-internship-at-prashant-kumar-limited1755341697) | 📍 Work from home | 💼 On Site | 📅 Aug 31 |
@@ -67,4 +66,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-08-31 12:42 UTC*
+*Powered by Opdrop | Last update: 2025-08-31 18:29 UTC*
