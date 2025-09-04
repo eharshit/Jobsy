@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** September 04, 2025
-**Total Listings:** 39
+**Total Listings:** 40
 
 ## 📊 Quick Stats
 
-- **39** total opportunities
-- **38** unique companies
+- **40** total opportunities
+- **39** unique companies
 - **11** different locations
 
 ---
@@ -20,6 +20,7 @@
 |:---|:---|:---|:---|:---|
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Sep 04 |
 | 🏢 Prolegion Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bhopal-at-prolegion-private-limited1755079032) | 📍 Bhopal | 💼 On Site | 📅 Sep 04 |
+| 🏢 TheBlackJabGroup | [Shopify Web Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-developer-internship-at-theblackjabgroup1756959695) | 📍 Work from home | 💼 On Site | 📅 Sep 04 |
 | 🏢 Transition Computing India | [Angular Web Developer](https://internshala.com/internship/detail/angular-web-developer-internship-in-hyderabad-at-transition-computing-india1756191364) | 📍 Hyderabad | 💼 On Site | 📅 Sep 04 |
 | 🏢 AutofillJobs | [Web Developer/Cofounder](https://internshala.com/internship/detail/work-from-home-web-developer-cofounder-internship-at-autofilljobs1753091255) | 📍 Work from home | 💼 On Site | 📅 Sep 04 |
 | 🏢 Vicharak Computers LLP | [FPGA Developer (Intern)](https://internshala.com/internship/detail/fpga-developer-intern-internship-in-surat-at-vicharak-computers-llp1756717513) | 📍 Surat | 💼 On Site | 📅 Sep 04 |
@@ -63,4 +64,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-04 01:42 UTC*
+*Powered by Opdrop | Last update: 2025-09-04 06:33 UTC*
