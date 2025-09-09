@@ -42,8 +42,8 @@
 | 🏢 Innovate Solutions | [Back End Developer](https://internshala.com/internship/detail/work-from-home-back-end-developer-internship-at-innovate-solutions1755713246) | 📍 Work from home | 💼 On Site | 📅 Sep 09 |
 | 🏢 Plus Barrels | [Whatsapp BOT Developer- Female](https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-plus-barrels1755770515) | 📍 Mumbai | 💼 On Site | 📅 Sep 09 |
 | 🏢 Arealis Networks Pvt. Ltd. | [AI / Backend / Fullstack Developers](https://internshala.com/internship/detail/ai-backend-fullstack-developers-internship-in-pune-at-arealis-networks-pvt-ltd1755860611) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Sep 09 |
-| 🏢 AffinityAnswers | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-affinityanswers1756099724) | 📍 Work from home | 💼 On Site | 📅 Sep 09 |
 | 🏢 Indika AI Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-delhi-at-indika-ai-private-limited1756723774) | 📍 Delhi | 💼 On Site | 📅 Sep 09 |
+| 🏢 AffinityAnswers | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-affinityanswers1756099724) | 📍 Work from home | 💼 On Site | 📅 Sep 09 |
 | 🏢 Bditto (London, United Kingdom) | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-bditto1755860990) | 📍 Work from home | 💼 On Site | 📅 Sep 09 |
 | 🏢 Dobby Ads | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-dobby-ads1755783419) | 📍 Work from home | 💼 On Site | 📅 Sep 09 |
 | 🏢 Innovate Solutions | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-innovate-solutions1755712569) | 📍 Work from home | 💼 On Site | 📅 Sep 09 |
@@ -67,4 +67,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-09 12:51 UTC*
+*Powered by Opdrop | Last update: 2025-09-09 18:35 UTC*
