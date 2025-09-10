@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** September 10, 2025
-**Total Listings:** 43
+**Total Listings:** 42
 
 ## 📊 Quick Stats
 
-- **43** total opportunities
-- **42** unique companies
-- **9** different locations
+- **42** total opportunities
+- **41** unique companies
+- **10** different locations
 
 ---
 
@@ -22,7 +22,6 @@
 | 🏢 Prolegion Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bhopal-at-prolegion-private-limited1755079032) | 📍 Bhopal | 💼 On Site | 📅 Sep 10 |
 | 🏢 TheBlackJabGroup | [Shopify Web Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-developer-internship-at-theblackjabgroup1756959695) | 📍 Work from home | 💼 On Site | 📅 Sep 10 |
 | 🏢 Transition Computing India | [Angular Web Developer](https://internshala.com/internship/detail/angular-web-developer-internship-in-hyderabad-at-transition-computing-india1756191364) | 📍 Hyderabad | 💼 On Site | 📅 Sep 10 |
-| 🏢 AutofillJobs | [Web Developer/Cofounder](https://internshala.com/internship/detail/work-from-home-web-developer-cofounder-internship-at-autofilljobs1753091255) | 📍 Work from home | 💼 On Site | 📅 Sep 10 |
 | 🏢 Medius Technologies Private Limited | [Selenium Web Scraper Developer](https://internshala.com/internship/detail/work-from-home-selenium-web-scraper-developer-internship-at-medius-technologies-private-limited1757392529) | 📍 Work from home | 💼 On Site | 📅 Sep 10 |
 | 🏢 Zeedup Technologies & Services | [Framer Web Design Developer](https://internshala.com/internship/detail/work-from-home-framer-web-design-developer-internship-at-zeedup-technologies-services1757327494) | 📍 Work from home | 💼 On Site | 📅 Sep 10 |
 | 🏢 Codecraft IT Solutions | [Website Developer](https://internshala.com/internship/detail/work-from-home-website-developer-internship-at-codecraft-it-solutions1756099923) | 📍 Work from home | 💼 On Site | 📅 Sep 10 |
@@ -57,14 +56,14 @@
 | 🏢 Livesitter (Atlanta, United States) | [AI Full Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-full-stack-developer-internship-at-livesitter1754974587) | 📍 Work from home | 💼 On Site | 📅 Sep 10 |
 | 🏢 Wargstech | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-wargstech1755676423) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Sep 10 |
 | 🏢 Nutrachoco | [Full-Stack Developer (Node.js + Flutter)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-nodejs-flutter-internship-at-nutrachoco1757307453) | 📍 Work from home | 💼 On Site | 📅 Sep 10 |
-| 🏢 Utkarsh Pandey | [Full-Stack Developer (Fintech / Founding Team)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-fintech-founding-team-internship-at-capital-markets-platform1757414810) | 📍 Work from home | 💼 On Site | 📅 Sep 10 |
 | 🏢 Achieve Point Private Limited | [Full Stack Developer For Trading Platform Development](https://internshala.com/internship/detail/work-from-home-full-stack-developer-for-trading-platform-development-internship-at-achieve-point-private-limited1757137726) | 📍 Work from home | 💼 On Site | 📅 Sep 10 |
 | 🏢 Bluespace Studio | [Full-Stack Software Developer  – In-Office (Agra)](https://internshala.com/internship/detail/full-stack-software-developer--in-office-agra-internship-in-agra-at-bluespace-studio1753958863) | 📍 Agra | 💼 On Site | 📅 Sep 10 |
 | 🏢 Creatiwise | [Fullstack (Python/Django) Developer](https://internshala.com/internship/detail/work-from-home-fullstack-python-django-developer-internship-at-creatiwise1756366639) | 📍 Work from home | 💼 On Site | 📅 Sep 10 |
+| 🏢 Zestorm Technologies Private Limited | [Dotnet Fullstack Developer For Internship With Pre Placement Offer](https://internshala.com/internship/detail/dotnet-fullstack-developer-for-internship-with-pre-placement-offer-internship-in-multiple-locations-at-zestorm-technologies-private-limited1756988979) | 📍 Pune, Maharashtra | 💼 On Site | 📅 Sep 10 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-10 12:45 UTC*
+*Powered by Opdrop | Last update: 2025-09-10 18:33 UTC*
