@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** September 11, 2025
-**Total Listings:** 42
+**Total Listings:** 43
 
 ## 📊 Quick Stats
 
-- **42** total opportunities
-- **40** unique companies
+- **43** total opportunities
+- **42** unique companies
 - **10** different locations
 
 ---
@@ -19,6 +19,7 @@
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Sep 11 |
+| 🏢 Vedantu | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bangalore-at-vedantu1757581497) | 📍 Bangalore                                                                (Hybrid) | 💼 On Site | 📅 Sep 11 |
 | 🏢 Prolegion Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-bhopal-at-prolegion-private-limited1755079032) | 📍 Bhopal | 💼 On Site | 📅 Sep 11 |
 | 🏢 TheBlackJabGroup | [Shopify Web Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-developer-internship-at-theblackjabgroup1756959695) | 📍 Work from home | 💼 On Site | 📅 Sep 11 |
 | 🏢 Transition Computing India | [Angular Web Developer](https://internshala.com/internship/detail/angular-web-developer-internship-in-hyderabad-at-transition-computing-india1756191364) | 📍 Hyderabad | 💼 On Site | 📅 Sep 11 |
@@ -50,20 +51,20 @@
 | 🏢 Workik | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-workik1753850865) | 📍 Work from home | 💼 On Site | 📅 Sep 11 |
 | 🏢 Arvyax Technologies Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-arvyax-technologies-private-limited1753714995) | 📍 Work from home | 💼 On Site | 📅 Sep 11 |
 | 🏢 1000xdev | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-1000xdev1753428577) | 📍 Work from home | 💼 On Site | 📅 Sep 11 |
+| 🏢 Dreams2Apps | [Full Stack FlutterFlow Developer](https://internshala.com/internship/detail/work-from-home-full-stack-flutterflow-developer-internship-at-dreams2apps1757576383) | 📍 Work from home | 💼 On Site | 📅 Sep 11 |
 | 🏢 Omega Capital Limited (Dubai, United Arab Emirates) | [Senior Full-Stack Developer](https://internshala.com/internship/detail/senior-full-stack-developer-internship-in-dubai-at-omega-capital-limited1757047518) | 📍 Dubai (United Arab Emirates) | 💼 On Site | 📅 Sep 11 |
 | 🏢 Eleven Software Solution Private Limited | [Full Stack Developer (Male)](https://internshala.com/internship/detail/full-stack-developer-male-internship-in-hyderabad-at-eleven-software-solution-private-limited1756976633) | 📍 Hyderabad | 💼 On Site | 📅 Sep 11 |
 | 🏢 Livesitter (Atlanta, United States) | [AI Full Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-full-stack-developer-internship-at-livesitter1754974587) | 📍 Work from home | 💼 On Site | 📅 Sep 11 |
 | 🏢 Wargstech | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-wargstech1755676423) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Sep 11 |
+| 🏢 Perseverance Enterprise | [AI & ERPNext Full-Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-erpnext-full-stack-developer-internship-at-perseverance-enterprise1757582950) | 📍 Work from home | 💼 On Site | 📅 Sep 11 |
 | 🏢 Nutrachoco | [Full-Stack Developer (Node.js + Flutter)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-nodejs-flutter-internship-at-nutrachoco1757307453) | 📍 Work from home | 💼 On Site | 📅 Sep 11 |
 | 🏢 Achieve Point Private Limited | [Full Stack Developer For Trading Platform Development](https://internshala.com/internship/detail/work-from-home-full-stack-developer-for-trading-platform-development-internship-at-achieve-point-private-limited1757137726) | 📍 Work from home | 💼 On Site | 📅 Sep 11 |
 | 🏢 Bluespace Studio | [Full-Stack Software Developer  – In-Office (Agra)](https://internshala.com/internship/detail/full-stack-software-developer--in-office-agra-internship-in-agra-at-bluespace-studio1753958863) | 📍 Agra | 💼 On Site | 📅 Sep 11 |
 | 🏢 Creatiwise | [Fullstack (Python/Django) Developer](https://internshala.com/internship/detail/work-from-home-fullstack-python-django-developer-internship-at-creatiwise1756366639) | 📍 Work from home | 💼 On Site | 📅 Sep 11 |
-| 🏢 Zestorm Technologies Private Limited | [Dotnet Fullstack Developer For Internship With Pre Placement Offer](https://internshala.com/internship/detail/dotnet-fullstack-developer-for-internship-with-pre-placement-offer-internship-in-multiple-locations-at-zestorm-technologies-private-limited1756988979) | 📍 Pune, Maharashtra | 💼 On Site | 📅 Sep 11 |
-| 🏢 Oldowan Innovations Private Limited | [React Native Developer](https://internshala.com/internship/detail/work-from-home-react-native-developer-internship-at-oldowan-innovations-private-limited1756715186) | 📍 Work from home | 💼 On Site | 📅 Sep 11 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-11 06:35 UTC*
+*Powered by Opdrop | Last update: 2025-09-11 12:45 UTC*
