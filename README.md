@@ -4,12 +4,12 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** September 13, 2025
-**Total Listings:** 40
+**Total Listings:** 39
 
 ## 📊 Quick Stats
 
-- **40** total opportunities
-- **39** unique companies
+- **39** total opportunities
+- **38** unique companies
 - **9** different locations
 
 ---
@@ -19,7 +19,6 @@
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Sep 13 |
-| 🏢 TheBlackJabGroup | [Shopify Web Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-developer-internship-at-theblackjabgroup1756959695) | 📍 Work from home | 💼 On Site | 📅 Sep 13 |
 | 🏢 Transition Computing India | [Angular Web Developer](https://internshala.com/internship/detail/angular-web-developer-internship-in-hyderabad-at-transition-computing-india1756191364) | 📍 Hyderabad | 💼 On Site | 📅 Sep 13 |
 | 🏢 Codecraft IT Solutions | [Website Developer](https://internshala.com/internship/detail/work-from-home-website-developer-internship-at-codecraft-it-solutions1756099923) | 📍 Work from home | 💼 On Site | 📅 Sep 13 |
 | 🏢 QuantaPixel Software Solutions | [Drupal Developer](https://internshala.com/internship/detail/work-from-home-drupal-developer-internship-at-quantapixel-software-solutions1754304174) | 📍 Work from home | 💼 On Site | 📅 Sep 13 |
@@ -64,4 +63,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-13 06:36 UTC*
+*Powered by Opdrop | Last update: 2025-09-13 12:39 UTC*
