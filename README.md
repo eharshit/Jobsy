@@ -35,10 +35,10 @@
 | 🏢 Antariksha Labs | [Mobile App Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-developer-internship-at-antariksha-labs1755330972) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 Nineti GmbH (Stuttgart, Germany) | [Flutter Development](https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-nineti-gmbh1756275975) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 Auriv Learning | [Frontend Developer / UI Designer](https://internshala.com/internship/detail/work-from-home-frontend-developer-ui-designer-internship-at-auriv-learning1755870279) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
+| 🏢 Plus Barrels | [Whatsapp BOT Developer- Female](https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-plus-barrels1755770515) | 📍 Mumbai | 💼 On Site | 📅 Sep 15 |
 | 🏢 Venue | [Backend Developer](https://internshala.com/internship/detail/backend-developer-internship-in-multiple-locations-at-venue1756723192) | 📍 Faridabad, Delhi, Greater Noida, Noida | 💼 On Site | 📅 Sep 15 |
 | 🏢 Oldowan Innovations Private Limited | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-oldowan-innovations-private-limited1756718177) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 Innovate Solutions | [Back End Developer](https://internshala.com/internship/detail/work-from-home-back-end-developer-internship-at-innovate-solutions1755713246) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
-| 🏢 Plus Barrels | [Whatsapp BOT Developer- Female](https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-plus-barrels1755770515) | 📍 Mumbai | 💼 On Site | 📅 Sep 15 |
 | 🏢 Arealis Networks Pvt. Ltd. | [AI / Backend / Fullstack Developers](https://internshala.com/internship/detail/ai-backend-fullstack-developers-internship-in-pune-at-arealis-networks-pvt-ltd1755860611) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Sep 15 |
 | 🏢 Indika AI Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-delhi-at-indika-ai-private-limited1756723774) | 📍 Delhi | 💼 On Site | 📅 Sep 15 |
 | 🏢 AffinityAnswers | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-affinityanswers1756099724) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
@@ -61,4 +61,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-15 06:37 UTC*
+*Powered by Opdrop | Last update: 2025-09-15 12:48 UTC*
