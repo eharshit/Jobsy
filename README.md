@@ -4,11 +4,11 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** September 15, 2025
-**Total Listings:** 37
+**Total Listings:** 38
 
 ## 📊 Quick Stats
 
-- **37** total opportunities
+- **38** total opportunities
 - **36** unique companies
 - **10** different locations
 
@@ -19,6 +19,7 @@
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
 | 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Sep 15 |
+| 🏢 Caarya | [Web Developer (Frontend)](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-frontend-internship-at-caarya1757957256) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 Transition Computing India | [Angular Web Developer](https://internshala.com/internship/detail/angular-web-developer-internship-in-hyderabad-at-transition-computing-india1756191364) | 📍 Hyderabad | 💼 On Site | 📅 Sep 15 |
 | 🏢 Vicharak Computers LLP | [FPGA Developer (Intern)](https://internshala.com/internship/detail/fpga-developer-intern-internship-in-surat-at-vicharak-computers-llp1757911801) | 📍 Surat | 💼 On Site | 📅 Sep 15 |
 | 🏢 Medius Technologies Private Limited | [Selenium Web Scraper Developer](https://internshala.com/internship/detail/work-from-home-selenium-web-scraper-developer-internship-at-medius-technologies-private-limited1757392529) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
@@ -31,8 +32,8 @@
 | 🏢 Tailor Apps | [Mobile/Web App Developer (Flutter/Flutterflow)](https://internshala.com/internship/detail/work-from-home-part-time-mobile-web-app-developer-flutter-flutterflow-internship-at-tailor-apps1755756110) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 Quillhash | [Web3 BD & Partnerships Intern](https://internshala.com/internship/detail/work-from-home-web3-bd-partnerships-intern-internship-at-quillhash1755667210) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 BIIT | [Full-Stack Web Developer (Shopify, WordPress, Custom Frameworks & AI)](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-shopify-wordpress-custom-frameworks-ai-internship-at-biit1755674226) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
+| 🏢 EzyEV Technologies Private Limited | [Full Stack Development](https://internshala.com/internship/detail/full-stack-development-internship-in-multiple-locations-at-ezyev-technologies-private-limited1757955657) | 📍 Pune, Aurangabad, Ahmednagar, Mumbai | 💼 On Site | 📅 Sep 15 |
 | 🏢 Big Internet E-commerce Private Limited | [Full Stack Developer ( Night Shift Only)](https://internshala.com/internship/detail/work-from-home-full-stack-developer--night-shift-only-internship-at-big-internet-e-commerce-private-limited1756529918) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
-| 🏢 Antariksha Labs | [Mobile App Developer](https://internshala.com/internship/detail/work-from-home-part-time-mobile-app-developer-internship-at-antariksha-labs1755330972) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 Nineti GmbH (Stuttgart, Germany) | [Flutter Development](https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-nineti-gmbh1756275975) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 Auriv Learning | [Frontend Developer / UI Designer](https://internshala.com/internship/detail/work-from-home-frontend-developer-ui-designer-internship-at-auriv-learning1755870279) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 Plus Barrels | [Whatsapp BOT Developer- Female](https://internshala.com/internship/detail/software-development-internship-in-mumbai-at-plus-barrels1755770515) | 📍 Mumbai | 💼 On Site | 📅 Sep 15 |
@@ -50,15 +51,15 @@
 | 🏢 Omega Capital Limited (Dubai, United Arab Emirates) | [Senior Full-Stack Developer](https://internshala.com/internship/detail/senior-full-stack-developer-internship-in-dubai-at-omega-capital-limited1757047518) | 📍 Dubai (United Arab Emirates) | 💼 On Site | 📅 Sep 15 |
 | 🏢 Eleven Software Solution Private Limited | [Full Stack Developer (Male)](https://internshala.com/internship/detail/full-stack-developer-male-internship-in-hyderabad-at-eleven-software-solution-private-limited1756976633) | 📍 Hyderabad | 💼 On Site | 📅 Sep 15 |
 | 🏢 Wargstech | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-wargstech1755676423) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Sep 15 |
+| 🏢 Perseverance Enterprise | [AI & ERPNext Full-Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-erpnext-full-stack-developer-internship-at-perseverance-enterprise1757582950) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 Nutrachoco | [Full-Stack Developer (Node.js + Flutter)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-nodejs-flutter-internship-at-nutrachoco1757307453) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 Achieve Point Private Limited | [Full Stack Developer For Trading Platform Development](https://internshala.com/internship/detail/work-from-home-full-stack-developer-for-trading-platform-development-internship-at-achieve-point-private-limited1757137726) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
 | 🏢 Bluespace Studio | [Full-Stack Software Developer  – In-Office (Agra)](https://internshala.com/internship/detail/full-stack-software-developer--in-office-agra-internship-in-agra-at-bluespace-studio1753958863) | 📍 Agra | 💼 On Site | 📅 Sep 15 |
 | 🏢 Creatiwise | [Fullstack (Python/Django) Developer](https://internshala.com/internship/detail/work-from-home-fullstack-python-django-developer-internship-at-creatiwise1756366639) | 📍 Work from home | 💼 On Site | 📅 Sep 15 |
-| 🏢 Zestorm Technologies Private Limited | [Dotnet Fullstack Developer For Internship With Pre Placement Offer](https://internshala.com/internship/detail/dotnet-fullstack-developer-for-internship-with-pre-placement-offer-internship-in-multiple-locations-at-zestorm-technologies-private-limited1756988979) | 📍 Pune, Maharashtra | 💼 On Site | 📅 Sep 15 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-15 12:48 UTC*
+*Powered by Opdrop | Last update: 2025-09-15 18:34 UTC*
