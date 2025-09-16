@@ -33,7 +33,7 @@
 | 🏢 Tailor Apps | [Mobile/Web App Developer (Flutter/Flutterflow)](https://internshala.com/internship/detail/work-from-home-part-time-mobile-web-app-developer-flutter-flutterflow-internship-at-tailor-apps1755756110) | 📍 Work from home | 💼 On Site | 📅 Sep 16 |
 | 🏢 Quillhash | [Web3 BD & Partnerships Intern](https://internshala.com/internship/detail/work-from-home-web3-bd-partnerships-intern-internship-at-quillhash1755667210) | 📍 Work from home | 💼 On Site | 📅 Sep 16 |
 | 🏢 BIIT | [Full-Stack Web Developer (Shopify, WordPress, Custom Frameworks & AI)](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-shopify-wordpress-custom-frameworks-ai-internship-at-biit1755674226) | 📍 Work from home | 💼 On Site | 📅 Sep 16 |
-| 🏢 EzyEV Technologies Private Limited | [Full Stack Development](https://internshala.com/internship/detail/full-stack-development-internship-in-multiple-locations-at-ezyev-technologies-private-limited1757957192) | 📍 Aurangabad, Pune, Ahmednagar, Mumbai, Pimpri-Chinchwad, Nashik | 💼 On Site | 📅 Sep 16 |
+| 🏢 EzyEV Technologies Private Limited | [Full Stack Development](https://internshala.com/internship/detail/full-stack-development-internship-in-multiple-locations-at-ezyev-technologies-private-limited1757955657) | 📍 Pune, Aurangabad, Ahmednagar, Mumbai | 💼 On Site | 📅 Sep 16 |
 | 🏢 Big Internet E-commerce Private Limited | [Full Stack Developer ( Night Shift Only)](https://internshala.com/internship/detail/work-from-home-full-stack-developer--night-shift-only-internship-at-big-internet-e-commerce-private-limited1756529918) | 📍 Work from home | 💼 On Site | 📅 Sep 16 |
 | 🏢 Nineti GmbH (Stuttgart, Germany) | [Flutter Development](https://internshala.com/internship/detail/work-from-home-flutter-development-internship-at-nineti-gmbh1756275975) | 📍 Work from home | 💼 On Site | 📅 Sep 16 |
 | 🏢 Auriv Learning | [Frontend Developer / UI Designer](https://internshala.com/internship/detail/work-from-home-frontend-developer-ui-designer-internship-at-auriv-learning1755870279) | 📍 Work from home | 💼 On Site | 📅 Sep 16 |
@@ -63,4 +63,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-16 12:47 UTC*
+*Powered by Opdrop | Last update: 2025-09-16 18:33 UTC*
