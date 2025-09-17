@@ -22,9 +22,9 @@
 | 🏢 Knowlexon Innovation And Technology Private Limited | [Developer](https://internshala.com/internship/detail/work-from-home-developer-internship-at-knowlexon-innovation-and-technology-private-limited1758093593) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
 | 🏢 Caarya | [Web Developer (Frontend)](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-frontend-internship-at-caarya1757957256) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
 | 🏢 Transition Computing India | [Angular Web Developer](https://internshala.com/internship/detail/angular-web-developer-internship-in-hyderabad-at-transition-computing-india1756191364) | 📍 Hyderabad | 💼 On Site | 📅 Sep 17 |
+| 🏢 Vicharak Computers LLP | [FPGA Developer (Intern)](https://internshala.com/internship/detail/fpga-developer-intern-internship-in-surat-at-vicharak-computers-llp1757911801) | 📍 Surat | 💼 On Site | 📅 Sep 17 |
 | 🏢 Medius Technologies Private Limited | [Selenium Web Scraper Developer](https://internshala.com/internship/detail/work-from-home-selenium-web-scraper-developer-internship-at-medius-technologies-private-limited1757392529) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
 | 🏢 Zeedup Technologies & Services | [Framer Web Design Developer](https://internshala.com/internship/detail/work-from-home-framer-web-design-developer-internship-at-zeedup-technologies-services1757327494) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
-| 🏢 Vicharak Computers LLP | [FPGA Developer (Intern)](https://internshala.com/internship/detail/fpga-developer-intern-internship-in-surat-at-vicharak-computers-llp1757911801) | 📍 Surat | 💼 On Site | 📅 Sep 17 |
 | 🏢 Codecraft IT Solutions | [Website Developer](https://internshala.com/internship/detail/work-from-home-website-developer-internship-at-codecraft-it-solutions1756099923) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
 | 🏢 QuantaPixel Software Solutions | [Drupal Developer](https://internshala.com/internship/detail/work-from-home-drupal-developer-internship-at-quantapixel-software-solutions1754304174) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
 | 🏢 Brain Quest | [WordPress Designer & Developer](https://internshala.com/internship/detail/work-from-home-wordpress-designer-developer-internship-at-brain-quest1758103575) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
@@ -51,10 +51,10 @@
 | 🏢 Dobby Ads | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-dobby-ads1755783419) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
 | 🏢 Innovate Solutions | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-innovate-solutions1755712569) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
 | 🏢 Workik | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-workik1753850865) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
-| 🏢 Arvyax Technologies Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-arvyax-technologies-private-limited1753714995) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
 | 🏢 Blue Copper Technologies Private Limited | [Full Stack AI Developer](https://internshala.com/internship/detail/full-stack-ai-developer-internship-in-gurgaon-at-blue-copper-technologies-private-limited1757675564) | 📍 Gurgaon | 💼 On Site | 📅 Sep 17 |
 | 🏢 Omega Capital Limited (Dubai, United Arab Emirates) | [Senior Full-Stack Developer](https://internshala.com/internship/detail/senior-full-stack-developer-internship-in-dubai-at-omega-capital-limited1757047518) | 📍 Dubai (United Arab Emirates) | 💼 On Site | 📅 Sep 17 |
 | 🏢 Eleven Software Solution Private Limited | [Full Stack Developer (Male)](https://internshala.com/internship/detail/full-stack-developer-male-internship-in-hyderabad-at-eleven-software-solution-private-limited1756976633) | 📍 Hyderabad | 💼 On Site | 📅 Sep 17 |
+| 🏢 Wayone IT Solution Pvt Ltd | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-delhi-at-wayone-it-solution-pvt-ltd1758113487) | 📍 Delhi | 💼 On Site | 📅 Sep 17 |
 | 🏢 Wargstech | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-wargstech1755676423) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Sep 17 |
 | 🏢 Perseverance Enterprise | [AI & ERPNext Full-Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-erpnext-full-stack-developer-internship-at-perseverance-enterprise1757582950) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
 | 🏢 Nutrachoco | [Full-Stack Developer (Node.js + Flutter)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-nodejs-flutter-internship-at-nutrachoco1757307453) | 📍 Work from home | 💼 On Site | 📅 Sep 17 |
@@ -65,4 +65,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-17 12:46 UTC*
+*Powered by Opdrop | Last update: 2025-09-17 18:32 UTC*
