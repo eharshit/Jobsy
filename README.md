@@ -25,6 +25,7 @@
 | 🏢 Vicharak Computers LLP | [FPGA Developer (Intern)](https://internshala.com/internship/detail/fpga-developer-intern-internship-in-surat-at-vicharak-computers-llp1757911801) | 📍 Surat | 💼 On Site | 📅 Sep 18 |
 | 🏢 Medius Technologies Private Limited | [Selenium Web Scraper Developer](https://internshala.com/internship/detail/work-from-home-selenium-web-scraper-developer-internship-at-medius-technologies-private-limited1757392529) | 📍 Work from home | 💼 On Site | 📅 Sep 18 |
 | 🏢 Zeedup Technologies & Services | [Framer Web Design Developer](https://internshala.com/internship/detail/work-from-home-framer-web-design-developer-internship-at-zeedup-technologies-services1757327494) | 📍 Work from home | 💼 On Site | 📅 Sep 18 |
+| 🏢 Zahimo Studio | [HTML Developer](https://internshala.com/internship/detail/html-developer-internship-in-hyderabad-at-zahimo-studio1758172035) | 📍 Hyderabad | 💼 On Site | 📅 Sep 18 |
 | 🏢 Codecraft IT Solutions | [Website Developer](https://internshala.com/internship/detail/work-from-home-website-developer-internship-at-codecraft-it-solutions1756099923) | 📍 Work from home | 💼 On Site | 📅 Sep 18 |
 | 🏢 QuantaPixel Software Solutions | [Drupal Developer](https://internshala.com/internship/detail/work-from-home-drupal-developer-internship-at-quantapixel-software-solutions1754304174) | 📍 Work from home | 💼 On Site | 📅 Sep 18 |
 | 🏢 Brain Quest | [WordPress Designer & Developer](https://internshala.com/internship/detail/work-from-home-wordpress-designer-developer-internship-at-brain-quest1758103575) | 📍 Work from home | 💼 On Site | 📅 Sep 18 |
@@ -47,6 +48,7 @@
 | 🏢 Blue Copper Technologies Private Limited | [Full Stack AI Developer](https://internshala.com/internship/detail/full-stack-ai-developer-internship-in-gurgaon-at-blue-copper-technologies-private-limited1757675564) | 📍 Gurgaon | 💼 On Site | 📅 Sep 18 |
 | 🏢 Omega Capital Limited (Dubai, United Arab Emirates) | [Senior Full-Stack Developer](https://internshala.com/internship/detail/senior-full-stack-developer-internship-in-dubai-at-omega-capital-limited1757047518) | 📍 Dubai (United Arab Emirates) | 💼 On Site | 📅 Sep 18 |
 | 🏢 Eleven Software Solution Private Limited | [Full Stack Developer (Male)](https://internshala.com/internship/detail/full-stack-developer-male-internship-in-hyderabad-at-eleven-software-solution-private-limited1756976633) | 📍 Hyderabad | 💼 On Site | 📅 Sep 18 |
+| 🏢 Wayone IT Solution Pvt Ltd | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-delhi-at-wayone-it-solution-pvt-ltd1758113487) | 📍 Delhi | 💼 On Site | 📅 Sep 18 |
 | 🏢 Wargstech | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-wargstech1755676423) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Sep 18 |
 | 🏢 Perseverance Enterprise | [AI & ERPNext Full-Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-erpnext-full-stack-developer-internship-at-perseverance-enterprise1757582950) | 📍 Work from home | 💼 On Site | 📅 Sep 18 |
 | 🏢 Nutrachoco | [Full-Stack Developer (Node.js + Flutter)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-nodejs-flutter-internship-at-nutrachoco1757307453) | 📍 Work from home | 💼 On Site | 📅 Sep 18 |
@@ -58,12 +60,10 @@
 | 🏢 Zestorm Technologies Private Limited | [Dotnet Fullstack Developer For Internship With Pre Placement Offer](https://internshala.com/internship/detail/dotnet-fullstack-developer-for-internship-with-pre-placement-offer-internship-in-multiple-locations-at-zestorm-technologies-private-limited1756988979) | 📍 Pune, Maharashtra | 💼 On Site | 📅 Sep 18 |
 | 🏢 Oldowan Innovations Private Limited | [React Native Developer](https://internshala.com/internship/detail/work-from-home-react-native-developer-internship-at-oldowan-innovations-private-limited1756715186) | 📍 Work from home | 💼 On Site | 📅 Sep 18 |
 | 🏢 AppVersal | [React Developer](https://internshala.com/internship/detail/react-developer-internship-in-noida-at-appversal1756369161) | 📍 Noida | 💼 On Site | 📅 Sep 18 |
-| 🏢 Nish E-Service OPC Private Limited | [React Native Developer](https://internshala.com/internship/detail/work-from-home-react-native-developer-internship-at-nish-e-service-opc-private-limited1757331496) | 📍 Work from home | 💼 On Site | 📅 Sep 18 |
-| 🏢 Brain Quest | [Mobile Developer - React Native](https://internshala.com/internship/detail/work-from-home-mobile-developer-react-native-internship-at-brain-quest1757913246) | 📍 Work from home | 💼 On Site | 📅 Sep 18 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-18 01:43 UTC*
+*Powered by Opdrop | Last update: 2025-09-18 06:34 UTC*
