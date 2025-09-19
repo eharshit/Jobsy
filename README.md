@@ -22,11 +22,11 @@
 | 🏢 Caarya | [Web Developer (Frontend)](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-frontend-internship-at-caarya1757957256) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 Transition Computing India | [Angular Web Developer](https://internshala.com/internship/detail/angular-web-developer-internship-in-hyderabad-at-transition-computing-india1756191364) | 📍 Hyderabad | 💼 On Site | 📅 Sep 19 |
 | 🏢 Vicharak Computers LLP | [FPGA Developer (Intern)](https://internshala.com/internship/detail/fpga-developer-intern-internship-in-surat-at-vicharak-computers-llp1757911801) | 📍 Surat | 💼 On Site | 📅 Sep 19 |
+| 🏢 Medius Technologies Private Limited | [Selenium Web Scraper Developer](https://internshala.com/internship/detail/work-from-home-selenium-web-scraper-developer-internship-at-medius-technologies-private-limited1757392529) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
+| 🏢 Zeedup Technologies & Services | [Framer Web Design Developer](https://internshala.com/internship/detail/work-from-home-framer-web-design-developer-internship-at-zeedup-technologies-services1757327494) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 Zahimo Studio | [HTML Developer](https://internshala.com/internship/detail/html-developer-internship-in-hyderabad-at-zahimo-studio1758172035) | 📍 Hyderabad | 💼 On Site | 📅 Sep 19 |
 | 🏢 Codecraft IT Solutions | [Website Developer](https://internshala.com/internship/detail/work-from-home-website-developer-internship-at-codecraft-it-solutions1756099923) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 QuantaPixel Software Solutions | [Drupal Developer](https://internshala.com/internship/detail/work-from-home-drupal-developer-internship-at-quantapixel-software-solutions1754304174) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
-| 🏢 Medius Technologies Private Limited | [Selenium Web Scraper Developer](https://internshala.com/internship/detail/work-from-home-selenium-web-scraper-developer-internship-at-medius-technologies-private-limited1757392529) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
-| 🏢 Zeedup Technologies & Services | [Framer Web Design Developer](https://internshala.com/internship/detail/work-from-home-framer-web-design-developer-internship-at-zeedup-technologies-services1757327494) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 Caarya | [Low-Code Developer](https://internshala.com/internship/detail/work-from-home-part-time-low-code-developer-internship-at-caarya1758015256) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 Zahimo Studio | [HTML Webflow Developer](https://internshala.com/internship/detail/html-webflow-developer-internship-in-hyderabad-at-zahimo-studio1757402116) | 📍 Hyderabad | 💼 On Site | 📅 Sep 19 |
 | 🏢 Caarya | [Web Developer (Frontend / Backend / Full-Stack)](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-frontend-backend-full-stack-internship-at-caarya1757674436) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
@@ -66,4 +66,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-19 01:44 UTC*
+*Powered by Opdrop | Last update: 2025-09-19 06:34 UTC*
