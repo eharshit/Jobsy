@@ -4,13 +4,13 @@
 > This list is updated every 6 hours to bring you fresh roles in AI, ML, Web Development, Data Science, and more.
 
 **Last Updated:** September 19, 2025
-**Total Listings:** 42
+**Total Listings:** 40
 
 ## 📊 Quick Stats
 
-- **42** total opportunities
-- **40** unique companies
-- **13** different locations
+- **40** total opportunities
+- **38** unique companies
+- **14** different locations
 
 ---
 
@@ -31,7 +31,6 @@
 | 🏢 Caarya | [Web Developer (Frontend / Backend / Full-Stack)](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-frontend-backend-full-stack-internship-at-caarya1757674436) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 Anuschka Leather-India Private Limited | [Web Developer & Designer (AI Tools Expertise)](https://internshala.com/internship/detail/work-from-home-web-developer-designer-ai-tools-expertise-internship-at-anuschka-leather-india-private-limited1755870019) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 Tailor Apps | [Mobile/Web App Developer (Flutter/Flutterflow)](https://internshala.com/internship/detail/work-from-home-part-time-mobile-web-app-developer-flutter-flutterflow-internship-at-tailor-apps1755756110) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
-| 🏢 Quillhash | [Web3 BD & Partnerships Intern](https://internshala.com/internship/detail/work-from-home-web3-bd-partnerships-intern-internship-at-quillhash1755667210) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 BIIT | [Full-Stack Web Developer (Shopify, WordPress, Custom Frameworks & AI)](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-shopify-wordpress-custom-frameworks-ai-internship-at-biit1755674226) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 EzyEV Technologies Private Limited | [Full Stack Development](https://internshala.com/internship/detail/full-stack-development-internship-in-multiple-locations-at-ezyev-technologies-private-limited1757955657) | 📍 Pune, Aurangabad, Ahmednagar, Mumbai | 💼 On Site | 📅 Sep 19 |
 | 🏢 Meteoros Automation | [Backend Development](https://internshala.com/internship/detail/backend-development-internship-in-chennai-at-meteoros-automation1758268588) | 📍 Chennai                                                                (Hybrid) | 💼 On Site | 📅 Sep 19 |
@@ -41,13 +40,10 @@
 | 🏢 AffinityAnswers | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-affinityanswers1756099724) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 Bditto (London, United Kingdom) | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-bditto1755860990) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 Dobby Ads | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-dobby-ads1755783419) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
-| 🏢 Innovate Solutions | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-innovate-solutions1755712569) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
-| 🏢 Workik | [Full Stack Developer](https://internshala.com/internship/detail/work-from-home-full-stack-developer-internship-at-workik1753850865) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 Blue Copper Technologies Private Limited | [Full Stack AI Developer](https://internshala.com/internship/detail/full-stack-ai-developer-internship-in-gurgaon-at-blue-copper-technologies-private-limited1757675564) | 📍 Gurgaon | 💼 On Site | 📅 Sep 19 |
 | 🏢 Omega Capital Limited (Dubai, United Arab Emirates) | [Senior Full-Stack Developer](https://internshala.com/internship/detail/senior-full-stack-developer-internship-in-dubai-at-omega-capital-limited1757047518) | 📍 Dubai (United Arab Emirates) | 💼 On Site | 📅 Sep 19 |
 | 🏢 Eleven Software Solution Private Limited | [Full Stack Developer (Male)](https://internshala.com/internship/detail/full-stack-developer-male-internship-in-hyderabad-at-eleven-software-solution-private-limited1756976633) | 📍 Hyderabad | 💼 On Site | 📅 Sep 19 |
 | 🏢 Wayone IT Solution Pvt Ltd | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-delhi-at-wayone-it-solution-pvt-ltd1758113487) | 📍 Delhi | 💼 On Site | 📅 Sep 19 |
-| 🏢 Wargstech | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-pune-at-wargstech1755676423) | 📍 Pune                                                                (Hybrid) | 💼 On Site | 📅 Sep 19 |
 | 🏢 Perseverance Enterprise | [AI & ERPNext Full-Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-erpnext-full-stack-developer-internship-at-perseverance-enterprise1757582950) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 Nutrachoco | [Full-Stack Developer (Node.js + Flutter)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-nodejs-flutter-internship-at-nutrachoco1757307453) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 Shiplee | [Full Stack Developer – Webbook & Tracking Integration](https://internshala.com/internship/detail/work-from-home-full-stack-developer--webbook-tracking-integration-internship-at-shiplee1758110561) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
@@ -60,10 +56,12 @@
 | 🏢 Oldowan Innovations Private Limited | [React Native Developer](https://internshala.com/internship/detail/work-from-home-react-native-developer-internship-at-oldowan-innovations-private-limited1756715186) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
 | 🏢 AppVersal | [React Developer](https://internshala.com/internship/detail/react-developer-internship-in-noida-at-appversal1756369161) | 📍 Noida | 💼 On Site | 📅 Sep 19 |
 | 🏢 Nish E-Service OPC Private Limited | [React Native Developer](https://internshala.com/internship/detail/work-from-home-react-native-developer-internship-at-nish-e-service-opc-private-limited1757331496) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
+| 🏢 Brain Quest | [Mobile Developer - React Native](https://internshala.com/internship/detail/work-from-home-mobile-developer-react-native-internship-at-brain-quest1757913246) | 📍 Work from home | 💼 On Site | 📅 Sep 19 |
+| 🏢 Sprinzo Developerz | [React Native](https://internshala.com/internship/detail/react-native-internship-in-mohali-at-sprinzo-developerz1757685570) | 📍 Mohali | 💼 On Site | 📅 Sep 19 |
 
 ---
 
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-09-19 18:26 UTC*
+*Powered by Opdrop | Last update: 2025-09-19 18:31 UTC*
