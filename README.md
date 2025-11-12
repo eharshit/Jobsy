@@ -1,3 +1,5 @@
+![Jobsy Logo](https://raw.githubusercontent.com/eharshit/Jobsy/main/Jobsy.png)
+
 # 🧑‍💻 Daily Tech Internships by Opdrop
 
 > Your daily source for the latest internship opportunities in tech.
@@ -18,7 +20,6 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
-| 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Nov 12 |
 | 🏢 RoadVision AI Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-delhi-at-roadvision-ai-private-limited1760449929) | 📍 Delhi | 💼 On Site | 📅 Nov 12 |
 | 🏢 Eighth Dimension | [React.js Developer](https://internshala.com/internship/detail/work-from-home-reactjs-developer-internship-at-eighth-dimension1762953851) | 📍 Work from home | 💼 On Site | 📅 Nov 12 |
 | 🏢 Space Life Store | [Shopify Developer](https://internshala.com/internship/detail/shopify-developer-internship-in-noida-at-space-life-store1762326535) | 📍 Noida | 💼 On Site | 📅 Nov 12 |
@@ -28,6 +29,7 @@
 | 🏢 Meru Technosoft Private Limited | [Next.js Web Developer](https://internshala.com/internship/detail/work-from-home-nextjs-web-developer-internship-at-meru-technosoft-private-limited1761408109) | 📍 Work from home | 💼 On Site | 📅 Nov 12 |
 | 🏢 Visualli.ai (Rotterdam, Netherlands) | [Web Developer (Canvas 2D & Interactive UI)](https://internshala.com/internship/detail/work-from-home-part-time-web-developer-canvas-2d-interactive-ui-internship-at-visualliai1761029644) | 📍 Work from home | 💼 On Site | 📅 Nov 12 |
 | 🏢 NSP ITES | [Shopify & Wordpress Website Developer](https://internshala.com/internship/detail/work-from-home-shopify-wordpress-website-developer-internship-at-nsp-ites1761375363) | 📍 Work from home | 💼 On Site | 📅 Nov 12 |
+| 🏢 N/A | [N/A](N/A) | 📍 N/A | 💼 On Site | 📅 Nov 12 |
 | 🏢 Medius Technologies Private Limited | [Selenium Web Scraper Developer](https://internshala.com/internship/detail/work-from-home-selenium-web-scraper-developer-internship-at-medius-technologies-private-limited1760610756) | 📍 Work from home | 💼 On Site | 📅 Nov 12 |
 | 🏢 Innara AI | [Web Application Developer (React + Supabase)](https://internshala.com/internship/detail/work-from-home-part-time-web-application-developer-react-supabase-internship-at-innara-ai1762848155) | 📍 Work from home | 💼 On Site | 📅 Nov 12 |
 | 🏢 Agarawal Associates | [Mobile App Developer Intern (iOS & Android)](https://internshala.com/internship/detail/work-from-home-mobile-app-developer-intern-ios-android-internship-at-agarawal-associates1761653633) | 📍 Work from home | 💼 On Site | 📅 Nov 12 |
@@ -62,4 +64,4 @@
 **💡 Pro Tip:** Apply to roles that interest you as soon as possible. Companies often review applications on a rolling basis.
 
 ---
-*Powered by Opdrop | Last update: 2025-11-12 19:38 UTC*
+*Powered by Opdrop | Last update: 2025-11-12 19:39 UTC*
