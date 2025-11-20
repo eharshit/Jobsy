@@ -4,10 +4,10 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
+| Aimence Infotech | <a href="https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-aimence-infotech1763646230"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Work from home | On Site | Nov 20 |
 | Ora Haven | <a href="https://internshala.com/internship/detail/work-from-home-website-developer-internship-at-ora-haven1763552715"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Work from home | On Site | Nov 20 |
 | Space Life Store | <a href="https://internshala.com/internship/detail/shopify-developer-internship-in-noida-at-space-life-store1762326535"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Noida | On Site | Nov 20 |
 | Emergence Software | <a href="https://internshala.com/internship/detail/work-from-home-webflow-developer-internship-at-emergence-software1761639741"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Work from home | On Site | Nov 20 |
-| ProGrowth Consulting Services | <a href="https://internshala.com/internship/detail/webflow-developer-internship-in-bangalore-at-progrowth-consulting-services1761038043"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Bangalore                                                                (Hybrid) | On Site | Nov 20 |
 | Aviz Healthcare | <a href="https://internshala.com/internship/detail/work-from-home-flutter-flow-developer-internship-at-aviz-healthcare1762016896"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Work from home | On Site | Nov 20 |
 | Meru Technosoft Private Limited | <a href="https://internshala.com/internship/detail/work-from-home-nextjs-web-developer-internship-at-meru-technosoft-private-limited1761408109"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Work from home | On Site | Nov 20 |
 | PrymaCare Tourismo | <a href="https://internshala.com/internship/detail/part-time-student-website-developer-internship-in-delhi-at-prymacare-tourismo1761289291"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Delhi                                                                (Hybrid) | On Site | Nov 20 |
