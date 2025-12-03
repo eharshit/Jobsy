@@ -4,8 +4,8 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
-| Space Life Store | <a href="https://internshala.com/internship/detail/shopify-developer-internship-in-noida-at-space-life-store1762326535"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Noida | On Site | Dec 03 |
 | Garuda3d | <a href="https://internshala.com/internship/detail/web-development-php-developer-internship-in-hyderabad-at-garuda3d1764678120"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Hyderabad                                                                (Hybrid) | On Site | Dec 03 |
+| Space Life Store | <a href="https://internshala.com/internship/detail/shopify-developer-internship-in-noida-at-space-life-store1762326535"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Noida | On Site | Dec 03 |
 | Vicharak Computers LLP | <a href="https://internshala.com/internship/detail/embedded-hardware-developer-intern-internship-in-surat-at-vicharak-computers-llp1764595802"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Surat | On Site | Dec 03 |
 | KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED | <a href="https://internshala.com/internship/detail/web-game-developer-internship-in-mumbai-at-kidloland-kids-toddler-games-private-limited1763709092"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Mumbai | On Site | Dec 03 |
 | Capyngen Private Limited | <a href="https://internshala.com/internship/detail/website-developer-react-nodejs-internship-in-gurgaon-at-capyngen-private-limited1763701057"><img src="https://i.imgur.com/fbjwDvo.png" width="50" alt="Apply"></a> | Gurgaon | On Site | Dec 03 |
