@@ -12,10 +12,9 @@
 | KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED | [Web Game Developer](https://internshala.com/internship/detail/web-game-developer-internship-in-mumbai-at-kidloland-kids-toddler-games-private-limited1763709092) | Mumbai | On Site | Dec 18 |
 | Capyngen Private Limited | [Website Developer (React & Node.js)](https://internshala.com/internship/detail/website-developer-react-nodejs-internship-in-gurgaon-at-capyngen-private-limited1763701057) | Gurgaon | On Site | Dec 18 |
 | Pixrity Private Limited | [AR Developer (Application And Web)](https://internshala.com/internship/detail/ar-developer-application-and-web-internship-in-hubballi-at-pixrity-private-limited1765908768) | Hubballi                                                                (Hybrid) | On Site | Dec 18 |
-| Skorokryl Solutions Private Limited | [MERN Stack Web Developer](https://internshala.com/internship/detail/mern-stack-web-developer-internship-in-jaipur-at-skorokryl-solutions-private-limited1761625833) | Jaipur | On Site | Dec 18 |
 | DAO EV Tech | [IoT Platform Developer (Semester Internship)](https://internshala.com/internship/detail/iot-platform-developer-semester-internship-internship-in-punewadi-at-dao-ev-tech1766053533) | Punewadi | On Site | Dec 18 |
-| N/A | [N/A](N/A) | N/A | On Site | Dec 18 |
 | KarmaLn Technology | [Web Researcher and Business Developer (Female candidates only)](https://internshala.com/internship/detail/web-researcher-and-business-developer-female-candidates-only-internship-in-multiple-locations-at-karmaln-technology1765452666) | Ahmedabad, Bhagalpur, Jamnagar, Rajkot, Surat, Vadodara, Junagadh, Botad, Valsad | On Site | Dec 18 |
+| N/A | [N/A](N/A) | N/A | On Site | Dec 18 |
 | Cosy Farms | [Software Engineering – IoT Dashboard & Automation](https://internshala.com/internship/detail/software-engineering--iot-dashboard-automation-internship-in-mumbai-at-cosy-farms1764922662) | Mumbai                                                                (Hybrid) | On Site | Dec 18 |
 | Cosy Farms | [Electrical & Embedded – IoT Control Systems](https://internshala.com/internship/detail/electrical-embedded--iot-control-systems-internship-in-mumbai-at-cosy-farms1764998083) | Mumbai | On Site | Dec 18 |
 | 1accord | [Electronics And Computer Science](https://internshala.com/internship/detail/electronics-and-computer-science-internship-in-mumbai-at-1accord1765864732) | Mumbai | On Site | Dec 18 |
@@ -23,7 +22,6 @@
 | Pehchaan AI Technologies | [Electronics Systems & Physical AI](https://internshala.com/internship/detail/electronics-systems-physical-ai-internship-in-bangalore-at-pehchaan-ai-technologies1763710695) | Bangalore | On Site | Dec 18 |
 | Meteoros Automation | [Front End Development](https://internshala.com/internship/detail/front-end-development-internship-in-chennai-at-meteoros-automation1762405123) | Chennai | On Site | Dec 18 |
 | LivNSense | [Presales Engineer](https://internshala.com/internship/detail/presales-engineer-internship-in-bangalore-at-livnsense1765443797) | Bangalore | On Site | Dec 18 |
-| Xcaliber Infotech | [Computer Vision](https://internshala.com/internship/detail/computer-vision-internship-in-pune-at-xcaliber-infotech1763464775) | Pune | On Site | Dec 18 |
 | Spikitech Private Limited | [Curriculum Designer](https://internshala.com/internship/detail/work-from-home-curriculum-designer-internship-at-spikitech-private-limited1765948973) | Remote | Remote | Dec 18 |
 | Megaminds IT Services | [IOT & Cloud Computing](https://internshala.com/internship/detail/work-from-home-iot-cloud-computing-internship-at-megaminds-it-services1764588791) | Remote | Remote | Dec 18 |
 | Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-better1764240973) | Remote | Remote | Dec 18 |
@@ -32,8 +30,12 @@
 | CodeTikki WorkSpace | [React Developer Trainee](https://internshala.com/internship/detail/work-from-home-react-developer-trainee-internship-at-codetikki-workspace1765500247) | Remote | Remote | Dec 18 |
 | Araneux Systems | [Fullstack Developer (PHP Laravel + Vue.js)](https://internshala.com/internship/detail/part-time-fullstack-developer-php-laravel-vuejs-internship-in-surat-at-araneux-systems1764311649) | Surat | On Site | Dec 18 |
 | Tradexa Technologies Private Limited | [Angular Developer](https://internshala.com/internship/detail/angular-developer-internship-in-pune-at-tradexa-technologies-private-limited1764236100) | Pune | On Site | Dec 18 |
-| Eleva8e Digital | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-delhi-at-eleva8e-digital1766030229) | Delhi | On Site | Dec 18 |
-| Orufy Technologies Private Limited | [Android App Development](https://internshala.com/internship/detail/android-app-development-internship-in-jaipur-at-orufy-technologies-private-limited1764669376) | Jaipur | On Site | Dec 18 |
-| ArtfullifebySharmila | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-multiple-locations-at-artfullifebysharmila1764737055) | Ghaziabad, Meerut, Modinagar, Muradnagar, Noida | On Site | Dec 18 |
-| Humanhire Corp | [Talent Sourcing Executive](https://internshala.com/internship/detail/talent-sourcing-executive-internship-in-jaipur-at-humanhire-corp1765863569) | Jaipur | On Site | Dec 18 |
+| Curious About Sales | [Artificial Intelligence (AI)](https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-nagpur-at-curious-about-sales1764673154) | Nagpur | On Site | Dec 18 |
 | Storiyaan | [Graphic Design](https://internshala.com/internship/detail/work-from-home-part-time-graphic-design-internship-at-storiyaan1764251986) | Remote | Remote | Dec 18 |
+| FIXL SOLUTIONS | [Human Resources (HR) (Females Only)](https://internshala.com/internship/detail/human-resources-hr-internship-in-jaipur-at-fixl-solutions1764572719) | Jaipur | On Site | Dec 18 |
+| Orufy Technologies Private Limited | [Android App Development](https://internshala.com/internship/detail/android-app-development-internship-in-jaipur-at-orufy-technologies-private-limited1764669376) | Jaipur | On Site | Dec 18 |
+| Radhakrishna Agro Industries Private Limited | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-multiple-locations-at-radhakrishna-agro-industries-private-limited1765883178) | Navi Mumbai, Mumbai | On Site | Dec 18 |
+| ArtfullifebySharmila | [Business Development (Sales)](https://internshala.com/internship/detail/business-development-sales-internship-in-multiple-locations-at-artfullifebysharmila1764737055) | Ghaziabad, Meerut, Modinagar, Muradnagar, Noida | On Site | Dec 18 |
+| Karma Infratech | [Artificial Intelligence (AI)](https://internshala.com/internship/detail/artificial-intelligence-ai-internship-in-kanpur-at-karma-infratech1765795884) | Kanpur | On Site | Dec 18 |
+| Humanhire Corp | [Talent Sourcing Executive](https://internshala.com/internship/detail/talent-sourcing-executive-internship-in-jaipur-at-humanhire-corp1765863569) | Jaipur | On Site | Dec 18 |
+| Quantscope LLP | [Data Entry](https://internshala.com/internship/detail/data-entry-internship-in-jaipur-at-quantscope-llp1765946981) | Jaipur | On Site | Dec 18 |
