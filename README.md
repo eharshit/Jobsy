@@ -30,11 +30,11 @@
 | LivNSense | [Presales Engineer](https://internshala.com/internship/detail/presales-engineer-internship-in-bangalore-at-livnsense1765443797) | Bangalore | On Site | Dec 20 |
 | Spikitech Private Limited | [Curriculum Designer](https://internshala.com/internship/detail/work-from-home-curriculum-designer-internship-at-spikitech-private-limited1765948973) | Remote | Remote | Dec 20 |
 | Megaminds IT Services | [IOT & Cloud Computing](https://internshala.com/internship/detail/work-from-home-iot-cloud-computing-internship-at-megaminds-it-services1764588791) | Remote | Remote | Dec 20 |
+| Rivi | [Frontend Engineer Intern](https://internshala.com/internship/detail/work-from-home-frontend-engineer-intern-internship-at-rivi1766220011) | Remote | Remote | Dec 20 |
 | Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-better1764240973) | Remote | Remote | Dec 20 |
+| Rivi | [Backend Engineer Intern](https://internshala.com/internship/detail/work-from-home-backend-engineer-intern-internship-at-rivi1766220788) | Remote | Remote | Dec 20 |
+| Jarvis Technology & Strategy Consulting | [Backend Developer (Node.js)](https://internshala.com/internship/detail/backend-developer-nodejs-internship-in-delhi-at-jarvis-technology-strategy-consulting1766230495) | Delhi | On Site | Dec 20 |
 | Dynoz AI | [Founding Backend Developer](https://internshala.com/internship/detail/founding-backend-developer-internship-in-faridabad-at-dynoz-ai1762420266) | Faridabad | On Site | Dec 20 |
 | Navicon Infraprojects | [Backend + Flutter Hybrid Developer](https://internshala.com/internship/detail/work-from-home-backend-flutter-hybrid-developer-internship-at-navicon-infraprojects1766053521) | Remote | Remote | Dec 20 |
 | Araneux Systems | [Fullstack Developer (PHP Laravel + Vue.js)](https://internshala.com/internship/detail/part-time-fullstack-developer-php-laravel-vuejs-internship-in-surat-at-araneux-systems1764311649) | Surat | On Site | Dec 20 |
 | Tradexa Technologies Private Limited | [Angular Developer](https://internshala.com/internship/detail/angular-developer-internship-in-pune-at-tradexa-technologies-private-limited1764236100) | Pune | On Site | Dec 20 |
-| GloVerse Labs | [Marketing](https://internshala.com/internship/detail/marketing-internship-in-udaipur-at-gloverse-labs1766116072) | Udaipur | On Site | Dec 20 |
-| FIXL SOLUTIONS | [Human Resources (HR) (Females Only)](https://internshala.com/internship/detail/human-resources-hr-internship-in-jaipur-at-fixl-solutions1764572719) | Jaipur | On Site | Dec 20 |
-| Radhakrishna Agro Industries Private Limited | [Graphic Design](https://internshala.com/internship/detail/graphic-design-internship-in-multiple-locations-at-radhakrishna-agro-industries-private-limited1765883178) | Navi Mumbai, Mumbai | On Site | Dec 20 |
