@@ -34,7 +34,7 @@
 | Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-better1764240973) | Remote | Remote | Dec 20 |
 | Rivi | [Backend Engineer Intern](https://internshala.com/internship/detail/work-from-home-backend-engineer-intern-internship-at-rivi1766220788) | Remote | Remote | Dec 20 |
 | Jarvis Technology & Strategy Consulting | [Backend Developer (Node.js)](https://internshala.com/internship/detail/backend-developer-nodejs-internship-in-delhi-at-jarvis-technology-strategy-consulting1766230495) | Delhi | On Site | Dec 20 |
-| Dynoz AI | [Founding Backend Developer](https://internshala.com/internship/detail/founding-backend-developer-internship-in-faridabad-at-dynoz-ai1762420266) | Faridabad | On Site | Dec 20 |
 | Navicon Infraprojects | [Backend + Flutter Hybrid Developer](https://internshala.com/internship/detail/work-from-home-backend-flutter-hybrid-developer-internship-at-navicon-infraprojects1766053521) | Remote | Remote | Dec 20 |
 | Araneux Systems | [Fullstack Developer (PHP Laravel + Vue.js)](https://internshala.com/internship/detail/part-time-fullstack-developer-php-laravel-vuejs-internship-in-surat-at-araneux-systems1764311649) | Surat | On Site | Dec 20 |
 | Tradexa Technologies Private Limited | [Angular Developer](https://internshala.com/internship/detail/angular-developer-internship-in-pune-at-tradexa-technologies-private-limited1764236100) | Pune | On Site | Dec 20 |
+| Meru Technosoft Private Limited | [Full-Stack Developer (Stripe Integration)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-stripe-integration-internship-at-meru-technosoft-private-limited1766219146) | Remote | Remote | Dec 20 |
