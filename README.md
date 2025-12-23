@@ -4,15 +4,15 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
+| LeadNexus LLP | [Web Developer - WordPress & Shopify](https://internshala.com/internship/detail/web-developer-wordpress-shopify-internship-in-pune-at-leadnexus-llp1766492573) | Pune | On Site | Dec 23 |
 | IREED Academy India Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-gurgaon-at-ireed-academy-india-private-limited1765543771) | Gurgaon | On Site | Dec 23 |
 | TSTEPS PRIVATE LIMITED | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-multiple-locations-at-tsteps-private-limited1766125058) | Delhi, Mumbai                                                                (Hybrid) | On Site | Dec 23 |
 | Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/part-time-web-developer-internship-in-pune-at-maxgen-technologies-private-limited1765943733) | Pune | On Site | Dec 23 |
 | Digital Ipsum | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-digital-ipsum1765443018) | Remote | Remote | Dec 23 |
-| LeadNexus LLP | [Web Developer - WordPress & Shopify](https://internshala.com/internship/detail/web-developer-wordpress-shopify-internship-in-pune-at-leadnexus-llp1766492573) | Pune | On Site | Dec 23 |
-| Techaivv Technologies | [Shopify Web Designer & Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-designer-developer-internship-at-techaivv-technologies1765447582) | Remote | Remote | Dec 23 |
 | Upthrust Marketing Private Limited | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-gurgaon-at-upthrust-marketing-private-limited1765777500) | Gurgaon                                                                (Hybrid) | On Site | Dec 23 |
-| Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Dec 23 |
+| Techaivv Technologies | [Shopify Web Designer & Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-designer-developer-internship-at-techaivv-technologies1765447582) | Remote | Remote | Dec 23 |
 | Vicharak Computers LLP | [Embedded Hardware Developer (Intern)](https://internshala.com/internship/detail/embedded-hardware-developer-intern-internship-in-surat-at-vicharak-computers-llp1766482640) | Surat | On Site | Dec 23 |
+| Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Dec 23 |
 | KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED | [Web Game Developer](https://internshala.com/internship/detail/web-game-developer-internship-in-mumbai-at-kidloland-kids-toddler-games-private-limited1766481363) | Mumbai | On Site | Dec 23 |
 | N/A | [N/A](N/A) | N/A | On Site | Dec 23 |
 | Medius Technologies Private Limited | [Selenium Web Scraper Developer](https://internshala.com/internship/detail/work-from-home-selenium-web-scraper-developer-internship-at-medius-technologies-private-limited1766133793) | Remote | Remote | Dec 23 |
@@ -34,6 +34,7 @@
 | Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-better1764240973) | Remote | Remote | Dec 23 |
 | Jarvis Technology & Strategy Consulting | [Backend Developer (Node.js)](https://internshala.com/internship/detail/backend-developer-nodejs-internship-in-delhi-at-jarvis-technology-strategy-consulting1766230495) | Delhi | On Site | Dec 23 |
 | StepOut | [Backend (Django And Python Developer)](https://internshala.com/internship/detail/work-from-home-backend-django-and-python-developer-internship-at-stepout1766401802) | Remote | Remote | Dec 23 |
+| Qualyval | [NodeJs, Rust Developer](https://internshala.com/internship/detail/work-from-home-nodejs-rust-developer-internship-at-qualyval1766496461) | Remote | Remote | Dec 23 |
 | Navicon Infraprojects | [Backend + Flutter Hybrid Developer](https://internshala.com/internship/detail/work-from-home-backend-flutter-hybrid-developer-internship-at-navicon-infraprojects1766053521) | Remote | Remote | Dec 23 |
 | Meru Technosoft Private Limited | [Full-Stack Developer (Stripe Integration)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-stripe-integration-internship-at-meru-technosoft-private-limited1766219146) | Remote | Remote | Dec 23 |
 | Utkarsh Pandey | [Full-Stack Developer (Fintech/Founding Team)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-fintech-founding-team-internship-at-utkarsh-pandey1764053683) | Remote | Remote | Dec 23 |
