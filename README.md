@@ -4,13 +4,13 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
-| LeadNexus LLP | [Web Developer - WordPress & Shopify](https://internshala.com/internship/detail/web-developer-wordpress-shopify-internship-in-pune-at-leadnexus-llp1766492573) | Pune | On Site | Dec 27 |
 | IREED Academy India Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-gurgaon-at-ireed-academy-india-private-limited1765543771) | Gurgaon | On Site | Dec 27 |
 | TSTEPS PRIVATE LIMITED | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-multiple-locations-at-tsteps-private-limited1766125058) | Delhi, Mumbai                                                                (Hybrid) | On Site | Dec 27 |
 | Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/part-time-web-developer-internship-in-pune-at-maxgen-technologies-private-limited1765943733) | Pune | On Site | Dec 27 |
 | Digital Ipsum | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-digital-ipsum1765443018) | Remote | Remote | Dec 27 |
 | Upthrust Marketing Private Limited | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-gurgaon-at-upthrust-marketing-private-limited1765777500) | Gurgaon                                                                (Hybrid) | On Site | Dec 27 |
 | SelfCode Academy | [Web Development Course Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-development-course-developer-internship-at-selfcode-academy1766818737) | Remote | Remote | Dec 27 |
+| LeadNexus LLP | [Web Developer - WordPress & Shopify](https://internshala.com/internship/detail/web-developer-wordpress-shopify-internship-in-pune-at-leadnexus-llp1766492573) | Pune | On Site | Dec 27 |
 | Techaivv Technologies | [Shopify Web Designer & Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-designer-developer-internship-at-techaivv-technologies1765447582) | Remote | Remote | Dec 27 |
 | Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Dec 27 |
 | KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED | [Web Game Developer](https://internshala.com/internship/detail/web-game-developer-internship-in-mumbai-at-kidloland-kids-toddler-games-private-limited1766481363) | Mumbai | On Site | Dec 27 |
@@ -25,14 +25,11 @@
 | KarmaLn Technology | [Web Researcher and Business Developer (Female candidates only)](https://internshala.com/internship/detail/web-researcher-and-business-developer-female-candidates-only-internship-in-multiple-locations-at-karmaln-technology1765452666) | Ahmedabad, Bhagalpur, Jamnagar, Rajkot, Surat, Vadodara, Junagadh, Botad, Valsad | On Site | Dec 27 |
 | Cosy Farms | [Software Engineering – IoT Dashboard & Automation](https://internshala.com/internship/detail/software-engineering--iot-dashboard-automation-internship-in-mumbai-at-cosy-farms1764922662) | Mumbai                                                                (Hybrid) | On Site | Dec 27 |
 | Cosy Farms | [Electrical & Embedded – IoT Control Systems](https://internshala.com/internship/detail/electrical-embedded--iot-control-systems-internship-in-mumbai-at-cosy-farms1764998083) | Mumbai | On Site | Dec 27 |
-| LI-MAT SOFT SOLUTIONS PRIVATE LIMITED | [Embedded Systems](https://internshala.com/internship/detail/embedded-systems-internship-in-bangalore-at-li-mat-soft-solutions-private-limited1766118580) | Bangalore | On Site | Dec 27 |
 | 1accord | [Electronics And Computer Science](https://internshala.com/internship/detail/electronics-and-computer-science-internship-in-mumbai-at-1accord1765864732) | Mumbai | On Site | Dec 27 |
 | Emiant Innovations Private Limited | [Embedded Systems](https://internshala.com/internship/detail/embedded-systems-internship-in-multiple-locations-at-emiant-innovations-private-limited1764312634) | Visakhapatnam, Kakinada | On Site | Dec 27 |
-| Meteoros Automation | [Front End Development](https://internshala.com/internship/detail/front-end-development-internship-in-chennai-at-meteoros-automation1762405123) | Chennai | On Site | Dec 27 |
 | LivNSense | [Presales Engineer](https://internshala.com/internship/detail/presales-engineer-internship-in-bangalore-at-livnsense1765443797) | Bangalore | On Site | Dec 27 |
 | Spikitech Private Limited | [Curriculum Designer](https://internshala.com/internship/detail/work-from-home-curriculum-designer-internship-at-spikitech-private-limited1765948973) | Remote | Remote | Dec 27 |
 | Megaminds IT Services | [IOT & Cloud Computing](https://internshala.com/internship/detail/work-from-home-iot-cloud-computing-internship-at-megaminds-it-services1764588791) | Remote | Remote | Dec 27 |
-| Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-front-end-development-internship-at-better1764240973) | Remote | Remote | Dec 27 |
 | Jarvis Technology & Strategy Consulting | [Backend Developer (Node.js)](https://internshala.com/internship/detail/backend-developer-nodejs-internship-in-delhi-at-jarvis-technology-strategy-consulting1766230495) | Delhi | On Site | Dec 27 |
 | StepOut | [Backend (Django And Python Developer)](https://internshala.com/internship/detail/work-from-home-backend-django-and-python-developer-internship-at-stepout1766401802) | Remote | Remote | Dec 27 |
 | Qualyval | [NodeJs, Rust Developer](https://internshala.com/internship/detail/work-from-home-nodejs-rust-developer-internship-at-qualyval1766496461) | Remote | Remote | Dec 27 |
@@ -42,3 +39,4 @@
 | Meru Technosoft Private Limited | [Full-Stack Developer (Stripe Integration)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-stripe-integration-internship-at-meru-technosoft-private-limited1766219146) | Remote | Remote | Dec 27 |
 | GamutX | [Full Stack Developer With GenAI Experience (Lovable, v0)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-with-genai-experience-lovable-v0-internship-at-gamutx1763635540) | Remote | Remote | Dec 27 |
 | Araneux Systems | [Fullstack Developer (PHP Laravel + Vue.js)](https://internshala.com/internship/detail/part-time-fullstack-developer-php-laravel-vuejs-internship-in-surat-at-araneux-systems1764311649) | Surat | On Site | Dec 27 |
+| Arakoo | [Node.js Generative AI/ML Developer](https://internshala.com/internship/detail/work-from-home-nodejs-generative-ai-ml-developer-internship-at-arakoo1764751354) | Remote | Remote | Dec 27 |
