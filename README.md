@@ -17,7 +17,6 @@
 | N/A | [N/A](N/A) | N/A | On Site | Dec 29 |
 | Medius Technologies Private Limited | [Selenium Web Scraper Developer](https://internshala.com/internship/detail/work-from-home-selenium-web-scraper-developer-internship-at-medius-technologies-private-limited1766133793) | Remote | Remote | Dec 29 |
 | Smaclify Technologies | [Website Developer - CSS/HTML](https://internshala.com/internship/detail/website-developer-css-html-internship-in-pune-at-smaclify-technologies1766133691) | Pune | On Site | Dec 29 |
-| InterCareerPath | [Full Stack Web Developer](https://internshala.com/internship/detail/work-from-home-full-stack-web-developer-internship-at-intercareerpath1767005474) | Remote | Remote | Dec 29 |
 | Vicharak Computers LLP | [Systems Software Developer](https://internshala.com/internship/detail/systems-software-developer-internship-in-surat-at-vicharak-computers-llp1766808594) | Surat | On Site | Dec 29 |
 | TSTEPS PRIVATE LIMITED | [Front End Web Developer](https://internshala.com/internship/detail/front-end-web-developer-internship-in-multiple-locations-at-tsteps-private-limited1766140724) | Kolkata, Hyderabad                                                                (Hybrid) | On Site | Dec 29 |
 | Pixrity Private Limited | [AR Developer (Application And Web)](https://internshala.com/internship/detail/ar-developer-application-and-web-internship-in-hubballi-at-pixrity-private-limited1765908768) | Hubballi                                                                (Hybrid) | On Site | Dec 29 |
