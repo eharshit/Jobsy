@@ -32,6 +32,7 @@
 | ARHITHA AGROBOT PRIVATE LIMITED | [App and Website Design Software Engineer](https://internshala.com/internship/detail/app-and-website-design-software-engineer-internship-in-bangalore-at-arhitha-agrobot-private-limited1767335231) | Bangalore | On Site | Jan 03 |
 | LivNSense | [Presales Engineer](https://internshala.com/internship/detail/presales-engineer-internship-in-bangalore-at-livnsense1765443797) | Bangalore | On Site | Jan 03 |
 | Spikitech Private Limited | [Curriculum Designer](https://internshala.com/internship/detail/work-from-home-curriculum-designer-internship-at-spikitech-private-limited1765948973) | Remote | Remote | Jan 03 |
+| Megaminds IT Services | [IOT & Cloud Computing](https://internshala.com/internship/detail/work-from-home-iot-cloud-computing-internship-at-megaminds-it-services1764588791) | Remote | Remote | Jan 03 |
 | Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-associate-frontend-developer-framer-only-internship-at-better1767009298) | Remote | Remote | Jan 03 |
 | Jarvis Technology & Strategy Consulting | [Backend Developer (Node.js)](https://internshala.com/internship/detail/backend-developer-nodejs-internship-in-delhi-at-jarvis-technology-strategy-consulting1766230495) | Delhi | On Site | Jan 03 |
 | StepOut | [Backend (Django And Python Developer)](https://internshala.com/internship/detail/work-from-home-backend-django-and-python-developer-internship-at-stepout1766401802) | Remote | Remote | Jan 03 |
