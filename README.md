@@ -4,7 +4,6 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
-| IREED Academy India Private Limited | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-gurgaon-at-ireed-academy-india-private-limited1765543771) | Gurgaon | On Site | Jan 05 |
 | Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/part-time-web-developer-internship-in-pune-at-maxgen-technologies-private-limited1765943733) | Pune | On Site | Jan 05 |
 | TSTEPS PRIVATE LIMITED | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-multiple-locations-at-tsteps-private-limited1766125058) | Delhi, Mumbai                                                                (Hybrid) | On Site | Jan 05 |
 | Digital Ipsum | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-digital-ipsum1765443018) | Remote | Remote | Jan 05 |
@@ -13,8 +12,8 @@
 | Everything Design | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-bangalore-at-everything-design1767549332) | Bangalore | On Site | Jan 05 |
 | Digital Heroes | [Senior Developer](https://internshala.com/internship/detail/part-time-senior-developer-internship-in-lucknow-at-digital-heroes1767328356) | Lucknow                                                                (Hybrid) | On Site | Jan 05 |
 | Upthrust Marketing Private Limited | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-gurgaon-at-upthrust-marketing-private-limited1765777500) | Gurgaon                                                                (Hybrid) | On Site | Jan 05 |
-| N/A | [N/A](N/A) | N/A | On Site | Jan 05 |
 | SelfCode Academy | [Web Development Course Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-development-course-developer-internship-at-selfcode-academy1766818737) | Remote | Remote | Jan 05 |
+| N/A | [N/A](N/A) | N/A | On Site | Jan 05 |
 | Techaivv Technologies | [Shopify Web Designer & Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-designer-developer-internship-at-techaivv-technologies1765447582) | Remote | Remote | Jan 05 |
 | Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Jan 05 |
 | KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED | [Web Game Developer](https://internshala.com/internship/detail/web-game-developer-internship-in-mumbai-at-kidloland-kids-toddler-games-private-limited1766481363) | Mumbai | On Site | Jan 05 |
