@@ -4,10 +4,10 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
+| Bakhultech | [Web Development Intern](https://internshala.com/internship/detail/work-from-home-web-development-intern-internship-at-bakhultech1767351909) | Remote | Remote | Jan 06 |
 | Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/part-time-web-developer-internship-in-pune-at-maxgen-technologies-private-limited1765943733) | Pune | On Site | Jan 06 |
 | TSTEPS PRIVATE LIMITED | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-multiple-locations-at-tsteps-private-limited1766125058) | Delhi, Mumbai                                                                (Hybrid) | On Site | Jan 06 |
 | Digital Ipsum | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-digital-ipsum1765443018) | Remote | Remote | Jan 06 |
-| Bakhultech | [Web Development Intern](https://internshala.com/internship/detail/work-from-home-web-development-intern-internship-at-bakhultech1767351909) | Remote | Remote | Jan 06 |
 | Digital Heroes | [Junior Web Developer](https://internshala.com/internship/detail/part-time-junior-web-developer-internship-in-lucknow-at-digital-heroes1767179347) | Lucknow                                                                (Hybrid) | On Site | Jan 06 |
 | Rajlaxmi Solutions Private Limited | [ERPNext Developer](https://internshala.com/internship/detail/erpnext-developer-internship-in-multiple-locations-at-rajlaxmi-solutions-private-limited1767608525) | Thane, Kalyan, Mumbai | On Site | Jan 06 |
 | Everything Design | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-bangalore-at-everything-design1767549332) | Bangalore | On Site | Jan 06 |
