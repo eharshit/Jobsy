@@ -4,10 +4,10 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
-| Bakhultech | [Web Development Intern](https://internshala.com/internship/detail/work-from-home-web-development-intern-internship-at-bakhultech1767351909) | Remote | Remote | Jan 06 |
 | Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/part-time-web-developer-internship-in-pune-at-maxgen-technologies-private-limited1765943733) | Pune | On Site | Jan 06 |
 | TSTEPS PRIVATE LIMITED | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-multiple-locations-at-tsteps-private-limited1766125058) | Delhi, Mumbai                                                                (Hybrid) | On Site | Jan 06 |
 | Digital Ipsum | [Web Developer](https://internshala.com/internship/detail/work-from-home-web-developer-internship-at-digital-ipsum1765443018) | Remote | Remote | Jan 06 |
+| Bakhultech | [Web Development Intern](https://internshala.com/internship/detail/work-from-home-web-development-intern-internship-at-bakhultech1767351909) | Remote | Remote | Jan 06 |
 | Digital Heroes | [Junior Web Developer](https://internshala.com/internship/detail/part-time-junior-web-developer-internship-in-lucknow-at-digital-heroes1767179347) | Lucknow                                                                (Hybrid) | On Site | Jan 06 |
 | Rajlaxmi Solutions Private Limited | [ERPNext Developer](https://internshala.com/internship/detail/erpnext-developer-internship-in-multiple-locations-at-rajlaxmi-solutions-private-limited1767608525) | Thane, Kalyan, Mumbai | On Site | Jan 06 |
 | Everything Design | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-bangalore-at-everything-design1767549332) | Bangalore | On Site | Jan 06 |
@@ -16,6 +16,7 @@
 | N/A | [N/A](N/A) | N/A | On Site | Jan 06 |
 | SelfCode Academy | [Web Development Course Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-development-course-developer-internship-at-selfcode-academy1766818737) | Remote | Remote | Jan 06 |
 | Techaivv Technologies | [Shopify Web Designer & Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-designer-developer-internship-at-techaivv-technologies1765447582) | Remote | Remote | Jan 06 |
+| Bepay Money | [Telegram Mini App Developer Intern](https://internshala.com/internship/detail/work-from-home-telegram-mini-app-developer-intern-internship-at-bepay-money1767697810) | Remote | Remote | Jan 06 |
 | Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Jan 06 |
 | KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED | [Web Game Developer](https://internshala.com/internship/detail/web-game-developer-internship-in-mumbai-at-kidloland-kids-toddler-games-private-limited1766481363) | Mumbai | On Site | Jan 06 |
 | JP IT STAFFING LLC | [Junior HTML Developer – Remote](https://internshala.com/internship/detail/work-from-home-part-time-junior-html-developer--remote-internship-at-jp-it-staffing-llc1767097386) | Remote | Remote | Jan 06 |
@@ -32,6 +33,7 @@
 | LivNSense | [Presales Engineer](https://internshala.com/internship/detail/presales-engineer-internship-in-bangalore-at-livnsense1765443797) | Bangalore | On Site | Jan 06 |
 | Spikitech Private Limited | [Curriculum Designer](https://internshala.com/internship/detail/work-from-home-curriculum-designer-internship-at-spikitech-private-limited1765948973) | Remote | Remote | Jan 06 |
 | Megaminds IT Services | [IOT & Cloud Computing](https://internshala.com/internship/detail/work-from-home-iot-cloud-computing-internship-at-megaminds-it-services1764588791) | Remote | Remote | Jan 06 |
+| Infinite Resume AI | [AI + FullStack Intern (Python / Frontend)](https://internshala.com/internship/detail/work-from-home-ai-fullstack-intern-python-frontend-internship-at-infinite-resume-ai1767695111) | Remote | Remote | Jan 06 |
 | Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-associate-frontend-developer-framer-only-internship-at-better1767009298) | Remote | Remote | Jan 06 |
 | Jarvis Technology & Strategy Consulting | [Backend Developer (Node.js)](https://internshala.com/internship/detail/backend-developer-nodejs-internship-in-delhi-at-jarvis-technology-strategy-consulting1766230495) | Delhi | On Site | Jan 06 |
 | StepOut | [Backend (Django And Python Developer)](https://internshala.com/internship/detail/work-from-home-backend-django-and-python-developer-internship-at-stepout1766401802) | Remote | Remote | Jan 06 |
@@ -40,7 +42,6 @@
 | Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1766768248) | Ahmedabad | On Site | Jan 06 |
 | Orkait | [Full Stack Developer (React + Python)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-react-python-internship-at-orkait1766981628) | Remote | Remote | Jan 06 |
 | Meru Technosoft Private Limited | [Full-Stack Developer (Stripe Integration)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-stripe-integration-internship-at-meru-technosoft-private-limited1766219146) | Remote | Remote | Jan 06 |
+| Nutrail Analytics | [Full-Stack Intern (AI-Focused)](https://internshala.com/internship/detail/work-from-home-full-stack-intern-ai-focused-internship-at-nutrail-analytics1767694267) | Remote | Remote | Jan 06 |
 | GamutX | [Full Stack Developer With GenAI Experience (Lovable, v0)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-with-genai-experience-lovable-v0-internship-at-gamutx1763635540) | Remote | Remote | Jan 06 |
 | Nathaniel School Of Music | [Full Stack Developer - Music Websites, Apps And Practice Tools](https://internshala.com/internship/detail/full-stack-developer-music-websites-apps-and-practice-tools-internship-in-bangalore-at-nathaniel-school-of-music1767155180) | Bangalore                                                                (Hybrid) | On Site | Jan 06 |
-| FotoOwl.ai | [React Developer](https://internshala.com/internship/detail/react-developer-internship-in-pune-at-fotoowlai1767095271) | Pune                                                                (Hybrid) | On Site | Jan 06 |
-| Ramyoz | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-greater-noida-at-ramyoz1767329027) | Greater Noida | On Site | Jan 06 |
