@@ -34,6 +34,7 @@
 | Spikitech Private Limited | [Curriculum Designer](https://internshala.com/internship/detail/work-from-home-curriculum-designer-internship-at-spikitech-private-limited1765948973) | Remote | Remote | Jan 08 |
 | Megaminds IT Services | [IOT & Cloud Computing](https://internshala.com/internship/detail/work-from-home-iot-cloud-computing-internship-at-megaminds-it-services1764588791) | Remote | Remote | Jan 08 |
 | Infinite Resume AI | [AI + FullStack Intern (Python / Frontend)](https://internshala.com/internship/detail/work-from-home-ai-fullstack-intern-python-frontend-internship-at-infinite-resume-ai1767695111) | Remote | Remote | Jan 08 |
+| Prabhabi Infocom | [Frontend Developer](https://internshala.com/internship/detail/frontend-developer-internship-in-agartala-at-prabhabi-infocom1767852231) | Agartala | On Site | Jan 08 |
 | Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-associate-frontend-developer-framer-only-internship-at-better1767009298) | Remote | Remote | Jan 08 |
 | Joveo | [Backend Intern](https://internshala.com/internship/detail/backend-intern-internship-in-nanakramguda-at-joveo1767779529) | Nanakramguda | On Site | Jan 08 |
 | Jarvis Technology & Strategy Consulting | [Backend Developer (Node.js)](https://internshala.com/internship/detail/backend-developer-nodejs-internship-in-delhi-at-jarvis-technology-strategy-consulting1766230495) | Delhi | On Site | Jan 08 |
@@ -44,4 +45,3 @@
 | Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1766768248) | Ahmedabad | On Site | Jan 08 |
 | Orkait | [Full Stack Developer (React + Python)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-react-python-internship-at-orkait1766981628) | Remote | Remote | Jan 08 |
 | Meru Technosoft Private Limited | [Full-Stack Developer (Stripe Integration)](https://internshala.com/internship/detail/work-from-home-full-stack-developer-stripe-integration-internship-at-meru-technosoft-private-limited1766219146) | Remote | Remote | Jan 08 |
-| Nutrail Analytics | [Full-Stack Intern (AI-Focused)](https://internshala.com/internship/detail/work-from-home-full-stack-intern-ai-focused-internship-at-nutrail-analytics1767694267) | Remote | Remote | Jan 08 |
