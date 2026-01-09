@@ -4,6 +4,7 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
+| Jivox | [Associate Developer Intern](https://internshala.com/internship/detail/associate-developer-intern-internship-in-bangalore-at-jivox1767963428) | Bangalore | On Site | Jan 09 |
 | MailEasy | [Python Developer Intern](https://internshala.com/internship/detail/python-developer-intern-internship-in-maharashtra-at-maileasy1767959412) | Maharashtra | On Site | Jan 09 |
 | PriyaQubit Private.Limited | [Fronted  Developer Intern](https://internshala.com/internship/detail/work-from-home-fronted-developer-intern-internship-at-priyaqubit-privatelimited1767876367) | Remote | Remote | Jan 09 |
 | Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/part-time-web-developer-internship-in-pune-at-maxgen-technologies-private-limited1765943733) | Pune | On Site | Jan 09 |
@@ -12,13 +13,12 @@
 | Bakhultech | [Web Development Intern](https://internshala.com/internship/detail/work-from-home-web-development-intern-internship-at-bakhultech1767351909) | Remote | Remote | Jan 09 |
 | Digital Heroes | [Junior Web Developer](https://internshala.com/internship/detail/part-time-junior-web-developer-internship-in-lucknow-at-digital-heroes1767179347) | Lucknow                                                                (Hybrid) | On Site | Jan 09 |
 | Neso Academy | [Android App Developer Intern](https://internshala.com/internship/detail/work-from-home-android-app-developer-intern-internship-at-neso-academy1767876910) | Remote | Remote | Jan 09 |
-| Rajlaxmi Solutions Private Limited | [ERPNext Developer](https://internshala.com/internship/detail/erpnext-developer-internship-in-multiple-locations-at-rajlaxmi-solutions-private-limited1767608525) | Thane, Kalyan, Mumbai | On Site | Jan 09 |
 | N/A | [N/A](N/A) | N/A | On Site | Jan 09 |
-| Everything Design | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-bangalore-at-everything-design1767549332) | Bangalore | On Site | Jan 09 |
-| Digital Heroes | [Senior Developer](https://internshala.com/internship/detail/part-time-senior-developer-internship-in-lucknow-at-digital-heroes1767328356) | Lucknow                                                                (Hybrid) | On Site | Jan 09 |
-| Upthrust Marketing Private Limited | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-gurgaon-at-upthrust-marketing-private-limited1765777500) | Gurgaon                                                                (Hybrid) | On Site | Jan 09 |
 | SelfCode Academy | [Web Development Course Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-development-course-developer-internship-at-selfcode-academy1766818737) | Remote | Remote | Jan 09 |
 | Techaivv Technologies | [Shopify Web Designer & Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-designer-developer-internship-at-techaivv-technologies1765447582) | Remote | Remote | Jan 09 |
+| Rajlaxmi Solutions Private Limited | [ERPNext Developer](https://internshala.com/internship/detail/erpnext-developer-internship-in-multiple-locations-at-rajlaxmi-solutions-private-limited1767608525) | Thane, Kalyan, Mumbai | On Site | Jan 09 |
+| Digital Heroes | [Senior Developer](https://internshala.com/internship/detail/part-time-senior-developer-internship-in-lucknow-at-digital-heroes1767328356) | Lucknow                                                                (Hybrid) | On Site | Jan 09 |
+| Upthrust Marketing Private Limited | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-gurgaon-at-upthrust-marketing-private-limited1765777500) | Gurgaon                                                                (Hybrid) | On Site | Jan 09 |
 | Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Jan 09 |
 | KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED | [Web Game Developer](https://internshala.com/internship/detail/web-game-developer-internship-in-mumbai-at-kidloland-kids-toddler-games-private-limited1766481363) | Mumbai | On Site | Jan 09 |
 | Fusion Engineering Tech | [IOS Developer Intern Then Full Time](https://internshala.com/internship/detail/work-from-home-ios-developer-intern-then-full-time-internship-at-fusion-engineering-tech1767876856) | Remote | Remote | Jan 09 |
@@ -40,4 +40,3 @@
 | Joveo | [Backend Intern](https://internshala.com/internship/detail/backend-intern-internship-in-nanakramguda-at-joveo1767779529) | Nanakramguda | On Site | Jan 09 |
 | Jarvis Technology & Strategy Consulting | [Backend Developer (Node.js)](https://internshala.com/internship/detail/backend-developer-nodejs-internship-in-delhi-at-jarvis-technology-strategy-consulting1766230495) | Delhi | On Site | Jan 09 |
 | StepOut | [Backend (Django And Python Developer)](https://internshala.com/internship/detail/work-from-home-backend-django-and-python-developer-internship-at-stepout1766401802) | Remote | Remote | Jan 09 |
-| Qualyval | [NodeJs, Rust Developer](https://internshala.com/internship/detail/work-from-home-nodejs-rust-developer-internship-at-qualyval1766496461) | Remote | Remote | Jan 09 |
