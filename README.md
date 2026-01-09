@@ -4,6 +4,7 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
+| MailEasy | [Python Developer Intern](https://internshala.com/internship/detail/python-developer-intern-internship-in-maharashtra-at-maileasy1767959412) | Maharashtra | On Site | Jan 09 |
 | PriyaQubit Private.Limited | [Fronted  Developer Intern](https://internshala.com/internship/detail/work-from-home-fronted-developer-intern-internship-at-priyaqubit-privatelimited1767876367) | Remote | Remote | Jan 09 |
 | Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/part-time-web-developer-internship-in-pune-at-maxgen-technologies-private-limited1765943733) | Pune | On Site | Jan 09 |
 | TSTEPS PRIVATE LIMITED | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-multiple-locations-at-tsteps-private-limited1766125058) | Delhi, Mumbai                                                                (Hybrid) | On Site | Jan 09 |
@@ -12,8 +13,9 @@
 | Digital Heroes | [Junior Web Developer](https://internshala.com/internship/detail/part-time-junior-web-developer-internship-in-lucknow-at-digital-heroes1767179347) | Lucknow                                                                (Hybrid) | On Site | Jan 09 |
 | Neso Academy | [Android App Developer Intern](https://internshala.com/internship/detail/work-from-home-android-app-developer-intern-internship-at-neso-academy1767876910) | Remote | Remote | Jan 09 |
 | Rajlaxmi Solutions Private Limited | [ERPNext Developer](https://internshala.com/internship/detail/erpnext-developer-internship-in-multiple-locations-at-rajlaxmi-solutions-private-limited1767608525) | Thane, Kalyan, Mumbai | On Site | Jan 09 |
-| Digital Heroes | [Senior Developer](https://internshala.com/internship/detail/part-time-senior-developer-internship-in-lucknow-at-digital-heroes1767328356) | Lucknow                                                                (Hybrid) | On Site | Jan 09 |
 | N/A | [N/A](N/A) | N/A | On Site | Jan 09 |
+| Everything Design | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-bangalore-at-everything-design1767549332) | Bangalore | On Site | Jan 09 |
+| Digital Heroes | [Senior Developer](https://internshala.com/internship/detail/part-time-senior-developer-internship-in-lucknow-at-digital-heroes1767328356) | Lucknow                                                                (Hybrid) | On Site | Jan 09 |
 | Upthrust Marketing Private Limited | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-gurgaon-at-upthrust-marketing-private-limited1765777500) | Gurgaon                                                                (Hybrid) | On Site | Jan 09 |
 | SelfCode Academy | [Web Development Course Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-development-course-developer-internship-at-selfcode-academy1766818737) | Remote | Remote | Jan 09 |
 | Techaivv Technologies | [Shopify Web Designer & Developer](https://internshala.com/internship/detail/work-from-home-shopify-web-designer-developer-internship-at-techaivv-technologies1765447582) | Remote | Remote | Jan 09 |
@@ -22,6 +24,7 @@
 | Fusion Engineering Tech | [IOS Developer Intern Then Full Time](https://internshala.com/internship/detail/work-from-home-ios-developer-intern-then-full-time-internship-at-fusion-engineering-tech1767876856) | Remote | Remote | Jan 09 |
 | Medius Technologies Private Limited | [Selenium Web Scraper Developer](https://internshala.com/internship/detail/work-from-home-selenium-web-scraper-developer-internship-at-medius-technologies-private-limited1766133793) | Remote | Remote | Jan 09 |
 | Smaclify Technologies | [Website Developer - CSS/HTML](https://internshala.com/internship/detail/website-developer-css-html-internship-in-pune-at-smaclify-technologies1766133691) | Pune | On Site | Jan 09 |
+| Kombai | [Developer Ambassador (Reddit-first, Remote)](https://internshala.com/internship/detail/work-from-home-part-time-developer-ambassador-reddit-first-remote-internship-at-kombai1767940920) | Remote | Remote | Jan 09 |
 | TSTEPS PRIVATE LIMITED | [Front End Web Developer](https://internshala.com/internship/detail/front-end-web-developer-internship-in-multiple-locations-at-tsteps-private-limited1766140724) | Kolkata, Hyderabad                                                                (Hybrid) | On Site | Jan 09 |
 | Pixrity Private Limited | [AR Developer (Application And Web)](https://internshala.com/internship/detail/ar-developer-application-and-web-internship-in-hubballi-at-pixrity-private-limited1765908768) | Hubballi                                                                (Hybrid) | On Site | Jan 09 |
 | Cloud Flex Technologies | [Fullstack Developer(Backend Focused) Intern (Nest.js, Next.js,and React)](https://internshala.com/internship/detail/work-from-home-fullstack-developerbackend-focused-intern-nestjs-nextjs-and-react-internship-at-cloud-flex-technologies1766568367) | Remote | Remote | Jan 09 |
@@ -31,12 +34,10 @@
 | LivNSense | [Presales Engineer](https://internshala.com/internship/detail/presales-engineer-internship-in-bangalore-at-livnsense1765443797) | Bangalore | On Site | Jan 09 |
 | Spikitech Private Limited | [Curriculum Designer](https://internshala.com/internship/detail/work-from-home-curriculum-designer-internship-at-spikitech-private-limited1765948973) | Remote | Remote | Jan 09 |
 | Megaminds IT Services | [IOT & Cloud Computing](https://internshala.com/internship/detail/work-from-home-iot-cloud-computing-internship-at-megaminds-it-services1764588791) | Remote | Remote | Jan 09 |
+| ALDS | [Frontend And Backend Interns](https://internshala.com/internship/detail/work-from-home-frontend-and-backend-interns-internship-at-alds1767960612) | Remote | Remote | Jan 09 |
 | Infinite Resume AI | [AI + FullStack Intern (Python / Frontend)](https://internshala.com/internship/detail/work-from-home-ai-fullstack-intern-python-frontend-internship-at-infinite-resume-ai1767695111) | Remote | Remote | Jan 09 |
 | Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-associate-frontend-developer-framer-only-internship-at-better1767009298) | Remote | Remote | Jan 09 |
 | Joveo | [Backend Intern](https://internshala.com/internship/detail/backend-intern-internship-in-nanakramguda-at-joveo1767779529) | Nanakramguda | On Site | Jan 09 |
 | Jarvis Technology & Strategy Consulting | [Backend Developer (Node.js)](https://internshala.com/internship/detail/backend-developer-nodejs-internship-in-delhi-at-jarvis-technology-strategy-consulting1766230495) | Delhi | On Site | Jan 09 |
 | StepOut | [Backend (Django And Python Developer)](https://internshala.com/internship/detail/work-from-home-backend-django-and-python-developer-internship-at-stepout1766401802) | Remote | Remote | Jan 09 |
 | Qualyval | [NodeJs, Rust Developer](https://internshala.com/internship/detail/work-from-home-nodejs-rust-developer-internship-at-qualyval1766496461) | Remote | Remote | Jan 09 |
-| Vibrantix Solutions Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-multiple-locations-at-vibrantix-solutions-pvt-ltd1766577773) | Pune, Bangalore                                                                (Hybrid) | On Site | Jan 09 |
-| Livesitter (Atlanta, United States) | [AI Full Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-full-stack-developer-internship-at-livesitter1767761607) | Remote | Remote | Jan 09 |
-| Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1766768248) | Ahmedabad | On Site | Jan 09 |
