@@ -44,4 +44,3 @@
 | Vibrantix Solutions Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-multiple-locations-at-vibrantix-solutions-pvt-ltd1766577773) | Pune, Bangalore                                                                (Hybrid) | On Site | Jan 15 |
 | Livesitter (Atlanta, United States) | [AI Full Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-full-stack-developer-internship-at-livesitter1767761607) | Remote | Remote | Jan 15 |
 | Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1766768248) | Ahmedabad | On Site | Jan 15 |
-| Jarurat Care | [Full Stack Developer (AI - Enabled)](https://internshala.com/internship/detail/work-from-home-part-time-full-stack-developer-ai-enabled-internship-at-jarurat-care1768284353) | Remote | Remote | Jan 15 |
