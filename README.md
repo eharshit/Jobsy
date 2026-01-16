@@ -4,17 +4,17 @@
 
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
-| Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/part-time-web-developer-internship-in-pune-at-maxgen-technologies-private-limited1765943733) | Pune | On Site | Jan 16 |
-| TSTEPS PRIVATE LIMITED | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-multiple-locations-at-tsteps-private-limited1766125058) | Delhi, Mumbai                                                                (Hybrid) | On Site | Jan 16 |
 | Hapz Software Solutions Pvt Ltd | [Game Developer Intern](https://internshala.com/internship/detail/work-from-home-game-developer-intern-internship-at-hapz-software-solutions-pvt-ltd1768300210) | Remote | Remote | Jan 16 |
+| Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/part-time-web-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1767087755) | Ahmedabad | On Site | Jan 16 |
+| TSTEPS PRIVATE LIMITED | [Web Developer](https://internshala.com/internship/detail/web-developer-internship-in-multiple-locations-at-tsteps-private-limited1766125058) | Delhi, Mumbai                                                                (Hybrid) | On Site | Jan 16 |
 | Bakhultech | [Web Development Intern](https://internshala.com/internship/detail/work-from-home-web-development-intern-internship-at-bakhultech1767351909) | Remote | Remote | Jan 16 |
 | Digital Heroes | [Junior Web Developer](https://internshala.com/internship/detail/part-time-junior-web-developer-internship-in-lucknow-at-digital-heroes1767179347) | Lucknow                                                                (Hybrid) | On Site | Jan 16 |
 | Techsprout | [Shopify Developer](https://internshala.com/internship/detail/shopify-developer-internship-in-hyderabad-at-techsprout1768207112) | Hyderabad | On Site | Jan 16 |
 | Everything Design | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-bangalore-at-everything-design1768566294) | Bangalore | On Site | Jan 16 |
 | Arakoo | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-multiple-locations-at-arakoo1768194826) | Gurgaon, Delhi, Noida                                                                (Hybrid) | On Site | Jan 16 |
 | Rajlaxmi Solutions Private Limited | [Bitrix Developer](https://internshala.com/internship/detail/bitrix-developer-internship-in-multiple-locations-at-rajlaxmi-solutions-private-limited1768191325) | Thane, Navi Mumbai, Dombivli, Kalyan, Mumbai | On Site | Jan 16 |
-| N/A | [N/A](N/A) | N/A | On Site | Jan 16 |
 | Rajlaxmi Solutions Private Limited | [ERPNext Developer](https://internshala.com/internship/detail/erpnext-developer-internship-in-multiple-locations-at-rajlaxmi-solutions-private-limited1767608525) | Thane, Kalyan, Mumbai | On Site | Jan 16 |
+| N/A | [N/A](N/A) | N/A | On Site | Jan 16 |
 | Digital Heroes | [Senior Developer](https://internshala.com/internship/detail/part-time-senior-developer-internship-in-lucknow-at-digital-heroes1767328356) | Lucknow                                                                (Hybrid) | On Site | Jan 16 |
 | SelfCode Academy | [Web Development Course Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-development-course-developer-internship-at-selfcode-academy1766818737) | Remote | Remote | Jan 16 |
 | Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Jan 16 |
@@ -35,7 +35,6 @@
 | Panda Web Developer | [WordPress Development](https://internshala.com/internship/detail/work-from-home-wordpress-development-internship-at-panda-web-developer1768031582) | Remote | Remote | Jan 16 |
 | Sentient Industries Private Limited | [Electronics Engineering](https://internshala.com/internship/detail/electronics-engineering-internship-in-bangalore-at-sentient-industries-private-limited1768547846) | Bangalore | On Site | Jan 16 |
 | ARHITHA AGROBOT PRIVATE LIMITED | [App and Website Design Software Engineer](https://internshala.com/internship/detail/app-and-website-design-software-engineer-internship-in-bangalore-at-arhitha-agrobot-private-limited1767335231) | Bangalore | On Site | Jan 16 |
-| Spikitech Private Limited | [Curriculum Designer](https://internshala.com/internship/detail/work-from-home-curriculum-designer-internship-at-spikitech-private-limited1765948973) | Remote | Remote | Jan 16 |
 | ITGS Infotech Private Limited | [Business Consultant](https://internshala.com/internship/detail/business-consultant-internship-in-noida-at-itgs-infotech-private-limited1768199002) | Noida                                                                (Hybrid) | On Site | Jan 16 |
 | Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-associate-frontend-developer-framer-only-internship-at-better1767009298) | Remote | Remote | Jan 16 |
 | Joveo | [Backend Intern](https://internshala.com/internship/detail/backend-intern-internship-in-nanakramguda-at-joveo1767779529) | Nanakramguda | On Site | Jan 16 |
@@ -44,3 +43,5 @@
 | Qualyval | [NodeJs, Rust Developer](https://internshala.com/internship/detail/work-from-home-nodejs-rust-developer-internship-at-qualyval1766496461) | Remote | Remote | Jan 16 |
 | Maxgen Technologies Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1768236945) | Ahmedabad | On Site | Jan 16 |
 | Vibrantix Solutions Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-multiple-locations-at-vibrantix-solutions-pvt-ltd1766577773) | Pune, Bangalore                                                                (Hybrid) | On Site | Jan 16 |
+| Livesitter (Atlanta, United States) | [AI Full Stack Developer](https://internshala.com/internship/detail/work-from-home-ai-full-stack-developer-internship-at-livesitter1767761607) | Remote | Remote | Jan 16 |
+| Maxgen Technologies Private Limited | [MERN Stack Developer](https://internshala.com/internship/detail/mern-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1766768248) | Ahmedabad | On Site | Jan 16 |
