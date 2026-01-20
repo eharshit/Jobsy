@@ -15,8 +15,8 @@
 | Digital Heroes | [Senior Developer](https://internshala.com/internship/detail/part-time-senior-developer-internship-in-lucknow-at-digital-heroes1767328356) | Lucknow                                                                (Hybrid) | On Site | Jan 20 |
 | SelfCode Academy | [Web Development Course Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-development-course-developer-internship-at-selfcode-academy1766818737) | Remote | Remote | Jan 20 |
 | N/A | [N/A](N/A) | N/A | On Site | Jan 20 |
-| AIMLEAP | [WordPress Developer  Intern ( 6 Months )](https://internshala.com/internship/detail/work-from-home-wordpress-developer-intern--6-months--internship-at-aimleap1768646288) | Remote | Remote | Jan 20 |
 | Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Jan 20 |
+| AIMLEAP | [WordPress Developer  Intern ( 6 Months )](https://internshala.com/internship/detail/work-from-home-wordpress-developer-intern--6-months--internship-at-aimleap1768646288) | Remote | Remote | Jan 20 |
 | Sekhon Home Services Private Limited | [Wix Platform Developer](https://internshala.com/internship/detail/work-from-home-part-time-wix-platform-developer-internship-at-sekhon-home-services-private-limited1768374681) | Remote | Remote | Jan 20 |
 | Farmdidi | [Zoho Creator Developer](https://internshala.com/internship/detail/zoho-creator-developer-internship-in-pune-at-farmdidi1768287875) | Pune | On Site | Jan 20 |
 | DigitalTrax - Creative Marketing Agency | [Website Developer(Wordpress/Shopify)](https://internshala.com/internship/detail/website-developerwordpress-shopify-internship-in-delhi-at-digitaltrax-creative-marketing-agency1768337658) | Delhi | On Site | Jan 20 |
