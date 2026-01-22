@@ -5,6 +5,7 @@
 | Company | Job Title | Location | Work Model | Date Posted |
 |:---|:---|:---|:---|:---|
 | Maxgen Technologies Private Limited | [Web Developer](https://internshala.com/internship/detail/part-time-web-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1767087755) | Ahmedabad | On Site | Jan 22 |
+| Faym | [Flutter Developer Intern](https://internshala.com/internship/detail/work-from-home-flutter-developer-intern-internship-at-faym1769079789) | Remote | Remote | Jan 22 |
 | Digital Heroes | [Junior Web Developer](https://internshala.com/internship/detail/part-time-junior-web-developer-internship-in-lucknow-at-digital-heroes1767179347) | Lucknow                                                                (Hybrid) | On Site | Jan 22 |
 | Everything Design | [WebFlow Developer](https://internshala.com/internship/detail/webflow-developer-internship-in-bangalore-at-everything-design1768566294) | Bangalore | On Site | Jan 22 |
 | Techsprout | [Shopify Developer](https://internshala.com/internship/detail/shopify-developer-internship-in-hyderabad-at-techsprout1768207112) | Hyderabad | On Site | Jan 22 |
@@ -13,8 +14,8 @@
 | Rajlaxmi Solutions Private Limited | [ERPNext Developer](https://internshala.com/internship/detail/erpnext-developer-internship-in-multiple-locations-at-rajlaxmi-solutions-private-limited1767608525) | Thane, Kalyan, Mumbai | On Site | Jan 22 |
 | Digital Heroes | [Senior Developer](https://internshala.com/internship/detail/part-time-senior-developer-internship-in-lucknow-at-digital-heroes1767328356) | Lucknow                                                                (Hybrid) | On Site | Jan 22 |
 | SelfCode Academy | [Web Development Course Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-development-course-developer-internship-at-selfcode-academy1766818737) | Remote | Remote | Jan 22 |
-| Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Jan 22 |
 | N/A | [N/A](N/A) | N/A | On Site | Jan 22 |
+| Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Jan 22 |
 | AIMLEAP | [WordPress Developer  Intern ( 6 Months )](https://internshala.com/internship/detail/work-from-home-wordpress-developer-intern--6-months--internship-at-aimleap1768646288) | Remote | Remote | Jan 22 |
 | Sekhon Home Services Private Limited | [Wix Platform Developer](https://internshala.com/internship/detail/work-from-home-part-time-wix-platform-developer-internship-at-sekhon-home-services-private-limited1768374681) | Remote | Remote | Jan 22 |
 | Farmdidi | [Zoho Creator Developer](https://internshala.com/internship/detail/zoho-creator-developer-internship-in-pune-at-farmdidi1768287875) | Pune | On Site | Jan 22 |
@@ -24,6 +25,7 @@
 | Kombai | [Developer Ambassador (Reddit-first, Remote)](https://internshala.com/internship/detail/work-from-home-part-time-developer-ambassador-reddit-first-remote-internship-at-kombai1767940920) | Remote | Remote | Jan 22 |
 | TechCrafter International | [Full Stack Developer (Web and Mobile)](https://internshala.com/internship/detail/part-time-full-stack-developer-web-and-mobile-internship-in-bangalore-at-techcrafter-international1768209519) | Bangalore                                                                (Hybrid) | On Site | Jan 22 |
 | SYSCOM Incorporation | [Full Stack Web Developer (Remote/Hybrid)](https://internshala.com/internship/detail/work-from-home-part-time-full-stack-web-developer-remote-hybrid-internship-at-syscom-incorporation1768197904) | Remote | Remote | Jan 22 |
+| Mundada Builders & Developers | [Web Development](https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-mundada-builders-developers1768804046) | Jalgaon, Pune, Shirpur, Amalner, Nashik                                                                (Hybrid) | On Site | Jan 22 |
 | Sentient Industries Private Limited | [Electronics Engineering](https://internshala.com/internship/detail/electronics-engineering-internship-in-bangalore-at-sentient-industries-private-limited1768547846) | Bangalore | On Site | Jan 22 |
 | ITGS Infotech Private Limited | [Business Consultant](https://internshala.com/internship/detail/business-consultant-internship-in-noida-at-itgs-infotech-private-limited1768199002) | Noida                                                                (Hybrid) | On Site | Jan 22 |
 | Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-associate-frontend-developer-framer-only-internship-at-better1767009298) | Remote | Remote | Jan 22 |
@@ -41,7 +43,3 @@
 | FotoOwl.ai | [React Developer](https://internshala.com/internship/detail/react-developer-internship-in-pune-at-fotoowlai1767095271) | Pune                                                                (Hybrid) | On Site | Jan 22 |
 | Giftinguru | [React + TypeScript Developer (Hybrid)](https://internshala.com/internship/detail/react-typescript-developer-hybrid-internship-in-multiple-locations-at-giftinguru1768458406) | Delhi, Noida, Ghaziabad, Vasundhra                                                                (Hybrid) | On Site | Jan 22 |
 | Ramyoz | [React Native Developer](https://internshala.com/internship/detail/react-native-developer-internship-in-greater-noida-at-ramyoz1767329027) | Greater Noida | On Site | Jan 22 |
-| FinVise AI Tech Pvt Ltd | [Mobile App Developer (Flutter/React Native)](https://internshala.com/internship/detail/mobile-app-developer-flutter-react-native-internship-in-nagpur-at-finvise-ai-tech-pvt-ltd1768903793) | Nagpur | On Site | Jan 22 |
-| KioGo | [Full Stack Development](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-kiogo1768535847) | Remote | Remote | Jan 22 |
-| Amacle Studio | [Web Development](https://internshala.com/internship/detail/web-development-internship-in-jalandhar-at-amacle-studio1768196999) | Jalandhar | On Site | Jan 22 |
-| VHSMO LLP | [Mobile App Development](https://internshala.com/internship/detail/part-time-mobile-app-development-internship-in-pune-at-vhsmo-llp1768289771) | Pune                                                                (Hybrid) | On Site | Jan 22 |
