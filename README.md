@@ -15,8 +15,9 @@
 | Digital Heroes | [Senior Developer](https://internshala.com/internship/detail/part-time-senior-developer-internship-in-lucknow-at-digital-heroes1767328356) | Lucknow                                                                (Hybrid) | On Site | Jan 22 |
 | SelfCode Academy | [Web Development Course Developer](https://internshala.com/internship/detail/work-from-home-part-time-web-development-course-developer-internship-at-selfcode-academy1766818737) | Remote | Remote | Jan 22 |
 | N/A | [N/A](N/A) | N/A | On Site | Jan 22 |
-| Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Jan 22 |
 | AIMLEAP | [WordPress Developer  Intern ( 6 Months )](https://internshala.com/internship/detail/work-from-home-wordpress-developer-intern--6-months--internship-at-aimleap1768646288) | Remote | Remote | Jan 22 |
+| Matrix International | [Web Developer (WordPress + AI Tools)](https://internshala.com/internship/detail/web-developer-wordpress-ai-tools-internship-in-kolkata-at-matrix-international1766117901) | Kolkata | On Site | Jan 22 |
+| Codematics Solution LLP | [Junior Wordpress Developer](https://internshala.com/internship/detail/work-from-home-part-time-junior-wordpress-developer-internship-at-codematics-solution-llp1769085723) | Remote | Remote | Jan 22 |
 | Sekhon Home Services Private Limited | [Wix Platform Developer](https://internshala.com/internship/detail/work-from-home-part-time-wix-platform-developer-internship-at-sekhon-home-services-private-limited1768374681) | Remote | Remote | Jan 22 |
 | Farmdidi | [Zoho Creator Developer](https://internshala.com/internship/detail/zoho-creator-developer-internship-in-pune-at-farmdidi1768287875) | Pune | On Site | Jan 22 |
 | DigitalTrax - Creative Marketing Agency | [Website Developer(Wordpress/Shopify)](https://internshala.com/internship/detail/website-developerwordpress-shopify-internship-in-delhi-at-digitaltrax-creative-marketing-agency1768337658) | Delhi | On Site | Jan 22 |
@@ -30,7 +31,6 @@
 | ITGS Infotech Private Limited | [Business Consultant](https://internshala.com/internship/detail/business-consultant-internship-in-noida-at-itgs-infotech-private-limited1768199002) | Noida                                                                (Hybrid) | On Site | Jan 22 |
 | Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-associate-frontend-developer-framer-only-internship-at-better1767009298) | Remote | Remote | Jan 22 |
 | Joveo | [Backend Intern](https://internshala.com/internship/detail/backend-intern-internship-in-nanakramguda-at-joveo1767779529) | Nanakramguda | On Site | Jan 22 |
-| Qualyval | [NodeJs, Rust Developer](https://internshala.com/internship/detail/work-from-home-nodejs-rust-developer-internship-at-qualyval1766496461) | Remote | Remote | Jan 22 |
 | Medikloud | [Full Stack Intern](https://internshala.com/internship/detail/work-from-home-full-stack-intern-internship-at-medikloud1768736890) | Remote | Remote | Jan 22 |
 | Maxgen Technologies Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-ahmedabad-at-maxgen-technologies-private-limited1768236945) | Ahmedabad | On Site | Jan 22 |
 | Vibrantix Solutions Private Limited | [Full Stack Developer](https://internshala.com/internship/detail/full-stack-developer-internship-in-multiple-locations-at-vibrantix-solutions-pvt-ltd1766577773) | Pune, Bangalore                                                                (Hybrid) | On Site | Jan 22 |
