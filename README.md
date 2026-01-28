@@ -27,9 +27,7 @@
 | Kombai | [Developer Ambassador (Reddit-first, Remote)](https://internshala.com/internship/detail/work-from-home-part-time-developer-ambassador-reddit-first-remote-internship-at-kombai1767940920) | Remote | Remote | Jan 28 |
 | TSTEPS PRIVATE LIMITED | [Front End Web Developer](https://internshala.com/internship/detail/front-end-web-developer-internship-in-multiple-locations-at-tsteps-private-limited1766140724) | Kolkata, Hyderabad                                                                (Hybrid) | On Site | Jan 28 |
 | SYSCOM Incorporation | [Full Stack Web Developer (Remote/Hybrid)](https://internshala.com/internship/detail/work-from-home-part-time-full-stack-web-developer-remote-hybrid-internship-at-syscom-incorporation1768197904) | Remote | Remote | Jan 28 |
-| Mundada Builders & Developers | [Web Development](https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-mundada-builders-developers1768804046) | Jalgaon, Pune, Shirpur, Amalner, Nashik                                                                (Hybrid) | On Site | Jan 28 |
 | Sentient Industries Private Limited | [Electronics Engineering](https://internshala.com/internship/detail/electronics-engineering-internship-in-bangalore-at-sentient-industries-private-limited1768547846) | Bangalore | On Site | Jan 28 |
-| Better | [Associate Frontend Developer (Framer-Only)](https://internshala.com/internship/detail/work-from-home-associate-frontend-developer-framer-only-internship-at-better1767009298) | Remote | Remote | Jan 28 |
 | Joveo | [Backend Intern](https://internshala.com/internship/detail/backend-intern-internship-in-nanakramguda-at-joveo1767779529) | Nanakramguda | On Site | Jan 28 |
 | Zorvyn | [Backend Developer](https://internshala.com/internship/detail/work-from-home-backend-developer-internship-at-zorvyn1769575981) | Remote | Remote | Jan 28 |
 | Kraftshala | [Backend Developer](https://internshala.com/internship/detail/backend-developer-internship-in-delhi-at-kraftshala1769235757) | Delhi | On Site | Jan 28 |
@@ -48,3 +46,4 @@
 | KioGo | [Full Stack Development](https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-kiogo1768535847) | Remote | Remote | Jan 28 |
 | Amacle Studio | [Web Development](https://internshala.com/internship/detail/web-development-internship-in-jalandhar-at-amacle-studio1768196999) | Jalandhar | On Site | Jan 28 |
 | VHSMO LLP | [Mobile App Development](https://internshala.com/internship/detail/part-time-mobile-app-development-internship-in-pune-at-vhsmo-llp1768289771) | Pune                                                                (Hybrid) | On Site | Jan 28 |
+| Meteoros Automation | [Mobile App Development](https://internshala.com/internship/detail/mobile-app-development-internship-in-chennai-at-meteoros-automation1767096176) | Chennai                                                                (Hybrid) | On Site | Jan 28 |
